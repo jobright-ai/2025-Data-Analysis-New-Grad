@@ -1,5 +1,5 @@
 
-# Daily Intern Jobs in Data%20Analysis by Jobright.ai
+# Daily Intern Jobs in Data Analysis by Jobright.ai
 
 
 
@@ -99,8 +99,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa14?utm_campaign=Data%20Analysis&utm_source=1103)** | Iowa, United States | On Site | Aug 23 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa15?utm_campaign=Data%20Analysis&utm_source=1103)** | Wisconsin, United States | On Site | Aug 23 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa16?utm_campaign=Data%20Analysis&utm_source=1103)** | New Hampshire, United States | On Site | Aug 23 |
-| ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa17?utm_campaign=Data%20Analysis&utm_source=1103)** | California, United States | On Site | Aug 23 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa18?utm_campaign=Data%20Analysis&utm_source=1103)** | Utah, United States | On Site | Aug 23 |
+| ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa17?utm_campaign=Data%20Analysis&utm_source=1103)** | California, United States | On Site | Aug 23 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa19?utm_campaign=Data%20Analysis&utm_source=1103)** | Pennsylvania, United States | On Site | Aug 23 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa1a?utm_campaign=Data%20Analysis&utm_source=1103)** | Missouri, United States | On Site | Aug 23 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa1b?utm_campaign=Data%20Analysis&utm_source=1103)** | New Jersey, United States | On Site | Aug 23 |
