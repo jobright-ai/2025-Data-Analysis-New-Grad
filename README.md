@@ -57,8 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adobe](http://www.adobe.com)** | **[University Graduate - Data Scientist](https://jobright-internal.com/jobs/info/66d1224eb03415ec9f42dfc5?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Aug 29 |
+| **[Columbia](https://www.columbiacardiology.org)** | **[Research Assistant](https://jobright-internal.com/jobs/info/66cf771864786e060cc41f9b?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Aug 29 |
+| **[Amazon](https://amazon.com)** | **[Business Intelligence Engineer](https://jobright-internal.com/jobs/info/66d12c5b4536b7c8fc69c289?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX | On Site | Aug 29 |
+| **[UC Davis Health](https://health.ucdavis.edu)** | **[Data Systems Analyst 2](https://jobright-internal.com/jobs/info/66d1257ec676192e347ca38f?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento, CA | Hybrid | Aug 29 |
+| **[Radian](https://www.radian.com/)** | **[Data Scientist I - Hybrid](https://jobright-internal.com/jobs/info/66d1257ec676192e347ca530?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Aug 29 |
+| **[Bluebeam Software](http://www.bluebeam.com)** | **[Business Intelligence Analyst](https://jobright-internal.com/jobs/info/66d120eda4302bc86735374a?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Aug 29 |
+| **[General Dynamics Information Technology](http://www.gdit.com/)** | **[Junior Intelligence Analyst](https://jobright-internal.com/jobs/info/66d10e0fd843a5450881b548?utm_campaign=Data%20Analysis&utm_source=1103)** | Sterling, VA | On Site | Aug 29 |
+| **[Drexel University](http://drexel.edu)** | **[Research Coordinator](https://jobright-internal.com/jobs/info/66d11a86360781c7c8ca4dbb?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | Hybrid | Aug 29 |
+| **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Researcher](https://jobright-internal.com/jobs/info/66d11a86360781c7c8ca4db1?utm_campaign=Data%20Analysis&utm_source=1103)** | Madison, WI | On Site | Aug 29 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - Data Scientist](https://jobright-internal.com/jobs/info/66d0fb26975459bb58c0213a?utm_campaign=Data%20Analysis&utm_source=1103)** | McLean, VA | Hybrid | Aug 29 |
 | **[Fred Hutchinson](http://www.fredhutch.org/)** | **[Post-Doctoral Research Fellow](https://jobright-internal.com/jobs/info/66d0fc4d6e4f50456a641db1?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Aug 29 |
+| **[Compass Lexecon](http://www.compasslexecon.com)** | **[Analyst](https://jobright-internal.com/jobs/info/66d10ecd2b93633d3b153108?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | On Site | Aug 29 |
+| **[University of West Georgia](http://www.westga.edu)** | **[eCampus Data Analyst - Associate](https://jobright-internal.com/jobs/info/66d10ecd2b93633d3b153106?utm_campaign=Data%20Analysis&utm_source=1103)** | Carrollton, GA | On Site | Aug 29 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Data Analyst](https://jobright-internal.com/jobs/info/66d0f34a142c70a88003a9d1?utm_campaign=Data%20Analysis&utm_source=1103)** | Portland, OR | Hybrid | Aug 29 |
 | **[UCLA Health](https://uclahealth.org)** | **[Research Data Analyst](https://jobright-internal.com/jobs/info/66d0ffb817c3b5d77af43d59?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Aug 29 |
 | **[Visions Federal Credit Union](https://www.visionsfcu.org)** | **[Data Science Analyst](https://jobright-internal.com/jobs/info/66d0e9cc87bba50c7655737b?utm_campaign=Data%20Analysis&utm_source=1103)** | Endwell, NY | On Site | Aug 29 |
@@ -69,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Coders Data](https://codersdata.com/)** | **[Junior Data Analyst](https://jobright-internal.com/jobs/info/66d0cc706df78098fa17ae0b?utm_campaign=Data%20Analysis&utm_source=1103)** | Indiana, United States | On Site | Aug 29 |
 | **[Oak Ridge Associated Universities](https://www.orau.org/)** | **[Toxicology Data Support](https://jobright-internal.com/jobs/info/66d0db88505db71c77eae052?utm_campaign=Data%20Analysis&utm_source=1103)** | Triangle, NC | On Site | Aug 29 |
 | **[ASRT, Inc.](https://www.asrtinc.com)** | **[Bioinformatician I](https://jobright-internal.com/jobs/info/66c776b73fd63aeebbef33ca?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | On Site | Aug 29 |
-| **[Taylor Corporation](https://www.taylor.com/)** | **[Business Data Analyst I](https://jobright-internal.com/jobs/info/66d0e9cc87bba50c7655780c?utm_campaign=Data%20Analysis&utm_source=1103)** | CA | On Site | Aug 29 |
 | **[Q2 Lab Solutions](https://www.q2labsolutions.com)** | **[Associate Scientist](https://jobright-internal.com/jobs/info/66d0c435bc94c66ad983b2c2?utm_campaign=Data%20Analysis&utm_source=1103)** | Durham, NC | On Site | Aug 29 |
 | **[CSU Department of Economics](http://economics.colostate.edu/)** | **[Research Assistant](https://jobright-internal.com/jobs/info/66cd00798a5a61c251df3089?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Collins, CO | On Site | Aug 29 |
 | **[Noblis](http://www.noblis.org)** | **[Data Scientist](https://jobright-internal.com/jobs/info/66c8b6257db40a892463988f?utm_campaign=Data%20Analysis&utm_source=1103)** | Baltimore, MD | On Site | Aug 29 |
@@ -102,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[California Department Of Transportation](http://www.dot.ca.gov)** | **[Research Data Analyst II](https://jobright-internal.com/jobs/info/66d0f34a142c70a88003aee8?utm_campaign=Data%20Analysis&utm_source=1103)** | Marysville, CA | On Site | Aug 28 |
 | **[CoreWeave](https://www.coreweave.com)** | **[Data Scientist, Capacity](https://jobright-internal.com/jobs/info/66cfe150b2d3debbc7aa0f03?utm_campaign=Data%20Analysis&utm_source=1103)** | Roseland, NJ | Hybrid | Aug 28 |
 | **[PSU Industrial Engineering](https://www.ime.psu.edu/)** | **[Research Data Management Specialist](https://jobright-internal.com/jobs/info/66d07b0175f6ff5fffb05a13?utm_campaign=Data%20Analysis&utm_source=1103)** | Penn State University Park | Hybrid | Aug 28 |
+| **[Takeda](http://www.takeda.com)** | **[Analytics Leadership Development Program](https://jobright-internal.com/jobs/info/66d115f85707edd23f89c3e5?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | On Site | Aug 28 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Associate (Data Analytics)](https://jobright-internal.com/jobs/info/66cfb43f806f18a8e5b68651?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Aug 28 |
 | ↳ | **[Associate (Data Analytics)](https://jobright-internal.com/jobs/info/66cfb43f806f18a8e5b68895?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Aug 28 |
 | ↳ | **[Associate (Data Analytics)](https://jobright-internal.com/jobs/info/66cfb43f806f18a8e5b68898?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | Hybrid | Aug 28 |
@@ -117,12 +128,11 @@ For a complete list, click the following sortable link below:
 | **[The Peterson Institute for International Economics](http://piie.com)** | **[Research Analyst Program](https://jobright-internal.com/jobs/info/66cf81e9e56e456d777782ef?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | Hybrid | Aug 28 |
 | **[McKesson](http://www.mckesson.com)** | **[Scientific Data Analyst](https://jobright-internal.com/jobs/info/66cf74cbc950cd6f6533f86f?utm_campaign=Data%20Analysis&utm_source=1103)** | Texas, United States | On Site | Aug 28 |
 | **[London Stock Exchange Group](http://www.lseg.com)** | **[Fixed Income Data Analyst](https://jobright-internal.com/jobs/info/66cf7ae55ef1d8c2ddfc4f9c?utm_campaign=Data%20Analysis&utm_source=1103)** | Buffalo, NY | On Site | Aug 28 |
-| **[Columbia](https://www.columbiacardiology.org)** | **[Research Assistant](https://jobright-internal.com/jobs/info/66cf771864786e060cc41f9b?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Aug 28 |
 | **[Digitas North America](https://www.digitas.com/)** | **[Analyst, Media Technology](https://jobright-internal.com/jobs/info/66cf699e87f77fb9ef9e8b00?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Aug 28 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[Quantitative Analytics Specialist](https://jobright-internal.com/jobs/info/66cf6532d6c1e2d3a541f665?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Aug 28 |
 | **[Q2 Lab Solutions](https://www.q2labsolutions.com)** | **[Associate Scientist](https://jobright-internal.com/jobs/info/66cf8476c8a3af72d31328e9?utm_campaign=Data%20Analysis&utm_source=1103)** | Durham, NC | On Site | Aug 28 |
 | **[California Department of Public Health](http://www.cdph.ca.gov)** | **[Research Scientist II (Epidemiology/Biostatistics)](https://jobright-internal.com/jobs/info/66cf79b06d82c20de0988ae6?utm_campaign=Data%20Analysis&utm_source=1103)** | Richmond, CA | Hybrid | Aug 28 |
-| **[Tesla](https://www.tesla.com)** | **[Data Collection Operator](https://jobright-internal.com/jobs/info/66cf2188f51019b886174c03?utm_campaign=Data%20Analysis&utm_source=1103)** | Palo Alto, CA | On Site | Aug 28 |
+| **[Tesla](https://www.tesla.com)** | **[Data Collection Operator](https://jobright-internal.com/jobs/info/66cf8d70bba3402f054bae67?utm_campaign=Data%20Analysis&utm_source=1103)** | Palo Alto, CA | On Site | Aug 28 |
 | **[Netbase Quid](https://netbasequid.com)** | **[Associate Insights Analyst](https://jobright-internal.com/jobs/info/66969d847088fa19cac8c5c6?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Aug 28 |
 | **[Medpace](http://www.medpace.com)** | **[Biostatistician I](https://jobright-internal.com/jobs/info/669647906eb71b21fb140c25?utm_campaign=Data%20Analysis&utm_source=1103)** | Irving, TX | Hybrid | Aug 28 |
 | **[BCG X](https://www.bcg.com/x)** | **[Data Scientist](https://jobright-internal.com/jobs/info/66b2a739ab84555e935850ef?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Aug 28 |
@@ -134,8 +144,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66b2a739ab84555e935850f0?utm_campaign=Data%20Analysis&utm_source=1103)** | Manhattan Beach, CA | On Site | Aug 28 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66b2a739ab84555e93584c5c?utm_campaign=Data%20Analysis&utm_source=1103)** | Dallas, TX | On Site | Aug 28 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66b2a739ab84555e935850e8?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | On Site | Aug 28 |
-| ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66b2a739ab84555e935850ea?utm_campaign=Data%20Analysis&utm_source=1103)** | Pittsburgh, PA | On Site | Aug 28 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66b2a739ab84555e935850e2?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Aug 28 |
+| ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66b2a739ab84555e935850ea?utm_campaign=Data%20Analysis&utm_source=1103)** | Pittsburgh, PA | On Site | Aug 28 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c47240df979158cc3d3a73?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Aug 28 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66b2a739ab84555e935850ed?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Aug 28 |
 | **[University of Southern California](http://www.usc.edu)** | **[Postdoctoral Scholar - Research Associate](https://jobright-internal.com/jobs/info/66cf106e61c30a0f71e35ad4?utm_campaign=Data%20Analysis&utm_source=1103)** | LA Metro Area | On Site | Aug 28 |
@@ -161,23 +171,23 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist I - Remote](https://jobright-internal.com/jobs/info/66cfc123aa87f355f3d7b9f5?utm_campaign=Data%20Analysis&utm_source=1103)** | Olympia, WA | Remote | Aug 27 |
 | ↳ | **[Data Scientist I - Remote](https://jobright-internal.com/jobs/info/66cfc123aa87f355f3d7ba7d?utm_campaign=Data%20Analysis&utm_source=1103)** | Honolulu, HI | Remote | Aug 27 |
 | ↳ | **[Data Scientist I - Remote](https://jobright-internal.com/jobs/info/66cfc123aa87f355f3d7ba81?utm_campaign=Data%20Analysis&utm_source=1103)** | Cheyenne, WY | Remote | Aug 27 |
-| ↳ | **[Data Scientist I - Remote](https://jobright-internal.com/jobs/info/66cfc123aa87f355f3d7ba83?utm_campaign=Data%20Analysis&utm_source=1103)** | St Paul, MN | Remote | Aug 27 |
-| ↳ | **[Data Scientist I - Remote](https://jobright-internal.com/jobs/info/66cfc123aa87f355f3d7b9f8?utm_campaign=Data%20Analysis&utm_source=1103)** | Miami, FL | Remote | Aug 27 |
-| ↳ | **[Data Scientist I - Remote](https://jobright-internal.com/jobs/info/66cfc123aa87f355f3d7ba89?utm_campaign=Data%20Analysis&utm_source=1103)** | Madison, WI | Remote | Aug 27 |
-| ↳ | **[Data Scientist I - Remote](https://jobright-internal.com/jobs/info/66cfc123aa87f355f3d7ba87?utm_campaign=Data%20Analysis&utm_source=1103)** | Boise, ID | Remote | Aug 27 |
 | ↳ | **[Data Scientist I - Remote](https://jobright-internal.com/jobs/info/66cfc123aa87f355f3d7ba85?utm_campaign=Data%20Analysis&utm_source=1103)** | Topeka, KS | Remote | Aug 27 |
 | ↳ | **[Data Scientist I - Remote](https://jobright-internal.com/jobs/info/66cfc123aa87f355f3d7ba88?utm_campaign=Data%20Analysis&utm_source=1103)** | Helena, MT | Remote | Aug 27 |
-| ↳ | **[Data Scientist I - Remote](https://jobright-internal.com/jobs/info/66cfc123aa87f355f3d7ba8a?utm_campaign=Data%20Analysis&utm_source=1103)** | Bismarck, ND | Remote | Aug 27 |
-| ↳ | **[Data Scientist I - Remote](https://jobright-internal.com/jobs/info/66cfc123aa87f355f3d7ba8e?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | Remote | Aug 27 |
+| ↳ | **[Data Scientist I - Remote](https://jobright-internal.com/jobs/info/66cfc123aa87f355f3d7b9f8?utm_campaign=Data%20Analysis&utm_source=1103)** | Miami, FL | Remote | Aug 27 |
+| ↳ | **[Data Scientist I - Remote](https://jobright-internal.com/jobs/info/66cfc123aa87f355f3d7ba87?utm_campaign=Data%20Analysis&utm_source=1103)** | Boise, ID | Remote | Aug 27 |
+| ↳ | **[Data Scientist I - Remote](https://jobright-internal.com/jobs/info/66cfc123aa87f355f3d7ba89?utm_campaign=Data%20Analysis&utm_source=1103)** | Madison, WI | Remote | Aug 27 |
+| ↳ | **[Data Scientist I - Remote](https://jobright-internal.com/jobs/info/66cfc123aa87f355f3d7ba83?utm_campaign=Data%20Analysis&utm_source=1103)** | St Paul, MN | Remote | Aug 27 |
 | ↳ | **[Data Scientist I - Remote](https://jobright-internal.com/jobs/info/66cfc123aa87f355f3d7ba90?utm_campaign=Data%20Analysis&utm_source=1103)** | Santa Fe, NM | Remote | Aug 27 |
-| ↳ | **[Data Scientist I - Remote](https://jobright-internal.com/jobs/info/66cfc123aa87f355f3d7ba8c?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Remote | Aug 27 |
+| ↳ | **[Data Scientist I - Remote](https://jobright-internal.com/jobs/info/66cfc123aa87f355f3d7ba8e?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | Remote | Aug 27 |
+| ↳ | **[Data Scientist I - Remote](https://jobright-internal.com/jobs/info/66cfc123aa87f355f3d7ba8a?utm_campaign=Data%20Analysis&utm_source=1103)** | Bismarck, ND | Remote | Aug 27 |
 | ↳ | **[Data Scientist I - Remote](https://jobright-internal.com/jobs/info/66cfc123aa87f355f3d7ba8b?utm_campaign=Data%20Analysis&utm_source=1103)** | Jackson, MS | Remote | Aug 27 |
-| ↳ | **[Data Scientist I - Remote](https://jobright-internal.com/jobs/info/66cfc123aa87f355f3d7ba93?utm_campaign=Data%20Analysis&utm_source=1103)** | Columbia, SC | Remote | Aug 27 |
+| ↳ | **[Data Scientist I - Remote](https://jobright-internal.com/jobs/info/66cfc123aa87f355f3d7ba8c?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Remote | Aug 27 |
 | ↳ | **[Data Scientist I - Remote](https://jobright-internal.com/jobs/info/66cfc123aa87f355f3d7ba92?utm_campaign=Data%20Analysis&utm_source=1103)** | Indianapolis, IN | Remote | Aug 27 |
+| ↳ | **[Data Scientist I - Remote](https://jobright-internal.com/jobs/info/66cfc123aa87f355f3d7ba93?utm_campaign=Data%20Analysis&utm_source=1103)** | Columbia, SC | Remote | Aug 27 |
 | ↳ | **[Data Scientist I - Remote](https://jobright-internal.com/jobs/info/66cfc123aa87f355f3d7ba9b?utm_campaign=Data%20Analysis&utm_source=1103)** | Montgomery, AL | Remote | Aug 27 |
+| ↳ | **[Data Scientist I - Remote](https://jobright-internal.com/jobs/info/66cfc123aa87f355f3d7ba99?utm_campaign=Data%20Analysis&utm_source=1103)** | Pierre, SD | Remote | Aug 27 |
 | ↳ | **[Data Scientist I - Remote](https://jobright-internal.com/jobs/info/66cfc123aa87f355f3d7ba9a?utm_campaign=Data%20Analysis&utm_source=1103)** | Gu Oidak, AZ | Remote | Aug 27 |
 | ↳ | **[Data Scientist I - Remote](https://jobright-internal.com/jobs/info/66cfc123aa87f355f3d7ba97?utm_campaign=Data%20Analysis&utm_source=1103)** | Juneau, AK | Remote | Aug 27 |
-| ↳ | **[Data Scientist I - Remote](https://jobright-internal.com/jobs/info/66cfc123aa87f355f3d7ba99?utm_campaign=Data%20Analysis&utm_source=1103)** | Pierre, SD | Remote | Aug 27 |
 | **[Washington Group International](https://wsu.edu/)** | **[Sleep Research Assistant](https://jobright-internal.com/jobs/info/66cfc5acbb3c823d8e4dfdf3?utm_campaign=Data%20Analysis&utm_source=1103)** | Spokane, WA | On Site | Aug 27 |
 | **[United Talent Agency](http://www.unitedtalent.com)** | **[Assistant, UTA Creators (Data Analytics)](https://jobright-internal.com/jobs/info/66cfcaa44ac79963e276e92f?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Aug 27 |
 | **[Johns Hopkins Applied Physics Lab](http://jhuapl.edu/)** | **[Signals Intelligence Systems Analyst](https://jobright-internal.com/jobs/info/66ce740eae6d77d046fcd2f0?utm_campaign=Data%20Analysis&utm_source=1103)** | Norfolk, VA | On Site | Aug 27 |
@@ -203,8 +213,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Reporting & Dashboard Analyst](https://jobright-internal.com/jobs/info/66ce3b3755b59a33c4061158?utm_campaign=Data%20Analysis&utm_source=1103)** | Houston, TX | On Site | Aug 27 |
 | ↳ | **[Reporting & Dashboard Analyst](https://jobright-internal.com/jobs/info/66ce3b3755b59a33c4061159?utm_campaign=Data%20Analysis&utm_source=1103)** | St Louis, MO | On Site | Aug 27 |
 | ↳ | **[Reporting & Dashboard Analyst](https://jobright-internal.com/jobs/info/66ce34ce19cb0574dd40362e?utm_campaign=Data%20Analysis&utm_source=1103)** | Milwaukee, WI | On Site | Aug 27 |
-| ↳ | **[Reporting & Dashboard Analyst](https://jobright-internal.com/jobs/info/66ce34ce19cb0574dd403630?utm_campaign=Data%20Analysis&utm_source=1103)** | Omaha, NE | On Site | Aug 27 |
 | ↳ | **[Reporting & Dashboard Analyst](https://jobright-internal.com/jobs/info/66ce34ce19cb0574dd40362f?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Aug 27 |
+| ↳ | **[Reporting & Dashboard Analyst](https://jobright-internal.com/jobs/info/66ce34ce19cb0574dd403630?utm_campaign=Data%20Analysis&utm_source=1103)** | Omaha, NE | On Site | Aug 27 |
 | ↳ | **[Reporting & Dashboard Analyst](https://jobright-internal.com/jobs/info/66ce34ce19cb0574dd403631?utm_campaign=Data%20Analysis&utm_source=1103)** | Dallas, TX | On Site | Aug 27 |
 | ↳ | **[Reporting & Dashboard Analyst](https://jobright-internal.com/jobs/info/66ce34ce19cb0574dd403632?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | On Site | Aug 27 |
 | ↳ | **[Reporting & Dashboard Analyst](https://jobright-internal.com/jobs/info/66ce2e0099cc15dd82089464?utm_campaign=Data%20Analysis&utm_source=1103)** | Chattanooga, TN | On Site | Aug 27 |
@@ -274,13 +284,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Statistician I](https://jobright-internal.com/jobs/info/66ccbbf9c638b1334063693e?utm_campaign=Data%20Analysis&utm_source=1103)** | Tampa, FL | On Site | Aug 26 |
 | **[Georgetown University](http://www.georgetown.edu)** | **[Research Associate](https://jobright-internal.com/jobs/info/66ccbe3e2b2c8cc8cd8ad1b1?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | On Site | Aug 26 |
 | **[InVitro Cell Research](https://www.invitrocellresearch.com)** | **[Associate Data Scientist](https://jobright-internal.com/jobs/info/66ccac97402f30d747cb6dc4?utm_campaign=Data%20Analysis&utm_source=1103)** | NYC Metro Area | On Site | Aug 26 |
-| **[Chubb](https://www.chubb.com/us-en)** | **[Data Scientist](https://jobright-internal.com/jobs/info/66d08f5fa2eeb81b2b923752?utm_campaign=Data%20Analysis&utm_source=1103)** | Whitehouse Station, NJ | On Site | Aug 26 |
 | **[American Electric Power](http://aep.com)** | **[Data Scientist Assc (Statistician)](https://jobright-internal.com/jobs/info/66cca8b8c97ea612a12acc7a?utm_campaign=Data%20Analysis&utm_source=1103)** | Columbus, OH | Hybrid | Aug 26 |
 | **[CertiK](https://www.certik.com/)** | **[Crypto Analyst](https://jobright-internal.com/jobs/info/6676c69b807f31af72077533?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Aug 26 |
 | **[Institute for Defense Analyses](https://www.ida.org)** | **[Research Analyst - Entry-Level PhD](https://jobright-internal.com/jobs/info/66b061802636a9d45b3302eb?utm_campaign=Data%20Analysis&utm_source=1103)** | Alexandria, VA | On Site | Aug 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Content Quality Analyst](https://jobright-internal.com/jobs/info/66b0bd91121a630478c7e2ec?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | Hybrid | Aug 26 |
 | **[Gartner](http://www.gartner.com)** | **[Associate Data Scientist](https://jobright-internal.com/jobs/info/66bb5d8067d32c3b44472107?utm_campaign=Data%20Analysis&utm_source=1103)** | Stamford, CT | Hybrid | Aug 26 |
-| **[Chubb](https://www.chubb.com/us-en)** | **[Data Scientist](https://jobright-internal.com/jobs/info/66cf00a74249c4b55c2ac960?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | On Site | Aug 26 |
 | **[Neuberger Berman](http://www.nb.com)** | **[Client Data Analyst](https://jobright-internal.com/jobs/info/66cc1db206b740d9a697641e?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Aug 25 |
 | **[California Department Of Transportation](http://www.dot.ca.gov)** | **[Research Data Specialist III](https://jobright-internal.com/jobs/info/66cd09295b3d415f76adcb21?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento County, CA | On Site | Aug 25 |
 | **[Rhombus Systems](https://www.rhombussystems.com)** | **[Data Scientist](https://jobright-internal.com/jobs/info/66cbdf67d572c1494accc1be?utm_campaign=Data%20Analysis&utm_source=1103)** | St Louis, MO | On Site | Aug 25 |
@@ -299,7 +307,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66cf3dfaf324189025a3c2dd?utm_campaign=Data%20Analysis&utm_source=1103)** | Rhode Island, United States | On Site | Aug 24 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66cf367292536bb86a8190c9?utm_campaign=Data%20Analysis&utm_source=1103)** | Kansas, United States | On Site | Aug 24 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66d0ac20dd905e86add53285?utm_campaign=Data%20Analysis&utm_source=1103)** | Michigan, United States | On Site | Aug 24 |
-| ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66cf367292536bb86a8190d1?utm_campaign=Data%20Analysis&utm_source=1103)** | Utah, United States | On Site | Aug 24 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66cf367292536bb86a8190d0?utm_campaign=Data%20Analysis&utm_source=1103)** | Florida, United States | On Site | Aug 24 |
 | **[University of California, San Francisco](http://www.ucsf.edu)** | **[Research Data Analyst](https://jobright-internal.com/jobs/info/66c74d8ab557d502b3d8ff92?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Aug 24 |
 | **[Microsoft](https://www.microsoft.com)** | **[Data Scientist](https://jobright-internal.com/jobs/info/66cf28adc40029d3d3bed37b?utm_campaign=Data%20Analysis&utm_source=1103)** | New Jersey, United States | On Site | Aug 24 |
@@ -336,24 +343,23 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa16?utm_campaign=Data%20Analysis&utm_source=1103)** | New Hampshire, United States | On Site | Aug 23 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa19?utm_campaign=Data%20Analysis&utm_source=1103)** | Pennsylvania, United States | On Site | Aug 23 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa1d?utm_campaign=Data%20Analysis&utm_source=1103)** | Kentucky, United States | On Site | Aug 23 |
-| ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa21?utm_campaign=Data%20Analysis&utm_source=1103)** | Colorado, United States | On Site | Aug 23 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa23?utm_campaign=Data%20Analysis&utm_source=1103)** | North Dakota, United States | On Site | Aug 23 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa24?utm_campaign=Data%20Analysis&utm_source=1103)** | Tennessee, United States | On Site | Aug 23 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa2d?utm_campaign=Data%20Analysis&utm_source=1103)** | Arizona, United States | On Site | Aug 23 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa2e?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | On Site | Aug 23 |
 | **[Children’s Hospital Los Angeles](http://www.chla.org/)** | **[Research Assistant](https://jobright-internal.com/jobs/info/66c91320afd1cdf31b06c359?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Aug 23 |
 | **[Microsoft](https://www.microsoft.com)** | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa33?utm_campaign=Data%20Analysis&utm_source=1103)** | Mississippi, United States | On Site | Aug 23 |
-| ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa31?utm_campaign=Data%20Analysis&utm_source=1103)** | Nevada, United States | On Site | Aug 23 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa30?utm_campaign=Data%20Analysis&utm_source=1103)** | Wyoming, United States | On Site | Aug 23 |
-| ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa36?utm_campaign=Data%20Analysis&utm_source=1103)** | Montana, United States | On Site | Aug 23 |
+| ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa31?utm_campaign=Data%20Analysis&utm_source=1103)** | Nevada, United States | On Site | Aug 23 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa35?utm_campaign=Data%20Analysis&utm_source=1103)** | South Dakota, United States | On Site | Aug 23 |
+| ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa36?utm_campaign=Data%20Analysis&utm_source=1103)** | Montana, United States | On Site | Aug 23 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa37?utm_campaign=Data%20Analysis&utm_source=1103)** | Vermont, United States | On Site | Aug 23 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa3a?utm_campaign=Data%20Analysis&utm_source=1103)** | Arkansas, United States | On Site | Aug 23 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa3c?utm_campaign=Data%20Analysis&utm_source=1103)** | South Carolina, United States | On Site | Aug 23 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa3e?utm_campaign=Data%20Analysis&utm_source=1103)** | North Carolina, United States | On Site | Aug 23 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa3f?utm_campaign=Data%20Analysis&utm_source=1103)** | Massachusetts, United States | On Site | Aug 23 |
-| ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa40?utm_campaign=Data%20Analysis&utm_source=1103)** | Georgia, United States | On Site | Aug 23 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa41?utm_campaign=Data%20Analysis&utm_source=1103)** | Louisiana, United States | On Site | Aug 23 |
+| ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa40?utm_campaign=Data%20Analysis&utm_source=1103)** | Georgia, United States | On Site | Aug 23 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa43?utm_campaign=Data%20Analysis&utm_source=1103)** | Idaho, United States | On Site | Aug 23 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa44?utm_campaign=Data%20Analysis&utm_source=1103)** | West Virginia, United States | On Site | Aug 23 |
 | ↳ | **[Data Scientist](https://jobright-internal.com/jobs/info/66c94ce4f8dc8827bd67fa46?utm_campaign=Data%20Analysis&utm_source=1103)** | Maine, United States | On Site | Aug 23 |
@@ -376,14 +382,4 @@ For a complete list, click the following sortable link below:
 | **[AAA](https://www.aaa.com/International/)** | **[Travel Business and Data Analyst](https://jobright-internal.com/jobs/info/66cdd554142525e6b62a94b3?utm_campaign=Data%20Analysis&utm_source=1103)** | Greater Jackson, MI Area | Hybrid | Aug 23 |
 | **[Paradigm Senior Services](https://paradigmseniors.com)** | **[Strategist](https://jobright-internal.com/jobs/info/66d06f0dd25d3c82b1773153?utm_campaign=Data%20Analysis&utm_source=1103)** | Miami, FL | On Site | Aug 23 |
 | **[Microsoft](https://www.microsoft.com)** | **[Data Scientist](https://jobright-internal.com/jobs/info/66cf012980b2dbec1daa2e1e?utm_campaign=Data%20Analysis&utm_source=1103)** | Redmond, WA | On Site | Aug 23 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Science Graduate](https://jobright-internal.com/jobs/info/66ae360b8ffbb48a1c6e8642?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Aug 23 |
-| **[DaVita](http://www.davita.com)** | **[Analyst, Home Modalities](https://jobright-internal.com/jobs/info/66b3890d6d67103b83b124f9?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, CO | On Site | Aug 23 |
-| **[Epsilon](https://www.epsilon.com/us)** | **[Data Analyst](https://jobright-internal.com/jobs/info/66b64ffe157c49d41227d25a?utm_campaign=Data%20Analysis&utm_source=1103)** | Irvine, CA | On Site | Aug 23 |
-| **[NYU Langone Health](https://nyulangone.org/)** | **[Associate Research Coordinator](https://jobright-internal.com/jobs/info/66c8626bf7155ef72a23fe79?utm_campaign=Data%20Analysis&utm_source=1103)** | Mineola, NY | On Site | Aug 23 |
-| **[Tatari](https://www.tatari.tv/)** | **[Data Quality Analyst I](https://jobright-internal.com/jobs/info/66c4aad2327b4a85f0cb0b67?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Aug 23 |
-| ↳ | **[Data Quality Analyst I](https://jobright-internal.com/jobs/info/66c867d61232180e28a6e856?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Aug 23 |
-| ↳ | **[Data Quality Analyst I](https://jobright-internal.com/jobs/info/6690598df6b922c3462cae5e?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Aug 23 |
-| **[Northwestern University](https://www.northwestern.edu)** | **[Research Analyst](https://jobright-internal.com/jobs/info/667714013ab189f6697e95cb?utm_campaign=Data%20Analysis&utm_source=1103)** | Evanston, IL | Hybrid | Aug 23 |
-| **[Baptist Health South Florida](http://baptisthealth.net/)** | **[Certified Oncology Data Specialist](https://jobright-internal.com/jobs/info/66c8572236a2df88d7b793a3?utm_campaign=Data%20Analysis&utm_source=1103)** | Miami, FL | On Site | Aug 23 |
-| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Post Doctoral Fellow - Digital Health & Therapeutics in Mental Health](https://jobright-internal.com/jobs/info/66ac20a4ed5fab398c720f2e?utm_campaign=Data%20Analysis&utm_source=1103)** | Ridgefield, CT | On Site | Aug 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
