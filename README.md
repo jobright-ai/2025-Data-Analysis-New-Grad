@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MindShare](http://www.mindshareworld.com)** | **[Manager, Business Intelligence](https://jobright-internal.com/jobs/info/66f4d945338a412e9149186a?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Sep 25 |
 | **[Northwest Center](http://nwcenterfoundation.org/)** | **[Junior Data Analyst](https://jobright-internal.com/jobs/info/66f4c8cc9addd2508018a7b0?utm_campaign=Data%20Analysis&utm_source=1103)** | Renton, WA | On Site | Sep 25 |
 | **[Neiman Marcus Group](https://www.neimanmarcusgroup.com)** | **[Tableau Analyst](https://jobright-internal.com/jobs/info/66f4b617a1003749c95c64ae?utm_campaign=Data%20Analysis&utm_source=1103)** | Dallas, TX | On Site | Sep 25 |
 | **[California Department of Public Health](http://www.cdph.ca.gov)** | **[Research Scientist II (Epidemiology/Biostatistics)](https://jobright-internal.com/jobs/info/66f4ab21a147fb7c699f0821?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento, CA | Hybrid | Sep 25 |
@@ -179,7 +180,6 @@ For a complete list, click the following sortable link below:
 | **[TELUS International](https://www.telusinternational.com)** | **[Geo Data Evaluator - Catalan](https://jobright-internal.com/jobs/info/66e971e7ff65455ec438e100?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Sep 22 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Analyst](https://jobright-internal.com/jobs/info/6677d29b97271e26801e3098?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | Hybrid | Sep 22 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Research Analyst](https://jobright-internal.com/jobs/info/66e046a3b35724d1f0b73a3a?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 22 |
-| **[University of Illinois Chicago](https://uic.edu)** | **[Data Analyst - Office of the Vice Chancellor for Advancement](https://jobright-internal.com/jobs/info/66ef1aa2332bde25e300acac?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Sep 21 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Research Data Associate - Pediatrics Oncology](https://jobright-internal.com/jobs/info/66eda444f931b156b68ae9e9?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 21 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Discover Analyst Program](https://jobright-internal.com/jobs/info/66d270df47b0402c99b11684?utm_campaign=Data%20Analysis&utm_source=1103)** | Richmond, VA | Hybrid | Sep 21 |
 | ↳ | **[Discover Analyst Program January 2025](https://jobright-internal.com/jobs/info/66d270df47b0402c99b11678?utm_campaign=Data%20Analysis&utm_source=1103)** | Richmond, VA | Hybrid | Sep 21 |
@@ -240,11 +240,4 @@ For a complete list, click the following sortable link below:
 | **[ALTEN Technology USA](https://altenusa.com/)** | **[Data Analyst](https://jobright-internal.com/jobs/info/66ec75ce7595622cc7891378?utm_campaign=Data%20Analysis&utm_source=1103)** | Troy, MI | On Site | Sep 19 |
 | **[Noblis](http://www.noblis.org)** | **[Cleared Data Scientist (All Levels)](https://jobright-internal.com/jobs/info/66ec6856e643fd87b6c5d869?utm_campaign=Data%20Analysis&utm_source=1103)** | Chantilly, VA | On Site | Sep 19 |
 | ↳ | **[Junior Intelligence Analyst](https://jobright-internal.com/jobs/info/66ec6856e643fd87b6c5d883?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | On Site | Sep 19 |
-| **[Accenture Federal Services](https://www.accenture.com)** | **[Data Scientist](https://jobright-internal.com/jobs/info/66c7babeb58997a29801f3b5?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlottesville, VA | On Site | Sep 19 |
-| **[Delta Capita](http://deltacapita.com/)** | **[KYC Analyst/Senior Analyst](https://jobright-internal.com/jobs/info/66e1a276d06428e59804fce4?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Sep 19 |
-| **[Delaware Nation Industries.](https://dnigov.com/)** | **[Program Data Analyst](https://jobright-internal.com/jobs/info/66ec5e5f7383e82e9b6e83da?utm_campaign=Data%20Analysis&utm_source=1103)** | Arlington, VA | Hybrid | Sep 19 |
-| **[Accenture Federal Services](https://www.accenture.com)** | **[Imagery Analyst](https://jobright-internal.com/jobs/info/66759fa186a9490f868bb2bf?utm_campaign=Data%20Analysis&utm_source=1103)** | St Louis, MO | On Site | Sep 19 |
-| **[Dataiku](http://www.dataiku.com)** | **[Data Scientist - Talent Pool](https://jobright-internal.com/jobs/info/66a825e06aed007a84bbb3bd?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | Hybrid | Sep 19 |
-| **[University of Utah](http://utah.edu)** | **[Biostatistician II](https://jobright-internal.com/jobs/info/66ec24d935608c9c07cc137f?utm_campaign=Data%20Analysis&utm_source=1103)** | Salt Lake City, UT | On Site | Sep 19 |
-| **[Salt Lake City Government](https://www.slc.gov)** | **[Data Analyst I - SLCPD](https://jobright-internal.com/jobs/info/66ec2179deb59abb866ef028?utm_campaign=Data%20Analysis&utm_source=1103)** | SLC Metro Area | Hybrid | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
