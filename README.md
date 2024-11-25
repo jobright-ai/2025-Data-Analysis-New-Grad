@@ -69,14 +69,14 @@ For a complete list, click the following sortable link below:
 | **[Flexcar](https://www.flexcar.com)** | **[Decision Scientist/Risk Modeler](https://jobright.ai/jobs/info/6741cafd1cf63e5570c846fe?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | On Site | Nov 23 |
 | **[New American Funding](https://www.newamericanfunding.com)** | **[Report Developer -1](https://jobright.ai/jobs/info/6709d93088f13f3637f365d3?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Nov 23 |
 | **[University of Washington](http://www.washington.edu)** | **[RESEARCH COORDINATOR](https://jobright.ai/jobs/info/6741bf84981b88b3ae7e6df7?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | Hybrid | Nov 23 |
-| **[Accenture](https://www.accenture.com)** | **[Epic Cupid Analyst](https://jobright.ai/jobs/info/674239ae66884ce1ded1bf20?utm_campaign=Data%20Analysis&utm_source=1103)** | FL - St. Petersburg | On Site | Nov 22 |
-| ↳ | **[Epic Cupid Analyst](https://jobright.ai/jobs/info/674239ae66884ce1ded1bf09?utm_campaign=Data%20Analysis&utm_source=1103)** | TX - Irving | On Site | Nov 22 |
-| ↳ | **[Epic Cupid Analyst](https://jobright.ai/jobs/info/674239ae66884ce1ded1bf21?utm_campaign=Data%20Analysis&utm_source=1103)** | TN - Nashville | On Site | Nov 22 |
+| **[Accenture](https://www.accenture.com)** | **[Epic Cupid Analyst](https://jobright.ai/jobs/info/674239ae66884ce1ded1bf09?utm_campaign=Data%20Analysis&utm_source=1103)** | TX - Irving | On Site | Nov 22 |
+| ↳ | **[Epic Cupid Analyst](https://jobright.ai/jobs/info/674239ae66884ce1ded1bf20?utm_campaign=Data%20Analysis&utm_source=1103)** | FL - St. Petersburg | On Site | Nov 22 |
 | ↳ | **[Epic Cupid Analyst](https://jobright.ai/jobs/info/674239ae66884ce1ded1bf1f?utm_campaign=Data%20Analysis&utm_source=1103)** | GA - Atlanta | On Site | Nov 22 |
+| ↳ | **[Epic Cupid Analyst](https://jobright.ai/jobs/info/674239ae66884ce1ded1bf21?utm_campaign=Data%20Analysis&utm_source=1103)** | TN - Nashville | On Site | Nov 22 |
+| ↳ | **[Epic HIM (Health Information Management) Analyst](https://jobright.ai/jobs/info/674232eaa52416f5e0f085c6?utm_campaign=Data%20Analysis&utm_source=1103)** | FL - St. Petersburg | On Site | Nov 22 |
 | ↳ | **[Epic HIM (Health Information Management) Analyst](https://jobright.ai/jobs/info/674232eaa52416f5e0f085c7?utm_campaign=Data%20Analysis&utm_source=1103)** | TN - Nashville | On Site | Nov 22 |
 | ↳ | **[Epic HIM (Health Information Management) Analyst](https://jobright.ai/jobs/info/674232eaa52416f5e0f085bd?utm_campaign=Data%20Analysis&utm_source=1103)** | GA - Atlanta | On Site | Nov 22 |
 | ↳ | **[Epic HIM (Health Information Management) Analyst](https://jobright.ai/jobs/info/674232eaa52416f5e0f085c5?utm_campaign=Data%20Analysis&utm_source=1103)** | TX - Irving | On Site | Nov 22 |
-| ↳ | **[Epic HIM (Health Information Management) Analyst](https://jobright.ai/jobs/info/674232eaa52416f5e0f085c6?utm_campaign=Data%20Analysis&utm_source=1103)** | FL - St. Petersburg | On Site | Nov 22 |
 | **[California Department of Health Care Services](https://www.dhcs.ca.gov)** | **[Targeted Rate Increase Data Specialist (Hybrid Option)](https://jobright.ai/jobs/info/674175547ed0b5a64da94f07?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento, CA | Hybrid | Nov 22 |
 | **[FCC / FAC](https://www.fcc-fac.ca/en.html)** | **[Technical Analyst (Bilingual)](https://jobright.ai/jobs/info/67415c95f500b2ebbbde49a4?utm_campaign=Data%20Analysis&utm_source=1103)** | May, MO | Hybrid | Nov 22 |
 | **[Fred Hutch](http://www.fredhutch.org/)** | **[Post-Doctoral Research Fellow (Temporary)](https://jobright.ai/jobs/info/67413ca51c2c3822c13e0e02?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Nov 22 |
@@ -96,87 +96,87 @@ For a complete list, click the following sortable link below:
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfc5?utm_campaign=Data%20Analysis&utm_source=1103)** | Connecticut, United States | On Site | Nov 22 |
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfc6?utm_campaign=Data%20Analysis&utm_source=1103)** | Maine, United States | On Site | Nov 22 |
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfc7?utm_campaign=Data%20Analysis&utm_source=1103)** | Tennessee, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfc8?utm_campaign=Data%20Analysis&utm_source=1103)** | South Carolina, United States | On Site | Nov 22 |
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfc9?utm_campaign=Data%20Analysis&utm_source=1103)** | Illinois, United States | On Site | Nov 22 |
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f0bd146cd49ab7320cc6?utm_campaign=Data%20Analysis&utm_source=1103)** | Vermont, United States | Remote | Nov 22 |
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfca?utm_campaign=Data%20Analysis&utm_source=1103)** | Wisconsin, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfc8?utm_campaign=Data%20Analysis&utm_source=1103)** | South Carolina, United States | On Site | Nov 22 |
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfcb?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, United States | On Site | Nov 22 |
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfcc?utm_campaign=Data%20Analysis&utm_source=1103)** | Michigan, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfcf?utm_campaign=Data%20Analysis&utm_source=1103)** | New Jersey, United States | On Site | Nov 22 |
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfce?utm_campaign=Data%20Analysis&utm_source=1103)** | New Hampshire, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfcf?utm_campaign=Data%20Analysis&utm_source=1103)** | New Jersey, United States | On Site | Nov 22 |
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfcd?utm_campaign=Data%20Analysis&utm_source=1103)** | North Carolina, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfd2?utm_campaign=Data%20Analysis&utm_source=1103)** | Indiana, United States | On Site | Nov 22 |
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfd0?utm_campaign=Data%20Analysis&utm_source=1103)** | South Dakota, United States | On Site | Nov 22 |
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfd1?utm_campaign=Data%20Analysis&utm_source=1103)** | Montana, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfd2?utm_campaign=Data%20Analysis&utm_source=1103)** | Indiana, United States | On Site | Nov 22 |
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfd3?utm_campaign=Data%20Analysis&utm_source=1103)** | Iowa, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfd5?utm_campaign=Data%20Analysis&utm_source=1103)** | Nevada, United States | On Site | Nov 22 |
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfd4?utm_campaign=Data%20Analysis&utm_source=1103)** | California, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfd5?utm_campaign=Data%20Analysis&utm_source=1103)** | Nevada, United States | On Site | Nov 22 |
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfd6?utm_campaign=Data%20Analysis&utm_source=1103)** | New Mexico, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfd8?utm_campaign=Data%20Analysis&utm_source=1103)** | Nebraska, United States | On Site | Nov 22 |
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfd7?utm_campaign=Data%20Analysis&utm_source=1103)** | Virginia, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfd8?utm_campaign=Data%20Analysis&utm_source=1103)** | Nebraska, United States | On Site | Nov 22 |
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfd9?utm_campaign=Data%20Analysis&utm_source=1103)** | Mississippi, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfda?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfdb?utm_campaign=Data%20Analysis&utm_source=1103)** | Wyoming, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfdd?utm_campaign=Data%20Analysis&utm_source=1103)** | Idaho, United States | On Site | Nov 22 |
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfde?utm_campaign=Data%20Analysis&utm_source=1103)** | Colorado, United States | On Site | Nov 22 |
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfdc?utm_campaign=Data%20Analysis&utm_source=1103)** | Pennsylvania, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfdb?utm_campaign=Data%20Analysis&utm_source=1103)** | Wyoming, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfda?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfdd?utm_campaign=Data%20Analysis&utm_source=1103)** | Idaho, United States | On Site | Nov 22 |
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfdf?utm_campaign=Data%20Analysis&utm_source=1103)** | North Dakota, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfe2?utm_campaign=Data%20Analysis&utm_source=1103)** | Oklahoma, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfe0?utm_campaign=Data%20Analysis&utm_source=1103)** | Florida, United States | On Site | Nov 22 |
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfe1?utm_campaign=Data%20Analysis&utm_source=1103)** | Ohio, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfe0?utm_campaign=Data%20Analysis&utm_source=1103)** | Florida, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfe2?utm_campaign=Data%20Analysis&utm_source=1103)** | Oklahoma, United States | On Site | Nov 22 |
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfe3?utm_campaign=Data%20Analysis&utm_source=1103)** | Oregon, United States | On Site | Nov 22 |
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfe6?utm_campaign=Data%20Analysis&utm_source=1103)** | Delaware, United States | On Site | Nov 22 |
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfe4?utm_campaign=Data%20Analysis&utm_source=1103)** | Georgia, United States | On Site | Nov 22 |
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfe5?utm_campaign=Data%20Analysis&utm_source=1103)** | Utah, United States | On Site | Nov 22 |
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfe9?utm_campaign=Data%20Analysis&utm_source=1103)** | Texas, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfe7?utm_campaign=Data%20Analysis&utm_source=1103)** | Massachusetts, United States | On Site | Nov 22 |
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfe8?utm_campaign=Data%20Analysis&utm_source=1103)** | Minnesota, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740f38dd341aa206c24bfe7?utm_campaign=Data%20Analysis&utm_source=1103)** | Massachusetts, United States | On Site | Nov 22 |
 | **[The Johns Hopkins University](https://www.jhu.edu)** | **[CO Research Assistant](https://jobright.ai/jobs/info/673ca9052d1c7b617e41c802?utm_campaign=Data%20Analysis&utm_source=1103)** | Baltimore, MD | On Site | Nov 22 |
 | ↳ | **[Research Assistant](https://jobright.ai/jobs/info/6740eaaa568a5c08eb9909a8?utm_campaign=Data%20Analysis&utm_source=1103)** | Baltimore, MD | On Site | Nov 22 |
 | **[Brown Advisory](http://www.brownadvisory.com)** | **[Business Intelligence Analyst](https://jobright.ai/jobs/info/6740eaaa568a5c08eb9909e8?utm_campaign=Data%20Analysis&utm_source=1103)** | Baltimore, MD | On Site | Nov 22 |
 | ↳ | **[Business Intelligence Analyst](https://jobright.ai/jobs/info/6740f0bd146cd49ab7320e6e?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | On Site | Nov 22 |
 | **[California Department of Developmental Services](https://www.dds.ca.gov)** | **[RESEARCH DATA SPECIALIST I](https://jobright.ai/jobs/info/6740eaaa568a5c08eb990a4e?utm_campaign=Data%20Analysis&utm_source=1103)** | California, United States | Hybrid | Nov 22 |
-| **[Harris Computer](http://www.harriscomputer.com)** | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632715?utm_campaign=Data%20Analysis&utm_source=1103)** | New Jersey, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e260163270f?utm_campaign=Data%20Analysis&utm_source=1103)** | Rhode Island, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632717?utm_campaign=Data%20Analysis&utm_source=1103)** | Wisconsin, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632714?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632701?utm_campaign=Data%20Analysis&utm_source=1103)** | North Carolina, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632716?utm_campaign=Data%20Analysis&utm_source=1103)** | California, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632709?utm_campaign=Data%20Analysis&utm_source=1103)** | Delaware, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632720?utm_campaign=Data%20Analysis&utm_source=1103)** | Utah, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632702?utm_campaign=Data%20Analysis&utm_source=1103)** | South Carolina, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632657?utm_campaign=Data%20Analysis&utm_source=1103)** | Vermont, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632704?utm_campaign=Data%20Analysis&utm_source=1103)** | Montana, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e260163271f?utm_campaign=Data%20Analysis&utm_source=1103)** | Nebraska, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e260163271d?utm_campaign=Data%20Analysis&utm_source=1103)** | Florida, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e260163270c?utm_campaign=Data%20Analysis&utm_source=1103)** | Connecticut, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632708?utm_campaign=Data%20Analysis&utm_source=1103)** | Texas, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e260163271b?utm_campaign=Data%20Analysis&utm_source=1103)** | Virginia, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632728?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e260163270d?utm_campaign=Data%20Analysis&utm_source=1103)** | Illinois, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632710?utm_campaign=Data%20Analysis&utm_source=1103)** | Idaho, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632706?utm_campaign=Data%20Analysis&utm_source=1103)** | Michigan, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632725?utm_campaign=Data%20Analysis&utm_source=1103)** | Pennsylvania, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632718?utm_campaign=Data%20Analysis&utm_source=1103)** | North Dakota, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632711?utm_campaign=Data%20Analysis&utm_source=1103)** | Oklahoma, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632707?utm_campaign=Data%20Analysis&utm_source=1103)** | Nevada, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632721?utm_campaign=Data%20Analysis&utm_source=1103)** | Ohio, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632712?utm_campaign=Data%20Analysis&utm_source=1103)** | New Hampshire, United States | On Site | Nov 22 |
+| **[Harris Computer](http://www.harriscomputer.com)** | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e260163270b?utm_campaign=Data%20Analysis&utm_source=1103)** | Massachusetts, United States | On Site | Nov 22 |
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e260163270a?utm_campaign=Data%20Analysis&utm_source=1103)** | Tennessee, United States | On Site | Nov 22 |
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632713?utm_campaign=Data%20Analysis&utm_source=1103)** | New Mexico, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632703?utm_campaign=Data%20Analysis&utm_source=1103)** | Colorado, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632723?utm_campaign=Data%20Analysis&utm_source=1103)** | Mississippi, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e260163270e?utm_campaign=Data%20Analysis&utm_source=1103)** | Maine, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632722?utm_campaign=Data%20Analysis&utm_source=1103)** | South Dakota, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e260163270b?utm_campaign=Data%20Analysis&utm_source=1103)** | Massachusetts, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632727?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632724?utm_campaign=Data%20Analysis&utm_source=1103)** | Missouri, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632726?utm_campaign=Data%20Analysis&utm_source=1103)** | Georgia, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e260163271a?utm_campaign=Data%20Analysis&utm_source=1103)** | Indiana, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e260163271e?utm_campaign=Data%20Analysis&utm_source=1103)** | Minnesota, United States | On Site | Nov 22 |
-| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e260163271c?utm_campaign=Data%20Analysis&utm_source=1103)** | Wyoming, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632707?utm_campaign=Data%20Analysis&utm_source=1103)** | Nevada, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632721?utm_campaign=Data%20Analysis&utm_source=1103)** | Ohio, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e260163270c?utm_campaign=Data%20Analysis&utm_source=1103)** | Connecticut, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632710?utm_campaign=Data%20Analysis&utm_source=1103)** | Idaho, United States | On Site | Nov 22 |
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632719?utm_campaign=Data%20Analysis&utm_source=1103)** | Oregon, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632720?utm_campaign=Data%20Analysis&utm_source=1103)** | Utah, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632724?utm_campaign=Data%20Analysis&utm_source=1103)** | Missouri, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632727?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632715?utm_campaign=Data%20Analysis&utm_source=1103)** | New Jersey, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e260163270f?utm_campaign=Data%20Analysis&utm_source=1103)** | Rhode Island, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e260163271b?utm_campaign=Data%20Analysis&utm_source=1103)** | Virginia, United States | On Site | Nov 22 |
 | ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632705?utm_campaign=Data%20Analysis&utm_source=1103)** | Iowa, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e260163271c?utm_campaign=Data%20Analysis&utm_source=1103)** | Wyoming, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632718?utm_campaign=Data%20Analysis&utm_source=1103)** | North Dakota, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632711?utm_campaign=Data%20Analysis&utm_source=1103)** | Oklahoma, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632704?utm_campaign=Data%20Analysis&utm_source=1103)** | Montana, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e260163271d?utm_campaign=Data%20Analysis&utm_source=1103)** | Florida, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632714?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632701?utm_campaign=Data%20Analysis&utm_source=1103)** | North Carolina, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632706?utm_campaign=Data%20Analysis&utm_source=1103)** | Michigan, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632728?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e260163270d?utm_campaign=Data%20Analysis&utm_source=1103)** | Illinois, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e260163270e?utm_campaign=Data%20Analysis&utm_source=1103)** | Maine, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632702?utm_campaign=Data%20Analysis&utm_source=1103)** | South Carolina, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632716?utm_campaign=Data%20Analysis&utm_source=1103)** | California, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632709?utm_campaign=Data%20Analysis&utm_source=1103)** | Delaware, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632726?utm_campaign=Data%20Analysis&utm_source=1103)** | Georgia, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632717?utm_campaign=Data%20Analysis&utm_source=1103)** | Wisconsin, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e260163271a?utm_campaign=Data%20Analysis&utm_source=1103)** | Indiana, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632723?utm_campaign=Data%20Analysis&utm_source=1103)** | Mississippi, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632725?utm_campaign=Data%20Analysis&utm_source=1103)** | Pennsylvania, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632657?utm_campaign=Data%20Analysis&utm_source=1103)** | Vermont, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e260163271f?utm_campaign=Data%20Analysis&utm_source=1103)** | Nebraska, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632712?utm_campaign=Data%20Analysis&utm_source=1103)** | New Hampshire, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632703?utm_campaign=Data%20Analysis&utm_source=1103)** | Colorado, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e260163271e?utm_campaign=Data%20Analysis&utm_source=1103)** | Minnesota, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632708?utm_campaign=Data%20Analysis&utm_source=1103)** | Texas, United States | On Site | Nov 22 |
+| ↳ | **[M&A Reporting Data Analyst](https://jobright.ai/jobs/info/6740e8cf750e1e2601632722?utm_campaign=Data%20Analysis&utm_source=1103)** | South Dakota, United States | On Site | Nov 22 |
 | **[TD](https://www.td.com)** | **[Vendor Analyst III (US)](https://jobright.ai/jobs/info/6740eced745d1c61e522b302?utm_campaign=Data%20Analysis&utm_source=1103)** | Cherry Hill, NJ | On Site | Nov 22 |
 | **[SWCA Environmental Consultants](https://www.swca.com/)** | **[GIS Specialist](https://jobright.ai/jobs/info/6740e96b0e636a08c25b5254?utm_campaign=Data%20Analysis&utm_source=1103)** | Phoenix, AZ | Hybrid | Nov 22 |
 | **[IQVIA](https://www.iqvia.com)** | **[Associate Data Science & Advanced Analytcs Manager](https://jobright.ai/jobs/info/6740dff7c1925f77c2e86432?utm_campaign=Data%20Analysis&utm_source=1103)** | Wayne, PA, United States of America | On Site | Nov 22 |
@@ -260,12 +260,14 @@ For a complete list, click the following sortable link below:
 | **[FedEx Dataworks](https://www.fedex.com/en-us/dataworks.html)** | **[Data Scientist I](https://jobright.ai/jobs/info/673eabcbef39c01b3301b512?utm_campaign=Data%20Analysis&utm_source=1103)** | Memphis, TN | Remote | Nov 20 |
 | ↳ | **[Data Scientist I](https://jobright.ai/jobs/info/673eb644150b417a183e9453?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Nov 20 |
 | **[Cognizant](https://www.cognizant.com)** | **[Part Time Data Analyst (remote)](https://jobright.ai/jobs/info/673ea1d5e67c941b2e749827?utm_campaign=Data%20Analysis&utm_source=1103)** | Earth City, MO | Remote | Nov 20 |
-| **[McKesson](http://www.mckesson.com)** | **[Statistical Programmer 2](https://jobright.ai/jobs/info/673eafd7814ec2ad9a0b024f?utm_campaign=Data%20Analysis&utm_source=1103)** | Irving, TX | On Site | Nov 20 |
-| ↳ | **[Statistical Programmer II](https://jobright.ai/jobs/info/673eafd7814ec2ad9a0b0253?utm_campaign=Data%20Analysis&utm_source=1103)** | Irving, TX | On Site | Nov 20 |
+| **[McKesson](http://www.mckesson.com)** | **[Statistical Programmer II](https://jobright.ai/jobs/info/673eafd7814ec2ad9a0b0253?utm_campaign=Data%20Analysis&utm_source=1103)** | Irving, TX | On Site | Nov 20 |
+| ↳ | **[Statistical Programmer 2](https://jobright.ai/jobs/info/673eafd7814ec2ad9a0b024f?utm_campaign=Data%20Analysis&utm_source=1103)** | Irving, TX | On Site | Nov 20 |
 | **[Capstone Logistics, LLC](http://www.capstonelogistics.com/)** | **[Data Analyst](https://jobright.ai/jobs/info/673ea0141ee94a28535854cd?utm_campaign=Data%20Analysis&utm_source=1103)** | Olyphant, PA | On Site | Nov 20 |
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Analyst, Consumer & Marketplace Insights](https://jobright.ai/jobs/info/673ea7f9f6e3443ccf93bf6b?utm_campaign=Data%20Analysis&utm_source=1103)** | St Louis, MO | On Site | Nov 20 |
+| **[Snorkel AI](https://www.snorkel.ai/)** | **[Bilingual - Data Annotator - STEM (Russian, Chinese, Vietnamese)](https://jobright.ai/jobs/info/6743e476ac5b77fe4c20de34?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Nov 20 |
 | **[Point72](https://www.point72.com)** | **[Data Scientist, Proprietary Research](https://jobright.ai/jobs/info/673eb972774604faad257920?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Nov 20 |
 | **[The Johns Hopkins University](https://www.jhu.edu)** | **[Doctoral Student Research Assistant](https://jobright.ai/jobs/info/673e9afb5f6856b1ced70ad9?utm_campaign=Data%20Analysis&utm_source=1103)** | Baltimore, MD | Remote | Nov 20 |
+| **[NYU Langone Health](https://nyulangone.org/)** | **[Research Data Associate ECHO * ARDMS or ARRT Certification Required *](https://jobright.ai/jobs/info/672214b343f407158db1907c?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Nov 20 |
 | **[Accenture](https://www.accenture.com)** | **[Epic Dorothy (Home Health) Senior Analyst](https://jobright.ai/jobs/info/673e991dd25eaf1ada045154?utm_campaign=Data%20Analysis&utm_source=1103)** | Nashville, TN | Hybrid | Nov 20 |
 | **[NORC at the University of Chicago](http://www.norc.org/)** | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/673e85a7678e074e4d04416f?utm_campaign=Data%20Analysis&utm_source=1103)** | Camden, NJ | On Site | Nov 20 |
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[Data Analysis Specialist - Mental Health 368](https://jobright.ai/jobs/info/673e85a7678e074e4d0442ba?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento, CA | On Site | Nov 20 |
@@ -299,18 +301,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/673e629f1e77af8f327b3b79?utm_campaign=Data%20Analysis&utm_source=1103)** | Concord, SC | On Site | Nov 20 |
 | **[University of Pittsburgh](https://www.pitt.edu/pittwire)** | **[Data Assistant](https://jobright.ai/jobs/info/673e7636c3d18d0508ee547f?utm_campaign=Data%20Analysis&utm_source=1103)** | Pittsburgh, PA | Remote | Nov 20 |
 | **[Accenture](https://www.accenture.com)** | **[Epic EpicCare Ambulatory Senior Analyst](https://jobright.ai/jobs/info/673e226266e8b4beae7e5922?utm_campaign=Data%20Analysis&utm_source=1103)** | TN - Nashville | On Site | Nov 20 |
-| ↳ | **[Epic EpicCare Ambulatory Senior Analyst](https://jobright.ai/jobs/info/673e226266e8b4beae7e5921?utm_campaign=Data%20Analysis&utm_source=1103)** | FL - St. Petersburg | On Site | Nov 20 |
-| ↳ | **[Epic EpicCare Ambulatory Senior Analyst](https://jobright.ai/jobs/info/673e226266e8b4beae7e5920?utm_campaign=Data%20Analysis&utm_source=1103)** | TX - Irving | On Site | Nov 20 |
 | ↳ | **[Epic EpicCare Ambulatory Senior Analyst](https://jobright.ai/jobs/info/673e226266e8b4beae7e58e2?utm_campaign=Data%20Analysis&utm_source=1103)** | GA - Atlanta | On Site | Nov 20 |
+| ↳ | **[Epic EpicCare Ambulatory Senior Analyst](https://jobright.ai/jobs/info/673e226266e8b4beae7e5920?utm_campaign=Data%20Analysis&utm_source=1103)** | TX - Irving | On Site | Nov 20 |
+| ↳ | **[Epic EpicCare Ambulatory Senior Analyst](https://jobright.ai/jobs/info/673e226266e8b4beae7e5921?utm_campaign=Data%20Analysis&utm_source=1103)** | FL - St. Petersburg | On Site | Nov 20 |
 | **[Memorial Sloan Kettering Cancer Center](http://www.mskcc.org)** | **[Statistical-Immuno-Oncology Postdoctoral Fellow](https://jobright.ai/jobs/info/672411ff01f098fbc7a5d131?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Nov 20 |
 | **[NEOGOV](http://www.neogov.com)** | **[Data Engagement Specialist (Part-time)](https://jobright.ai/jobs/info/673e12fa2ef5df0316bc5a80?utm_campaign=Data%20Analysis&utm_source=1103)** | Durham, NC | On Site | Nov 20 |
 | **[Elevate](https://elevate.law)** | **[eDiscovery Data Collections Associate](https://jobright.ai/jobs/info/673e147594de3fe5237a753b?utm_campaign=Data%20Analysis&utm_source=1103)** | Weehawken, NJ | Hybrid | Nov 20 |
 | **[NEOGOV](http://www.neogov.com)** | **[Departmental Analyst (Trainee) 9-12](https://jobright.ai/jobs/info/673e02b2f730be5d24fac87d?utm_campaign=Data%20Analysis&utm_source=1103)** | Dimondale, MI | Hybrid | Nov 20 |
 | **[University of Pennsylvania](http://www.upenn.edu)** | **[Research Associate, Rodney White Center for Financial Research, Wharton School](https://jobright.ai/jobs/info/67368be435c4956321f7bd3b?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | Hybrid | Nov 20 |
-| **[Accenture](https://www.accenture.com)** | **[Epic Dorothy (Home Health) Senior Analyst](https://jobright.ai/jobs/info/673df7eb234f16636273965f?utm_campaign=Data%20Analysis&utm_source=1103)** | FL - St. Petersburg | On Site | Nov 20 |
-| ↳ | **[Epic Dorothy (Home Health) Senior Analyst](https://jobright.ai/jobs/info/673df7eb234f16636273965d?utm_campaign=Data%20Analysis&utm_source=1103)** | TN - Nashville | On Site | Nov 20 |
-| ↳ | **[Epic Dorothy (Home Health) Senior Analyst](https://jobright.ai/jobs/info/673df7eb234f16636273965e?utm_campaign=Data%20Analysis&utm_source=1103)** | TX - Irving | On Site | Nov 20 |
+| **[Accenture](https://www.accenture.com)** | **[Epic Dorothy (Home Health) Senior Analyst](https://jobright.ai/jobs/info/673df7eb234f16636273965d?utm_campaign=Data%20Analysis&utm_source=1103)** | TN - Nashville | On Site | Nov 20 |
+| ↳ | **[Epic Dorothy (Home Health) Senior Analyst](https://jobright.ai/jobs/info/673df7eb234f16636273965f?utm_campaign=Data%20Analysis&utm_source=1103)** | FL - St. Petersburg | On Site | Nov 20 |
 | ↳ | **[Epic Dorothy (Home Health) Senior Analyst](https://jobright.ai/jobs/info/673df7eb234f1663627394a6?utm_campaign=Data%20Analysis&utm_source=1103)** | GA - Atlanta | On Site | Nov 20 |
+| ↳ | **[Epic Dorothy (Home Health) Senior Analyst](https://jobright.ai/jobs/info/673df7eb234f16636273965e?utm_campaign=Data%20Analysis&utm_source=1103)** | TX - Irving | On Site | Nov 20 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Analyst - Technology Operations BI & Reporting](https://jobright.ai/jobs/info/673deebb4dcfa7485d08f13b?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, CO | Hybrid | Nov 20 |
 | **[Allyn International](http://allynintl.com)** | **[Logistics Data Analyst](https://jobright.ai/jobs/info/673f3c9b376039b9ab44f859?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Myers, FL | On Site | Nov 20 |
 | **[SCAN](https://www.scanhealthplan.com)** | **[Data Scientist - HCI](https://jobright.ai/jobs/info/67060bb665ea9c61f17ae4e9?utm_campaign=Data%20Analysis&utm_source=1103)** | Long Beach, CA | Hybrid | Nov 20 |
@@ -384,16 +386,16 @@ For a complete list, click the following sortable link below:
 | **[Penn State University](http://psu.edu)** | **[Research Data Management Specialist](https://jobright.ai/jobs/info/673cde5c3d3ad683b442c018?utm_campaign=Data%20Analysis&utm_source=1103)** | University Park, PA | On Site | Nov 19 |
 | **[RAND](http://www.rand.org)** | **[Bachelor’s Level Research Assistant - Qualitative (Term)](https://jobright.ai/jobs/info/673cb1da17f456c68137ff88?utm_campaign=Data%20Analysis&utm_source=1103)** | Pittsburgh, PA | On Site | Nov 19 |
 | ↳ | **[Bachelor’s Level Research Assistant - Qualitative (Term)](https://jobright.ai/jobs/info/673cb1da17f456c68137ff86?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC (DC Metro Area) | On Site | Nov 19 |
-| ↳ | **[Bachelor’s Level Research Assistant - Qualitative (Term)](https://jobright.ai/jobs/info/673cb1da17f456c68137ff87?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | On Site | Nov 19 |
 | ↳ | **[Bachelor’s Level Research Assistant - Qualitative (Term)](https://jobright.ai/jobs/info/673cb1da17f456c68137ff5d?utm_campaign=Data%20Analysis&utm_source=1103)** | Santa Monica, CA (Greater Los Angeles Area) | On Site | Nov 19 |
+| ↳ | **[Bachelor’s Level Research Assistant - Qualitative (Term)](https://jobright.ai/jobs/info/673cb1da17f456c68137ff87?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | On Site | Nov 19 |
 | ↳ | **[Bachelor’s Level Research Assistant – Quantitative (Engineering, Computer Science, Data Science, Math, Statistics, etc.) (Term)](https://jobright.ai/jobs/info/673cb1da17f456c68137ff8a?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | On Site | Nov 19 |
-| ↳ | **[Bachelor’s Level Research Assistant – Quantitative (Engineering, Computer Science, Data Science, Math, Statistics, etc.) (Term)](https://jobright.ai/jobs/info/673cb1da17f456c68137ff89?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC (DC Metro Area) | On Site | Nov 19 |
-| ↳ | **[Bachelor’s Level Research Assistant – Quantitative (Engineering, Computer Science, Data Science, Math, Statistics, etc.) (Term)](https://jobright.ai/jobs/info/673cb1da17f456c68137ff8b?utm_campaign=Data%20Analysis&utm_source=1103)** | Santa Monica, CA (Greater Los Angeles Area) | On Site | Nov 19 |
 | ↳ | **[Bachelor’s Level Research Assistant – Quantitative (Engineering, Computer Science, Data Science, Math, Statistics, etc.) (Term)](https://jobright.ai/jobs/info/673cb1da17f456c68137ff68?utm_campaign=Data%20Analysis&utm_source=1103)** | Pittsburgh, PA | On Site | Nov 19 |
+| ↳ | **[Bachelor’s Level Research Assistant – Quantitative (Engineering, Computer Science, Data Science, Math, Statistics, etc.) (Term)](https://jobright.ai/jobs/info/673cb1da17f456c68137ff8b?utm_campaign=Data%20Analysis&utm_source=1103)** | Santa Monica, CA (Greater Los Angeles Area) | On Site | Nov 19 |
+| ↳ | **[Bachelor’s Level Research Assistant – Quantitative (Engineering, Computer Science, Data Science, Math, Statistics, etc.) (Term)](https://jobright.ai/jobs/info/673cb1da17f456c68137ff89?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC (DC Metro Area) | On Site | Nov 19 |
 | **[GovCIO](https://govcio.com)** | **[Data Analyst 1 (Provisioning Team)](https://jobright.ai/jobs/info/6704b8e5b284ecf656d1e407?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | On Site | Nov 19 |
 | **[Taylored Search](http://www.tayloredsearch.com)** | **[Analyst / Sr. Analyst [Pharma Advertising]](https://jobright.ai/jobs/info/673ca9052d1c7b617e41c7ba?utm_campaign=Data%20Analysis&utm_source=1103)** | NYC Metro Area | Hybrid | Nov 19 |
-| **[Travelers](https://www.travelers.com)** | **[Data Science Leadership Development Program (DSLDP) Associate Data Scientist](https://jobright.ai/jobs/info/673ca26f9dd1a6d31b9f7ab1?utm_campaign=Data%20Analysis&utm_source=1103)** | MN - St. Paul | On Site | Nov 19 |
-| ↳ | **[Data Science Leadership Development Program (DSLDP) Associate Data Scientist](https://jobright.ai/jobs/info/673ca26f9dd1a6d31b9f7add?utm_campaign=Data%20Analysis&utm_source=1103)** | CT - Hartford | On Site | Nov 19 |
+| **[Travelers](https://www.travelers.com)** | **[Data Science Leadership Development Program (DSLDP) Associate Data Scientist](https://jobright.ai/jobs/info/673ca26f9dd1a6d31b9f7add?utm_campaign=Data%20Analysis&utm_source=1103)** | CT - Hartford | On Site | Nov 19 |
+| ↳ | **[Data Science Leadership Development Program (DSLDP) Associate Data Scientist](https://jobright.ai/jobs/info/673ca26f9dd1a6d31b9f7ab1?utm_campaign=Data%20Analysis&utm_source=1103)** | MN - St. Paul | On Site | Nov 19 |
 | **[NORC at the University of Chicago](http://www.norc.org/)** | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/67379b73b17d79ecdf838a43?utm_campaign=Data%20Analysis&utm_source=1103)** | Dallas, TX | On Site | Nov 19 |
 | **[The Geneva Foundation](https://genevausa.org)** | **[Research Assistant II-1](https://jobright.ai/jobs/info/673ca21335c38c43c102356c?utm_campaign=Data%20Analysis&utm_source=1103)** | San Antonio, Texas Metropolitan Area | On Site | Nov 19 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Business Data Analyst](https://jobright.ai/jobs/info/6564b3392120d39cd6d0ee8d?utm_campaign=Data%20Analysis&utm_source=1103)** | Harrisburg, PA | On Site | Nov 19 |
@@ -426,34 +428,34 @@ For a complete list, click the following sortable link below:
 | **[NORC at the University of Chicago](http://www.norc.org/)** | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/673c38c1bdcb7c91252ab181?utm_campaign=Data%20Analysis&utm_source=1103)** | Provo, UT | On Site | Nov 18 |
 | ↳ | **[Field Data Collector - Pre-K On My Way (Rehire Only)](https://jobright.ai/jobs/info/673c38c1bdcb7c91252ab08f?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, CO | On Site | Nov 18 |
 | ↳ | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/673be336df790bb4553e4bdb?utm_campaign=Data%20Analysis&utm_source=1103)** | Utah, United States | On Site | Nov 18 |
-| ↳ | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/673be336df790bb4553e4bdd?utm_campaign=Data%20Analysis&utm_source=1103)** | Sarasota, FL | On Site | Nov 18 |
 | ↳ | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/673be336df790bb4553e4bdc?utm_campaign=Data%20Analysis&utm_source=1103)** | High Point, NC | On Site | Nov 18 |
+| ↳ | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/673be336df790bb4553e4bdd?utm_campaign=Data%20Analysis&utm_source=1103)** | Sarasota, FL | On Site | Nov 18 |
 | ↳ | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/673be336df790bb4553e4bde?utm_campaign=Data%20Analysis&utm_source=1103)** | Jacksonville, FL | On Site | Nov 18 |
 | ↳ | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/673be336df790bb4553e4bdf?utm_campaign=Data%20Analysis&utm_source=1103)** | St Louis, MO | On Site | Nov 18 |
 | ↳ | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/673be336df790bb4553e4be0?utm_campaign=Data%20Analysis&utm_source=1103)** | Cape Coral, FL | On Site | Nov 18 |
 | ↳ | **[Field Data Collector NLS72](https://jobright.ai/jobs/info/673be336df790bb4553e4a36?utm_campaign=Data%20Analysis&utm_source=1103)** | Virginia Beach, VA | On Site | Nov 18 |
 | ↳ | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/673be336df790bb4553e4be1?utm_campaign=Data%20Analysis&utm_source=1103)** | Durham, NC | On Site | Nov 18 |
-| ↳ | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/673be336df790bb4553e4be4?utm_campaign=Data%20Analysis&utm_source=1103)** | Tulsa, OK | On Site | Nov 18 |
-| ↳ | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/673be336df790bb4553e4be6?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlotte, NC | On Site | Nov 18 |
 | ↳ | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/673be336df790bb4553e4be5?utm_campaign=Data%20Analysis&utm_source=1103)** | Santa Fe, NM | On Site | Nov 18 |
+| ↳ | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/673be336df790bb4553e4be4?utm_campaign=Data%20Analysis&utm_source=1103)** | Tulsa, OK | On Site | Nov 18 |
 | ↳ | **[Field Data Collector NLS72](https://jobright.ai/jobs/info/673be336df790bb4553e4c77?utm_campaign=Data%20Analysis&utm_source=1103)** | Winston-Salem, NC | On Site | Nov 18 |
-| ↳ | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/673be336df790bb4553e4be7?utm_campaign=Data%20Analysis&utm_source=1103)** | Greensboro, NC | On Site | Nov 18 |
+| ↳ | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/673be336df790bb4553e4be6?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlotte, NC | On Site | Nov 18 |
 | ↳ | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/673be336df790bb4553e4be8?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Myers, FL | On Site | Nov 18 |
+| ↳ | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/673be336df790bb4553e4be7?utm_campaign=Data%20Analysis&utm_source=1103)** | Greensboro, NC | On Site | Nov 18 |
 | ↳ | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/673be336df790bb4553e4bea?utm_campaign=Data%20Analysis&utm_source=1103)** | Las Vegas, NV | On Site | Nov 18 |
 | ↳ | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/673be336df790bb4553e4bee?utm_campaign=Data%20Analysis&utm_source=1103)** | Raleigh, NC | On Site | Nov 18 |
 | ↳ | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/673be336df790bb4553e4bef?utm_campaign=Data%20Analysis&utm_source=1103)** | St Petersburg, FL | On Site | Nov 18 |
 | ↳ | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/673be336df790bb4553e4bf1?utm_campaign=Data%20Analysis&utm_source=1103)** | Oklahoma City, OK | On Site | Nov 18 |
 | ↳ | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/67379b73b17d79ecdf838749?utm_campaign=Data%20Analysis&utm_source=1103)** | Bronx, NY | On Site | Nov 18 |
-| ↳ | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/673bef7efd67086f183ff8c8?utm_campaign=Data%20Analysis&utm_source=1103)** | Portland, OR | On Site | Nov 18 |
 | ↳ | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/673bef7efd67086f183ff9bc?utm_campaign=Data%20Analysis&utm_source=1103)** | Muskegon, MI | On Site | Nov 18 |
+| ↳ | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/673bef7efd67086f183ff8c8?utm_campaign=Data%20Analysis&utm_source=1103)** | Portland, OR | On Site | Nov 18 |
 | ↳ | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/673bef7efd67086f183ff9bd?utm_campaign=Data%20Analysis&utm_source=1103)** | Shawnee, OK | On Site | Nov 18 |
 | ↳ | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/673bef7efd67086f183ff9be?utm_campaign=Data%20Analysis&utm_source=1103)** | Salt Lake City, UT | On Site | Nov 18 |
 | ↳ | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/673be708a46e087c347739e9?utm_campaign=Data%20Analysis&utm_source=1103)** | Ann Arbor, MI | On Site | Nov 18 |
 | ↳ | **[Field Data Collector - NLS72](https://jobright.ai/jobs/info/673be708a46e087c347739ea?utm_campaign=Data%20Analysis&utm_source=1103)** | Battle Creek, MI | On Site | Nov 18 |
-| **[Welocalize](http://www.welocalize.com)** | **[Data Annotation Specialist (Spanish Mexico) / South Bay](https://jobright.ai/jobs/info/673c421a677f29aad5874ce9?utm_campaign=Data%20Analysis&utm_source=1103)** | Sunnyvale, CA | On Site | Nov 18 |
-| ↳ | **[Data Annotation Specialist (Spanish Spain) / South Bay](https://jobright.ai/jobs/info/673bd9a3f27a1d59decc340b?utm_campaign=Data%20Analysis&utm_source=1103)** | Sunnyvale, CA | On Site | Nov 18 |
-| ↳ | **[Data Annotation Specialist (French) / South Bay](https://jobright.ai/jobs/info/672a8e1a472f3d7e49d50b87?utm_campaign=Data%20Analysis&utm_source=1103)** | Redwood City, CA | On Site | Nov 18 |
+| **[Welocalize](http://www.welocalize.com)** | **[Data Annotation Specialist (French) / South Bay](https://jobright.ai/jobs/info/672a8e1a472f3d7e49d50b87?utm_campaign=Data%20Analysis&utm_source=1103)** | Redwood City, CA | On Site | Nov 18 |
+| ↳ | **[Data Annotation Specialist (Spanish Mexico) / South Bay](https://jobright.ai/jobs/info/673c421a677f29aad5874ce9?utm_campaign=Data%20Analysis&utm_source=1103)** | Sunnyvale, CA | On Site | Nov 18 |
 | ↳ | **[Data Annotation Specialist (Italian) / South Bay](https://jobright.ai/jobs/info/673bd9a3f27a1d59decc3407?utm_campaign=Data%20Analysis&utm_source=1103)** | Sunnyvale, CA | On Site | Nov 18 |
+| ↳ | **[Data Annotation Specialist (Spanish Spain) / South Bay](https://jobright.ai/jobs/info/673bd9a3f27a1d59decc340b?utm_campaign=Data%20Analysis&utm_source=1103)** | Sunnyvale, CA | On Site | Nov 18 |
 | **[UnitedHealth Group](http://www.unitedhealthgroup.com/)** | **[Prior Authorization Analyst - National Remote](https://jobright.ai/jobs/info/673be405b31a6c871bfd1f32?utm_campaign=Data%20Analysis&utm_source=1103)** | Dallas, TX | Hybrid | Nov 18 |
 | **[Welocalize](http://www.welocalize.com)** | **[Data Annotation Specialist (English UK) / South Bay](https://jobright.ai/jobs/info/673bc342e61b271a4207a16a?utm_campaign=Data%20Analysis&utm_source=1103)** | Sunnyvale, CA | On Site | Nov 18 |
 | **[The Geneva Foundation](https://genevausa.org)** | **[Research Assistant II-1](https://jobright.ai/jobs/info/673bbf2648d4e34d5da88621?utm_campaign=Data%20Analysis&utm_source=1103)** | University of Texas Health Science Center San Antonio | On Site | Nov 18 |
@@ -475,5 +477,4 @@ For a complete list, click the following sortable link below:
 | **[News Corp](https://newscorp.com/)** | **[Content Quality Analyst](https://jobright.ai/jobs/info/673b4e6462b2a07acead7e99?utm_campaign=Data%20Analysis&utm_source=1103)** | Princeton | On Site | Nov 18 |
 | **[Digitas North America](https://www.digitas.com/)** | **[Analyst, Client Insight](https://jobright.ai/jobs/info/673c955d757377fdb0d56bd1?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Nov 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist, Risk Data Mining - USDS](https://jobright.ai/jobs/info/673dde996ba7afe01d549e68?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | Hybrid | Nov 18 |
-| **[Baptist Health](http://baptisthealth.net/)** | **[Certified Oncology Data Specialist, Tumor Registry, $6000 Bonus, FT, 8A-4:30P](https://jobright.ai/jobs/info/66c8572236a2df88d7b793a3?utm_campaign=Data%20Analysis&utm_source=1103)** | Miami, FL | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
