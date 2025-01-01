@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hormel Foods](http://www.hormelfoods.com/)** | **[Associate Business Intelligence Analyst - EPM - Corporate Office (Austin, MN)](https://jobright.ai/jobs/info/67751d0b739fc37c7bd86806?utm_campaign=Data%20Analysis&utm_source=1103)** | 1101 North Main Street, Austin, MN, 55912, US | On Site | Dec 31 |
 | **[California Department of Insurance](https://www.insurance.ca.gov)** | **[RESEARCH DATA SPECIALIST I](https://jobright.ai/jobs/info/67749933e2fbb76282c6d01f?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento, CA | Hybrid | Dec 31 |
 | **[ALDI USA](http://www.aldi.com)** | **[National Real Estate Data Analytics Associate II,](https://jobright.ai/jobs/info/6774912284a7dc29b60c8d9f?utm_campaign=Data%20Analysis&utm_source=1103)** | Dublin, OH | On Site | Dec 31 |
 | **[ORAU](https://www.orau.org/)** | **[Python Data Analyst](https://jobright.ai/jobs/info/67749705f66a4748e09e588f?utm_campaign=Data%20Analysis&utm_source=1103)** | Research Triangle Park, NC | On Site | Dec 31 |
@@ -70,12 +71,12 @@ For a complete list, click the following sortable link below:
 | **[Columbia University Irving Medical Center](https://www.cuimc.columbia.edu)** | **[Data Abstractor](https://jobright.ai/jobs/info/6769c76b31b928f984025de0?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 31 |
 | **[NORC at the University of Chicago](http://www.norc.org/)** | **[Field Data Collector - SCF (Rehire Only)](https://jobright.ai/jobs/info/6774b0790f1156321bba8959?utm_campaign=Data%20Analysis&utm_source=1103)** | Bethesda, MD | Hybrid | Dec 31 |
 | ↳ | **[Field Data Collector - SCF (Rehire Only)](https://jobright.ai/jobs/info/67743e3f1cc676584ce8f2f6?utm_campaign=Data%20Analysis&utm_source=1103)** | Alexandria, VA | On Site | Dec 31 |
+| **[CDM Smith](https://www.cdmsmith.com)** | **[GIS Specialist 1 (Fall 2025 Start)](https://jobright.ai/jobs/info/677532c6f81313a2237ff6f3?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, CO | On Site | Dec 31 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[GIS ANALYST INTERMEDIATE* - 12312024-64388](https://jobright.ai/jobs/info/67743bdd983ccc6138f963dd?utm_campaign=Data%20Analysis&utm_source=1103)** | Davidson County, TN | On Site | Dec 31 |
 | **[Weill Cornell Medicine](https://weill.cornell.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/6773f931b31ad66fdcdb5266?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 31 |
 | **[TransPerfect](http://www.transperfect.com)** | **[Data Contributor - No Prior Experience Needed](https://jobright.ai/jobs/info/675c20ef89de2926334e01e8?utm_campaign=Data%20Analysis&utm_source=1103)** | NYC Metro Area | Remote | Dec 31 |
 | **[USDA Animal and Plant Health Inspection Service (APHIS)](https://www.aphis.usda.gov/aphis/home/)** | **[Data Scientist](https://jobright.ai/jobs/info/6773fe11c12a0e829416c845?utm_campaign=Data%20Analysis&utm_source=1103)** | Gary, IN | On Site | Dec 31 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[Research Assistant II](https://jobright.ai/jobs/info/6773c041f3989d4fcfe2dee6?utm_campaign=Data%20Analysis&utm_source=1103)** | San Diego, CA | On Site | Dec 30 |
-| **[Volga Partners](https://volgapartners.com/)** | **[Junior Language Data Reviewer for Hawaiian (Freelance/Task-based)](https://jobright.ai/jobs/info/67739a40dc61724a136d368b?utm_campaign=Data%20Analysis&utm_source=1103)** | Hawaii, United States | Hybrid | Dec 30 |
 | **[SDSU Research Foundation](http://www.foundation.sdsu.edu/)** | **[Research Assistant II](https://jobright.ai/jobs/info/6773ce55d746501088226a1a?utm_campaign=Data%20Analysis&utm_source=1103)** | San Diego, CA | On Site | Dec 30 |
 | **[NORC at the University of Chicago](http://www.norc.org/)** | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/67739afa237a8bb1891feffc?utm_campaign=Data%20Analysis&utm_source=1103)** | Grand Prairie, TX | On Site | Dec 30 |
 | **[Seattle Children's](https://www.seattlechildrens.org/)** | **[Postdoctoral Fellow - Genomic Data Modeling Lab](https://jobright.ai/jobs/info/67737f0bec211abf2941bcc5?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Dec 30 |
@@ -108,16 +109,16 @@ For a complete list, click the following sortable link below:
 | **[Frasco, Inc.](http://frasco.com)** | **[Research Investigator](https://jobright.ai/jobs/info/676f2bcc9fda40cc2b55507b?utm_campaign=Data%20Analysis&utm_source=1103)** | Irvine, CA | Remote | Dec 27 |
 | **[Q-Centrix](https://www.q-centrix.com/)** | **[CathPCI Data Abstractor: Full-Time](https://jobright.ai/jobs/info/66e0a1c5e82b197da1f3013a?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Dec 27 |
 | **[NORC at the University of Chicago](http://www.norc.org/)** | **[Bilingual Field Data Collector - SCF](https://jobright.ai/jobs/info/676f0a60308052eda9b758fd?utm_campaign=Data%20Analysis&utm_source=1103)** | Fresno, CA | On Site | Dec 27 |
+| ↳ | **[Bilingual Field Data Collector - SCF](https://jobright.ai/jobs/info/676f0a60308052eda9b758ca?utm_campaign=Data%20Analysis&utm_source=1103)** | Brooklyn, NY | On Site | Dec 27 |
 | ↳ | **[Bilingual Field Data Collector - SCF](https://jobright.ai/jobs/info/676f0a60308052eda9b75a36?utm_campaign=Data%20Analysis&utm_source=1103)** | Salinas, CA | On Site | Dec 27 |
 | ↳ | **[Bilingual Field Data Collector - SCF](https://jobright.ai/jobs/info/676f0a60308052eda9b75a37?utm_campaign=Data%20Analysis&utm_source=1103)** | Manhattan, NY | On Site | Dec 27 |
-| ↳ | **[Bilingual Field Data Collector - SCF](https://jobright.ai/jobs/info/676f0a60308052eda9b758ca?utm_campaign=Data%20Analysis&utm_source=1103)** | Brooklyn, NY | On Site | Dec 27 |
 | ↳ | **[Bilingual Field Data Collector - SCF](https://jobright.ai/jobs/info/676f0a60308052eda9b75a38?utm_campaign=Data%20Analysis&utm_source=1103)** | Bronx, NY | On Site | Dec 27 |
 | ↳ | **[Field Data Collector - SCF](https://jobright.ai/jobs/info/676f0a60308052eda9b75915?utm_campaign=Data%20Analysis&utm_source=1103)** | Trenton, NJ | On Site | Dec 27 |
 | ↳ | **[Bilingual Field Data Collector - SCF](https://jobright.ai/jobs/info/676ef94ef538d3a02fdc03f0?utm_campaign=Data%20Analysis&utm_source=1103)** | Staten Island, NY | On Site | Dec 27 |
 | ↳ | **[Bilingual Field Data Collector - SCF](https://jobright.ai/jobs/info/676ef94ef538d3a02fdc03dc?utm_campaign=Data%20Analysis&utm_source=1103)** | San Diego, CA | On Site | Dec 27 |
 | ↳ | **[Bilingual Field Data Collector - SCF](https://jobright.ai/jobs/info/676ef94ef538d3a02fdc03f2?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Dec 27 |
-| ↳ | **[Bilingual Field Data Collector - SCF](https://jobright.ai/jobs/info/676ef94ef538d3a02fdc051b?utm_campaign=Data%20Analysis&utm_source=1103)** | Bakersfield, CA | On Site | Dec 27 |
 | ↳ | **[Bilingual Field Data Collector - SCF](https://jobright.ai/jobs/info/676ef94ef538d3a02fdc051a?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 27 |
+| ↳ | **[Bilingual Field Data Collector - SCF](https://jobright.ai/jobs/info/676ef94ef538d3a02fdc051b?utm_campaign=Data%20Analysis&utm_source=1103)** | Bakersfield, CA | On Site | Dec 27 |
 | ↳ | **[Bilingual Field Data Collector - SCF](https://jobright.ai/jobs/info/676ef94ef538d3a02fdc0407?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Dec 27 |
 | **[Marathon TS](http://marathonts.com)** | **[Geospatial Analyst (Entry Level)](https://jobright.ai/jobs/info/676ee10166113cb75d9b47b6?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 27 |
 | **[CGI](https://www.cgi.com)** | **[Junior Data Scientist](https://jobright.ai/jobs/info/675222474b07b47340e51e78?utm_campaign=Data%20Analysis&utm_source=1103)** | Arlington, VA | Hybrid | Dec 27 |
@@ -134,8 +135,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676e0c4b6e1091b6f671ad68?utm_campaign=Data%20Analysis&utm_source=1103)** | Alexandria, VA | On Site | Dec 26 |
 | ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676e0a1a41299871972ecacb?utm_campaign=Data%20Analysis&utm_source=1103)** | Baltimore, MD | On Site | Dec 26 |
 | ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676e068e77122e91d89ca88a?utm_campaign=Data%20Analysis&utm_source=1103)** | Annapolis, MD | On Site | Dec 26 |
-| ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676e068e77122e91d89ca88b?utm_campaign=Data%20Analysis&utm_source=1103)** | Frederick, MD | On Site | Dec 26 |
 | ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676e068e77122e91d89ca88c?utm_campaign=Data%20Analysis&utm_source=1103)** | Hagerstown, MD | On Site | Dec 26 |
+| ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676e068e77122e91d89ca88b?utm_campaign=Data%20Analysis&utm_source=1103)** | Frederick, MD | On Site | Dec 26 |
 | ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676e0100744d923586a3102b?utm_campaign=Data%20Analysis&utm_source=1103)** | Arlington, VA | On Site | Dec 26 |
 | **[Southwest Autism Research & Resource Center](https://autismcenter.org)** | **[Research Associate](https://jobright.ai/jobs/info/6706fbd341235095b5f29975?utm_campaign=Data%20Analysis&utm_source=1103)** | Phoenix, AZ | On Site | Dec 26 |
 | **[NORC at the University of Chicago](http://www.norc.org/)** | **[Bilingual Field Data Collector - SCF](https://jobright.ai/jobs/info/6765cf457e28baf35cbd90a8?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Dec 26 |
@@ -147,37 +148,36 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db70323cbbceb515dd199?utm_campaign=Data%20Analysis&utm_source=1103)** | Bremerton, WA | On Site | Dec 26 |
 | ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db70323cbbceb515dd19b?utm_campaign=Data%20Analysis&utm_source=1103)** | Beaver Dam, WI | On Site | Dec 26 |
 | ↳ | **[Field Data Collector – SCF (Rehire Only)](https://jobright.ai/jobs/info/676da66b915b8147f4e114c8?utm_campaign=Data%20Analysis&utm_source=1103)** | Indianapolis, IN | On Site | Dec 26 |
-| ↳ | **[Field Data Collector – SCF (Rehire Only)](https://jobright.ai/jobs/info/676da66b915b8147f4e114c6?utm_campaign=Data%20Analysis&utm_source=1103)** | Richmond, VA | On Site | Dec 26 |
 | ↳ | **[Field Data Collector – SCF (Rehire Only)](https://jobright.ai/jobs/info/676da66b915b8147f4e114c7?utm_campaign=Data%20Analysis&utm_source=1103)** | St Louis, MO | On Site | Dec 26 |
+| ↳ | **[Field Data Collector – SCF (Rehire Only)](https://jobright.ai/jobs/info/676da66b915b8147f4e114c6?utm_campaign=Data%20Analysis&utm_source=1103)** | Richmond, VA | On Site | Dec 26 |
 | ↳ | **[Field Data Collector – SCF (Rehire Only)](https://jobright.ai/jobs/info/676da66b915b8147f4e114ca?utm_campaign=Data%20Analysis&utm_source=1103)** | Hartford, CT | On Site | Dec 26 |
 | ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dadcd?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Collins, CO | On Site | Dec 26 |
 | ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dadce?utm_campaign=Data%20Analysis&utm_source=1103)** | Boulder, CO | On Site | Dec 26 |
-| ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dadd0?utm_campaign=Data%20Analysis&utm_source=1103)** | Aurora, CO | On Site | Dec 26 |
-| ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dadd1?utm_campaign=Data%20Analysis&utm_source=1103)** | Tacoma, WA | On Site | Dec 26 |
 | ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dadcf?utm_campaign=Data%20Analysis&utm_source=1103)** | Arlington, TX | On Site | Dec 26 |
-| ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dadd2?utm_campaign=Data%20Analysis&utm_source=1103)** | Masontown, PA | On Site | Dec 26 |
-| ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dadd5?utm_campaign=Data%20Analysis&utm_source=1103)** | Franklin, NE | On Site | Dec 26 |
+| ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dadd1?utm_campaign=Data%20Analysis&utm_source=1103)** | Tacoma, WA | On Site | Dec 26 |
+| ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dadd0?utm_campaign=Data%20Analysis&utm_source=1103)** | Aurora, CO | On Site | Dec 26 |
 | ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dadd4?utm_campaign=Data%20Analysis&utm_source=1103)** | Greensburg, PA | On Site | Dec 26 |
 | ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dadd3?utm_campaign=Data%20Analysis&utm_source=1103)** | Everett, WA | On Site | Dec 26 |
-| ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dadd9?utm_campaign=Data%20Analysis&utm_source=1103)** | Clarksville, TN | On Site | Dec 26 |
-| ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dadd8?utm_campaign=Data%20Analysis&utm_source=1103)** | Madison, WI | On Site | Dec 26 |
+| ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dadd5?utm_campaign=Data%20Analysis&utm_source=1103)** | Franklin, NE | On Site | Dec 26 |
+| ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dadd2?utm_campaign=Data%20Analysis&utm_source=1103)** | Masontown, PA | On Site | Dec 26 |
 | ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dadd6?utm_campaign=Data%20Analysis&utm_source=1103)** | Plano, TX | On Site | Dec 26 |
+| ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dadd8?utm_campaign=Data%20Analysis&utm_source=1103)** | Madison, WI | On Site | Dec 26 |
 | ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dadd7?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Worth, TX | On Site | Dec 26 |
+| ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dadd9?utm_campaign=Data%20Analysis&utm_source=1103)** | Clarksville, TN | On Site | Dec 26 |
 | ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dadda?utm_campaign=Data%20Analysis&utm_source=1103)** | McKinney, TX | On Site | Dec 26 |
 | ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8daddb?utm_campaign=Data%20Analysis&utm_source=1103)** | Newport, KY | On Site | Dec 26 |
 | ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dadde?utm_campaign=Data%20Analysis&utm_source=1103)** | Harrisburg, PA | On Site | Dec 26 |
-| ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8daddc?utm_campaign=Data%20Analysis&utm_source=1103)** | Tennessee, United States | On Site | Dec 26 |
 | ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8daddd?utm_campaign=Data%20Analysis&utm_source=1103)** | Wilmington, DE | On Site | Dec 26 |
+| ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8daddc?utm_campaign=Data%20Analysis&utm_source=1103)** | Tennessee, United States | On Site | Dec 26 |
 | ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8daddf?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlantic City, NJ | On Site | Dec 26 |
 | ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dade0?utm_campaign=Data%20Analysis&utm_source=1103)** | New Braunfels, TX | On Site | Dec 26 |
-| ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dade4?utm_campaign=Data%20Analysis&utm_source=1103)** | Cranberry Township, PA | On Site | Dec 26 |
-| ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dade5?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Thomas, KY | On Site | Dec 26 |
 | ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dade3?utm_campaign=Data%20Analysis&utm_source=1103)** | Covington, KY | On Site | Dec 26 |
+| ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dade4?utm_campaign=Data%20Analysis&utm_source=1103)** | Cranberry Township, PA | On Site | Dec 26 |
 | ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dade2?utm_campaign=Data%20Analysis&utm_source=1103)** | Chapel Hill, NC | On Site | Dec 26 |
 | ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dade1?utm_campaign=Data%20Analysis&utm_source=1103)** | Georgetown, KY | On Site | Dec 26 |
+| ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dade5?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Thomas, KY | On Site | Dec 26 |
 | ↳ | **[Field Data Collector – NLS72](https://jobright.ai/jobs/info/676db1c7a980bcc7ea8dade6?utm_campaign=Data%20Analysis&utm_source=1103)** | Cary, NC | On Site | Dec 26 |
 | **[The Geneva Foundation](https://genevausa.org)** | **[Research Assistant I](https://jobright.ai/jobs/info/672d3d2c227af53f717121a4?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Benning, GA | On Site | Dec 26 |
 | **[eClerx](http://www.eclerx.com/)** | **[Data governance and analytics analyst](https://jobright.ai/jobs/info/66f5e421c9f887ef3d5f064a?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 26 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Associate, Data Acquisition](https://jobright.ai/jobs/info/674c46c7c2a86a36bad0cf79?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Dec 26 |
-| **[Penta Group](https://pentagroup.co)** | **[Insights Analyst](https://jobright.ai/jobs/info/67474e0f55ecfc26e2ed9b02?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, D.C, New York City, and Remote | Remote | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
