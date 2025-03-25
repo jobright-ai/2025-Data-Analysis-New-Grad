@@ -57,6 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina State University](http://www.ncsu.edu/)** | **[Data Governance Specialist](https://jobright.ai/jobs/info/67e208a181e386663375cded?utm_campaign=Data%20Analysis&utm_source=1103)** | Raleigh, NC | Hybrid | Mar 24 |
+| **[Imprivata](http://www.imprivata.com)** | **[Data Scientist](https://jobright.ai/jobs/info/67e21121690750af56775fea?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX | Hybrid | Mar 24 |
+| ↳ | **[Data Scientist](https://jobright.ai/jobs/info/67e21121690750af567760d0?utm_campaign=Data%20Analysis&utm_source=1103)** | Waltham, MA | Hybrid | Mar 24 |
+| ↳ | **[Data Scientist](https://jobright.ai/jobs/info/67e21121690750af567760d1?utm_campaign=Data%20Analysis&utm_source=1103)** | Saint Petersburg, FL | Hybrid | Mar 24 |
+| ↳ | **[Data Scientist](https://jobright.ai/jobs/info/67e21121690750af567760d2?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Mar 24 |
+| **[RAND](http://www.rand.org)** | **[Data Collector, Part-time – Alaska Elementary Schools](https://jobright.ai/jobs/info/67e1fd0950e47510a331d9a0?utm_campaign=Data%20Analysis&utm_source=1103)** | Alaska | On Site | Mar 24 |
+| **[Stout](http://www.stout.com)** | **[Analyst, Wage and Hour - Disputes, Claims & Investigations](https://jobright.ai/jobs/info/67e1fd0950e47510a331e09c?utm_campaign=Data%20Analysis&utm_source=1103)** | San Diego, CA | Hybrid | Mar 24 |
+| ↳ | **[Analyst, Wage and Hour - Disputes, Claims & Investigations](https://jobright.ai/jobs/info/67e1fd0950e47510a331e09d?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | Hybrid | Mar 24 |
+| ↳ | **[Analyst, Wage and Hour - Disputes, Claims & Investigations](https://jobright.ai/jobs/info/67e1fd0950e47510a331d9d9?utm_campaign=Data%20Analysis&utm_source=1103)** | Grand Rapids, MI | Hybrid | Mar 24 |
+| ↳ | **[Analyst, Wage and Hour - Disputes, Claims & Investigations](https://jobright.ai/jobs/info/67e1fd0950e47510a331e098?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Mar 24 |
+| ↳ | **[Analyst, Wage and Hour - Disputes, Claims & Investigations](https://jobright.ai/jobs/info/67e1fd0950e47510a331e099?utm_campaign=Data%20Analysis&utm_source=1103)** | Detroit, MI | Hybrid | Mar 24 |
+| ↳ | **[Analyst, Wage and Hour - Disputes, Claims & Investigations](https://jobright.ai/jobs/info/67e1fd0950e47510a331e09b?utm_campaign=Data%20Analysis&utm_source=1103)** | Dallas, TX | Hybrid | Mar 24 |
+| ↳ | **[Analyst, Wage and Hour - Disputes, Claims & Investigations](https://jobright.ai/jobs/info/67e1fd0950e47510a331e09a?utm_campaign=Data%20Analysis&utm_source=1103)** | Irvine, CA | Hybrid | Mar 24 |
+| **[Iron Mountain](http://www.ironmountain.com)** | **[Data Scientist](https://jobright.ai/jobs/info/67e1fd0950e47510a331e0ce?utm_campaign=Data%20Analysis&utm_source=1103)** | US | FL | Remote | Remote | Mar 24 |
+| ↳ | **[Data Scientist](https://jobright.ai/jobs/info/67e1fd0950e47510a331e0cd?utm_campaign=Data%20Analysis&utm_source=1103)** | US | GA | Remote | Remote | Mar 24 |
+| ↳ | **[Data Scientist](https://jobright.ai/jobs/info/67e1fd0950e47510a331e0cb?utm_campaign=Data%20Analysis&utm_source=1103)** | US | AL | Remote | Remote | Mar 24 |
+| ↳ | **[Data Scientist](https://jobright.ai/jobs/info/67e1fd0950e47510a331e0cf?utm_campaign=Data%20Analysis&utm_source=1103)** | US | NJ | Remote | Remote | Mar 24 |
+| ↳ | **[Data Scientist](https://jobright.ai/jobs/info/67e1fd0950e47510a331e0cc?utm_campaign=Data%20Analysis&utm_source=1103)** | US | MA | Remote | Remote | Mar 24 |
+| ↳ | **[Data Scientist](https://jobright.ai/jobs/info/67e1fd0950e47510a331db6d?utm_campaign=Data%20Analysis&utm_source=1103)** | US | AZ | Remote | Remote | Mar 24 |
 | **[Ameren](http://ameren.com)** | **[GIS Analyst](https://jobright.ai/jobs/info/67e1d860654a63ab6a8db9ef?utm_campaign=Data%20Analysis&utm_source=1103)** | Collinsville, IL | On Site | Mar 24 |
 | **[TransUnion](http://www.transunion.com)** | **[Analyst Data Science and Analytics](https://jobright.ai/jobs/info/67e1d54e2d155f690d6171cb?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Remote | Mar 24 |
 | **[Tlingit Haida Tribal Business Corporation](https://thservicesllc.com/)** | **[GIS Tech](https://jobright.ai/jobs/info/67e1e23c6c5a6aabb2463463?utm_campaign=Data%20Analysis&utm_source=1103)** | Colorado Springs, CO | On Site | Mar 24 |
@@ -72,11 +91,12 @@ For a complete list, click the following sortable link below:
 | **[HCLTech](https://www.hcltech.com/)** | **[Canadian French Bilingual-Data Quality Analyst](https://jobright.ai/jobs/info/67e199dbbb9e147afc7d1afe?utm_campaign=Data%20Analysis&utm_source=1103)** | Reno, NV | On Site | Mar 24 |
 | ↳ | **[Spanish Bilingual - Data Quality Analyst](https://jobright.ai/jobs/info/67e1948f1dda09b81fbdc154?utm_campaign=Data%20Analysis&utm_source=1103)** | Reno, NV | On Site | Mar 24 |
 | **[Texas A&M University](http://www.tamu.edu/)** | **[Multimodal Data Fusion & Modeling Specialist - Part-Time](https://jobright.ai/jobs/info/67e188fc527f7b8c72a17d4d?utm_campaign=Data%20Analysis&utm_source=1103)** | College Station, TX | On Site | Mar 24 |
-| **[NasTech Global, Inc.,](https://nastechglobal.com)** | **[Data Analyst with Security Clearance](https://jobright.ai/jobs/info/67e18f14385cac7be7a80c2c?utm_campaign=Data%20Analysis&utm_source=1103)** | Honolulu, HI | On Site | Mar 24 |
 | **[Itlize Global LLC](https://www.itlize.com)** | **[Business Intelligence and Data Science Developers](https://jobright.ai/jobs/info/67e1828f04172038beb83d51?utm_campaign=Data%20Analysis&utm_source=1103)** | Piscataway, NJ | On Site | Mar 24 |
 | **[Axle](https://axleinfo.com/)** | **[Pathology Data Management and Application Specialist](https://jobright.ai/jobs/info/67e16a62f08d7ac3e8e26ed8?utm_campaign=Data%20Analysis&utm_source=1103)** | Rockville, MD | On Site | Mar 24 |
 | **[iSoftStone](https://www.isoftstoneinc.com)** | **[At-Home iPhone/iPad Data Collector](https://jobright.ai/jobs/info/67d468d772b69e22896fcf83?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Mar 24 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist- Tiktok Ads](https://jobright.ai/jobs/info/67c47d359b9e721012476c93?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Mar 24 |
 | **[Ankura](https://ankura.com)** | **[Associate, Data & Technology, eDiscovery](https://jobright.ai/jobs/info/678bb06977a8119c0081dadb?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Mar 24 |
+| **[The Voleon Group](http://voleon.com/)** | **[Data Scientist, Trading Operations](https://jobright.ai/jobs/info/66e52b99ea8d04a526a0f8ac?utm_campaign=Data%20Analysis&utm_source=1103)** | Berkeley, CA | Hybrid | Mar 24 |
 | **[EdEn Inc](https://www.eden-inc.com)** | **[Occupancy Data Specialist](https://jobright.ai/jobs/info/67e0deab9e3193e6574d5f17?utm_campaign=Data%20Analysis&utm_source=1103)** | Cleveland, OH | On Site | Mar 23 |
 | **[American Bridge 21st Century](https://americanbridgepac.org/)** | **[Tracker/Field Researcher for New Jersey or Philadelphia](https://jobright.ai/jobs/info/67e1e79596ad8d410c05d824?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | On Site | Mar 23 |
 | **[Point72](https://www.point72.com)** | **[Data Scientist, Proprietary Research](https://jobright.ai/jobs/info/67e0b2d8a6bf30c09ae91548?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Mar 23 |
@@ -123,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Investment Data Analyst](https://jobright.ai/jobs/info/67ddfd35985c29c5fe7bad0e?utm_campaign=Data%20Analysis&utm_source=1103)** | Englewood, CO | Hybrid | Mar 21 |
 | **[Ascot Group](https://ascotgroup.com/)** | **[Actuarial Data Analyst](https://jobright.ai/jobs/info/67de01ed6efee23d378f5aa6?utm_campaign=Data%20Analysis&utm_source=1103)** | Stamford, CT | Hybrid | Mar 21 |
 | ↳ | **[Actuarial Data Analyst](https://jobright.ai/jobs/info/67de01ed6efee23d378f5d73?utm_campaign=Data%20Analysis&utm_source=1103)** | Iselin, NJ | Hybrid | Mar 21 |
-| ↳ | **[Actuarial Data Analyst](https://jobright.ai/jobs/info/67de01ed6efee23d378f5d76?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Mar 21 |
 | ↳ | **[Actuarial Data Analyst](https://jobright.ai/jobs/info/67de01ed6efee23d378f5d75?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Mar 21 |
+| ↳ | **[Actuarial Data Analyst](https://jobright.ai/jobs/info/67de01ed6efee23d378f5d76?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Mar 21 |
 | **[Great Minds](https://greatminds.org)** | **[Analyst, Strategy & Analytics](https://jobright.ai/jobs/info/67ddf8f77ce2c24e4f46c28b?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | Remote | Mar 21 |
 | **[Supernova Technology™](https://www.supernovacompanies.com/)** | **[Data Analyst](https://jobright.ai/jobs/info/67ddf2fc48885cfa9d25f498?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Mar 21 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Analyst Data Management](https://jobright.ai/jobs/info/67ddf2fc48885cfa9d25f50e?utm_campaign=Data%20Analysis&utm_source=1103)** | Northfield, IL | Remote | Mar 21 |
@@ -163,111 +183,111 @@ For a complete list, click the following sortable link below:
 | **[CostQuest Associates](https://www.costquest.com/)** | **[Data Analyst (Customer Support & Implementation Focus)](https://jobright.ai/jobs/info/67de2c3089f0463a130c2d28?utm_campaign=Data%20Analysis&utm_source=1103)** | Cincinnati, OH | On Site | Mar 20 |
 | **[Sundt Construction](https://www.sundt.com/foundation)** | **[BI Analyst - Dashboard & Visualization Specialist](https://jobright.ai/jobs/info/67dcc6ad39575d422c31773f?utm_campaign=Data%20Analysis&utm_source=1103)** | Tempe, AZ | On Site | Mar 20 |
 | **[YES Prep Public Schools](http://www.yesprep.org/)** | **[College Data Analyst](https://jobright.ai/jobs/info/67dcc6ad39575d422c317701?utm_campaign=Data%20Analysis&utm_source=1103)** | Houston, TX | On Site | Mar 20 |
-| **[Accenture](https://www.accenture.com)** | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6938a?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Louis, 4220 Duncan Avenue, Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6938f?utm_campaign=Data%20Analysis&utm_source=1103)** | Herndon, 2350 Corp Park Dr, ACN Security | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693c4?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, 323 Congress Avenue, Corp | On Site | Mar 20 |
+| **[Accenture](https://www.accenture.com)** | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69398?utm_campaign=Data%20Analysis&utm_source=1103)** | Cleveland, 1400 W 10th Street, Corp | On Site | Mar 20 |
 | ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69390?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, 3565 Piedmont Rd NE., ACN Ops | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693c5?utm_campaign=Data%20Analysis&utm_source=1103)** | Dallas, 1700 Pacific Avenue, CMT | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69383?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, 1670 Broadway, OPS | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693ae?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, 75 Fifth, Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693a0?utm_campaign=Data%20Analysis&utm_source=1103)** | Greenville, 141 Traction St, IX | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693cd?utm_campaign=Data%20Analysis&utm_source=1103)** | Chesterbrook, 955 Chesterbrook Blvd, MS | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6938e?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, Accenture Tower, Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693c1?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlotte, 10815 David Taylor Dr, OPS | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693a2?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, 999 18th St, Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6937f?utm_campaign=Data%20Analysis&utm_source=1103)** | Honolulu, 1177 Bishop, MS | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69372?utm_campaign=Data%20Analysis&utm_source=1103)** | Portland, 2705-2709 SE Ankeny St, Song | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69374?utm_campaign=Data%20Analysis&utm_source=1103)** | San Antonio, 7050 Fairgrounds, AFS | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693d6?utm_campaign=Data%20Analysis&utm_source=1103)** | Peoria, 401 Water Street, Prod | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693ab?utm_campaign=Data%20Analysis&utm_source=1103)** | San Diego, 12680 High Bluff Dr, Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6939b?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlotte, 2425 Cascade Pointe Blvd, ACS | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69387?utm_campaign=Data%20Analysis&utm_source=1103)** | Scottsdale, 4250 Drinkwater Bl, CMT | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69376?utm_campaign=Data%20Analysis&utm_source=1103)** | Woodlawn, 6340 Security Blvd, AFS | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69370?utm_campaign=Data%20Analysis&utm_source=1103)** | Peachtree, 5555 Triangle Pkwy, CMT | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693ad?utm_campaign=Data%20Analysis&utm_source=1103)** | Minneapolis, 923 Nicollet Mall, Song | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6939c?utm_campaign=Data%20Analysis&utm_source=1103)** | Cincinnati, 4th Street, Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69381?utm_campaign=Data%20Analysis&utm_source=1103)** | Kirkland, 416 6th Street South, IX | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693d7?utm_campaign=Data%20Analysis&utm_source=1103)** | Bentonville, 801 SW 12th St., Song | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69378?utm_campaign=Data%20Analysis&utm_source=1103)** | PSEG Edison Training Center | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693c7?utm_campaign=Data%20Analysis&utm_source=1103)** | Beavercreek, 4407 Walnut St., AFS | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693c8?utm_campaign=Data%20Analysis&utm_source=1103)** | Walnut Creek, 1255 Treat Blvd, Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693ca?utm_campaign=Data%20Analysis&utm_source=1103)** | Nashville, 4101 Charlotte Ave., Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693b6?utm_campaign=Data%20Analysis&utm_source=1103)** | Scottsdale, 15279 N Scottsdale Rd, Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693b4?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, One Manhattan West, Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693a1?utm_campaign=Data%20Analysis&utm_source=1103)** | Irvine, 300 Spectrum Center Dr, ACN Tech | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693b2?utm_campaign=Data%20Analysis&utm_source=1103)** | Bloomington, 7760 France Ave S, ACN Tech | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69398?utm_campaign=Data%20Analysis&utm_source=1103)** | Cleveland, 1400 W 10th Street, Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693a4?utm_campaign=Data%20Analysis&utm_source=1103)** | Beaverton, 4145 SW Watson, Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693a9?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, 12365 Riata Trace Pkwy, ACN OPS | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693cc?utm_campaign=Data%20Analysis&utm_source=1103)** | Carmel, 11939 N Meridian St., Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693b0?utm_campaign=Data%20Analysis&utm_source=1103)** | Ocoee, The 529 Building, IX | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693c6?utm_campaign=Data%20Analysis&utm_source=1103)** | Overland Park, 7300 W 110th Street, Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693cf?utm_campaign=Data%20Analysis&utm_source=1103)** | San Antonio, 10931 Laureate Drive, OPS | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69382?utm_campaign=Data%20Analysis&utm_source=1103)** | Fargo, 3900 Great Plains Dr. S., MS | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6938c?utm_campaign=Data%20Analysis&utm_source=1103)** | Albany, 69 State St, Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69384?utm_campaign=Data%20Analysis&utm_source=1103)** | Orlando, 9400 Southpark, Prod | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693bb?utm_campaign=Data%20Analysis&utm_source=1103)** | Louisville, 1965 Hawks Landing, AO | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6937a?utm_campaign=Data%20Analysis&utm_source=1103)** | Hartford, 280 Trumbull, Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6938d?utm_campaign=Data%20Analysis&utm_source=1103)** | Miami, 777 Brickell Ave, Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693ba?utm_campaign=Data%20Analysis&utm_source=1103)** | Chantilly, 5155 Parkstone Dr., Avanade | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69394?utm_campaign=Data%20Analysis&utm_source=1103)** | Greenville, 411 Univ.Ridge, IX | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693cb?utm_campaign=Data%20Analysis&utm_source=1103)** | Omaha, 13033 Pierce St., MS | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693a8?utm_campaign=Data%20Analysis&utm_source=1103)** | Mountain View, 650 Castro, Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693d0?utm_campaign=Data%20Analysis&utm_source=1103)** | Florham Park, 500 Campus, Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693c0?utm_campaign=Data%20Analysis&utm_source=1103)** | Birmingham, 1876 Data, MS | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693bf?utm_campaign=Data%20Analysis&utm_source=1103)** | Portland, 16 Middle St, Strategy | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693be?utm_campaign=Data%20Analysis&utm_source=1103)** | Palm Desert, 73710 Fred Waring Drive, IX | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6937d?utm_campaign=Data%20Analysis&utm_source=1103)** | Morristown, 1 Speedwell Ave, Corp | On Site | Mar 20 |
 | ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693ce?utm_campaign=Data%20Analysis&utm_source=1103)** | Pleasanton, 6200 Stoneridge, CMT | On Site | Mar 20 |
 | ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69388?utm_campaign=Data%20Analysis&utm_source=1103)** | Andover, 400 Minuteman Rd, ACN Tech | On Site | Mar 20 |
 | ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6938b?utm_campaign=Data%20Analysis&utm_source=1103)** | Amarillo, 1050 N Western St., MS | On Site | Mar 20 |
 | ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69391?utm_campaign=Data%20Analysis&utm_source=1103)** | Houston, 1301 Fannin, Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693b5?utm_campaign=Data%20Analysis&utm_source=1103)** | Pittsburgh, 1001 Liberty Ave, Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693b3?utm_campaign=Data%20Analysis&utm_source=1103)** | Tallahassee, 3800 Esplanade Way, HPS | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6939e?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, 55 Water Street, Song | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69373?utm_campaign=Data%20Analysis&utm_source=1103)** | Columbus, 400 W. Nationwide Blvd, Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693a3?utm_campaign=Data%20Analysis&utm_source=1103)** | Houston, 750 Town & Country Blv, Avanade | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69386?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, 154 Morgan Avenue, Song | On Site | Mar 20 |
 | ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693c2?utm_campaign=Data%20Analysis&utm_source=1103)** | Windsor Mill, 3112 Baltimore Lord Dr, IX | On Site | Mar 20 |
 | ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69371?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, 1191 2nd Avenue, Avanade | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693b5?utm_campaign=Data%20Analysis&utm_source=1103)** | Pittsburgh, 1001 Liberty Ave, Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693b3?utm_campaign=Data%20Analysis&utm_source=1103)** | Tallahassee, 3800 Esplanade Way, HPS | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693b4?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, One Manhattan West, Corp | On Site | Mar 20 |
 | ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693b8?utm_campaign=Data%20Analysis&utm_source=1103)** | Whitehall, E. Broad St., AFS | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693aa?utm_campaign=Data%20Analysis&utm_source=1103)** | Louisville, 2600 Eastpoint Pkwy, CMT | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693d3?utm_campaign=Data%20Analysis&utm_source=1103)** | Arlington, 1201 Wilson, Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69399?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, 2001 Market St, Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69393?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, 888 Boylston, Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693d1?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, 1191 2nd Avenue, Corp | On Site | Mar 20 |
 | ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693d4?utm_campaign=Data%20Analysis&utm_source=1103)** | Richmond, 313 E Broad Street, HPS | On Site | Mar 20 |
 | ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69395?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Pete, 140 Fountain Pkwy, Tampa Corp | On Site | Mar 20 |
 | ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69396?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, 120 Wall Street, Song | On Site | Mar 20 |
 | ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693a6?utm_campaign=Data%20Analysis&utm_source=1103)** | Bloomington, 301 Prospect, FS | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693bd?utm_campaign=Data%20Analysis&utm_source=1103)** | San Diego, 1615 Murray Canyon, AFS | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693c3?utm_campaign=Data%20Analysis&utm_source=1103)** | Detroit, 1515 Woodward Avenue, MS | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693af?utm_campaign=Data%20Analysis&utm_source=1103)** | Bentonville, 805 S Walton Blvd., Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693a1?utm_campaign=Data%20Analysis&utm_source=1103)** | Irvine, 300 Spectrum Center Dr, ACN Tech | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693bf?utm_campaign=Data%20Analysis&utm_source=1103)** | Portland, 16 Middle St, Strategy | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693bc?utm_campaign=Data%20Analysis&utm_source=1103)** | Oklahoma City, 525 NW 11th St, Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693d7?utm_campaign=Data%20Analysis&utm_source=1103)** | Bentonville, 801 SW 12th St., Song | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69378?utm_campaign=Data%20Analysis&utm_source=1103)** | PSEG Edison Training Center | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693ba?utm_campaign=Data%20Analysis&utm_source=1103)** | Chantilly, 5155 Parkstone Dr., Avanade | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69394?utm_campaign=Data%20Analysis&utm_source=1103)** | Greenville, 411 Univ.Ridge, IX | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693b2?utm_campaign=Data%20Analysis&utm_source=1103)** | Bloomington, 7760 France Ave S, ACN Tech | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69372?utm_campaign=Data%20Analysis&utm_source=1103)** | Portland, 2705-2709 SE Ankeny St, Song | On Site | Mar 20 |
 | ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6937e?utm_campaign=Data%20Analysis&utm_source=1103)** | Sylvania, 5470 Main Street, CMT | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693b7?utm_campaign=Data%20Analysis&utm_source=1103)** | Redmond, 8383 158th Avenue NE, CMT | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693c9?utm_campaign=Data%20Analysis&utm_source=1103)** | Ewing, 225 Phillips Blvd., MS | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6913a?utm_campaign=Data%20Analysis&utm_source=1103)** | Akron, 12 East Exchange Street, IX | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6939f?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, 5418 McConnell Av -LA1,Song | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69393?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, 888 Boylston, Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693d1?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, 1191 2nd Avenue, Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693cf?utm_campaign=Data%20Analysis&utm_source=1103)** | San Antonio, 10931 Laureate Drive, OPS | On Site | Mar 20 |
 | ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693b1?utm_campaign=Data%20Analysis&utm_source=1103)** | Windsor, 601 Gyrfalcon Court, IX | On Site | Mar 20 |
 | ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693a7?utm_campaign=Data%20Analysis&utm_source=1103)** | Huntsville, 850 Ben Graves Dr NW, AFS | On Site | Mar 20 |
 | ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69375?utm_campaign=Data%20Analysis&utm_source=1103)** | Arlington, 800 N Glebe, AFS | On Site | Mar 20 |
 | ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693ac?utm_campaign=Data%20Analysis&utm_source=1103)** | Brooklyn, 231 Front St, Song | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693be?utm_campaign=Data%20Analysis&utm_source=1103)** | Palm Desert, 73710 Fred Waring Drive, IX | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6937d?utm_campaign=Data%20Analysis&utm_source=1103)** | Morristown, 1 Speedwell Ave, Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69380?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, 2971 Olympic Industr Dr, Song | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6939a?utm_campaign=Data%20Analysis&utm_source=1103)** | Minneapolis, 333 S 7th, Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693d2?utm_campaign=Data%20Analysis&utm_source=1103)** | Detroit, 1001 Woodward Avenue, Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69374?utm_campaign=Data%20Analysis&utm_source=1103)** | San Antonio, 7050 Fairgrounds, AFS | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693d6?utm_campaign=Data%20Analysis&utm_source=1103)** | Peoria, 401 Water Street, Prod | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6938f?utm_campaign=Data%20Analysis&utm_source=1103)** | Herndon, 2350 Corp Park Dr, ACN Security | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693c1?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlotte, 10815 David Taylor Dr, OPS | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693a2?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, 999 18th St, Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693af?utm_campaign=Data%20Analysis&utm_source=1103)** | Bentonville, 805 S Walton Blvd., Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693a8?utm_campaign=Data%20Analysis&utm_source=1103)** | Mountain View, 650 Castro, Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69383?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, 1670 Broadway, OPS | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6937b?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento, 1610 R Street, Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69377?utm_campaign=Data%20Analysis&utm_source=1103)** | Lansing, 111 S Capitol, MS | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693d5?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, 1910 Fairview, Avanade | On Site | Mar 20 |
 | ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69389?utm_campaign=Data%20Analysis&utm_source=1103)** | Salt Lake City, 6322 South, MS | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693c3?utm_campaign=Data%20Analysis&utm_source=1103)** | Detroit, 1515 Woodward Avenue, MS | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693c4?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, 323 Congress Avenue, Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6937f?utm_campaign=Data%20Analysis&utm_source=1103)** | Honolulu, 1177 Bishop, MS | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693a5?utm_campaign=Data%20Analysis&utm_source=1103)** | Milwaukee, 790 N Milwaukee St, Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693b9?utm_campaign=Data%20Analysis&utm_source=1103)** | Des Moines, 909 Locust, Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69379?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Louis, 520 Maryville Center Dr., AFS | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69385?utm_campaign=Data%20Analysis&utm_source=1103)** | Raleigh, 555 Fayetteville, Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693d0?utm_campaign=Data%20Analysis&utm_source=1103)** | Florham Park, 500 Campus, Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693c0?utm_campaign=Data%20Analysis&utm_source=1103)** | Birmingham, 1876 Data, MS | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69381?utm_campaign=Data%20Analysis&utm_source=1103)** | Kirkland, 416 6th Street South, IX | On Site | Mar 20 |
 | ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69397?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlotte, 1120 S Tryon St., Corp | On Site | Mar 20 |
 | ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6939d?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, 415 Mission Street, Corp | On Site | Mar 20 |
 | ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69392?utm_campaign=Data%20Analysis&utm_source=1103)** | Madison Heights, 1225 Spartan St., IX | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693bc?utm_campaign=Data%20Analysis&utm_source=1103)** | Oklahoma City, 525 NW 11th St, Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6937b?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento, 1610 R Street, Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69377?utm_campaign=Data%20Analysis&utm_source=1103)** | Lansing, 111 S Capitol, MS | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69385?utm_campaign=Data%20Analysis&utm_source=1103)** | Raleigh, 555 Fayetteville, Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69379?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Louis, 520 Maryville Center Dr., AFS | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693d2?utm_campaign=Data%20Analysis&utm_source=1103)** | Detroit, 1001 Woodward Avenue, Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693d5?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, 1910 Fairview, Avanade | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693bd?utm_campaign=Data%20Analysis&utm_source=1103)** | San Diego, 1615 Murray Canyon, AFS | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693aa?utm_campaign=Data%20Analysis&utm_source=1103)** | Louisville, 2600 Eastpoint Pkwy, CMT | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693d3?utm_campaign=Data%20Analysis&utm_source=1103)** | Arlington, 1201 Wilson, Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69370?utm_campaign=Data%20Analysis&utm_source=1103)** | Peachtree, 5555 Triangle Pkwy, CMT | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693ad?utm_campaign=Data%20Analysis&utm_source=1103)** | Minneapolis, 923 Nicollet Mall, Song | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6939c?utm_campaign=Data%20Analysis&utm_source=1103)** | Cincinnati, 4th Street, Corp | On Site | Mar 20 |
 | ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6937c?utm_campaign=Data%20Analysis&utm_source=1103)** | Dallas, 5205 N OConnor Las Colinas, Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693a5?utm_campaign=Data%20Analysis&utm_source=1103)** | Milwaukee, 790 N Milwaukee St, Corp | On Site | Mar 20 |
-| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693b9?utm_campaign=Data%20Analysis&utm_source=1103)** | Des Moines, 909 Locust, Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693bb?utm_campaign=Data%20Analysis&utm_source=1103)** | Louisville, 1965 Hawks Landing, AO | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6937a?utm_campaign=Data%20Analysis&utm_source=1103)** | Hartford, 280 Trumbull, Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6938d?utm_campaign=Data%20Analysis&utm_source=1103)** | Miami, 777 Brickell Ave, Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69382?utm_campaign=Data%20Analysis&utm_source=1103)** | Fargo, 3900 Great Plains Dr. S., MS | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6938c?utm_campaign=Data%20Analysis&utm_source=1103)** | Albany, 69 State St, Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69384?utm_campaign=Data%20Analysis&utm_source=1103)** | Orlando, 9400 Southpark, Prod | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693c6?utm_campaign=Data%20Analysis&utm_source=1103)** | Overland Park, 7300 W 110th Street, Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69386?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, 154 Morgan Avenue, Song | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693a4?utm_campaign=Data%20Analysis&utm_source=1103)** | Beaverton, 4145 SW Watson, Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693a9?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, 12365 Riata Trace Pkwy, ACN OPS | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693b0?utm_campaign=Data%20Analysis&utm_source=1103)** | Ocoee, The 529 Building, IX | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69399?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, 2001 Market St, Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69380?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, 2971 Olympic Industr Dr, Song | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6939a?utm_campaign=Data%20Analysis&utm_source=1103)** | Minneapolis, 333 S 7th, Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6939e?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, 55 Water Street, Song | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69373?utm_campaign=Data%20Analysis&utm_source=1103)** | Columbus, 400 W. Nationwide Blvd, Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693a3?utm_campaign=Data%20Analysis&utm_source=1103)** | Houston, 750 Town & Country Blv, Avanade | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693b6?utm_campaign=Data%20Analysis&utm_source=1103)** | Scottsdale, 15279 N Scottsdale Rd, Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693cc?utm_campaign=Data%20Analysis&utm_source=1103)** | Carmel, 11939 N Meridian St., Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693cb?utm_campaign=Data%20Analysis&utm_source=1103)** | Omaha, 13033 Pierce St., MS | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693b7?utm_campaign=Data%20Analysis&utm_source=1103)** | Redmond, 8383 158th Avenue NE, CMT | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693c9?utm_campaign=Data%20Analysis&utm_source=1103)** | Ewing, 225 Phillips Blvd., MS | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6913a?utm_campaign=Data%20Analysis&utm_source=1103)** | Akron, 12 East Exchange Street, IX | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6939f?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, 5418 McConnell Av -LA1,Song | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693c7?utm_campaign=Data%20Analysis&utm_source=1103)** | Beavercreek, 4407 Walnut St., AFS | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693c8?utm_campaign=Data%20Analysis&utm_source=1103)** | Walnut Creek, 1255 Treat Blvd, Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693ca?utm_campaign=Data%20Analysis&utm_source=1103)** | Nashville, 4101 Charlotte Ave., Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693ab?utm_campaign=Data%20Analysis&utm_source=1103)** | San Diego, 12680 High Bluff Dr, Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6939b?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlotte, 2425 Cascade Pointe Blvd, ACS | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69387?utm_campaign=Data%20Analysis&utm_source=1103)** | Scottsdale, 4250 Drinkwater Bl, CMT | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6938a?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Louis, 4220 Duncan Avenue, Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e69376?utm_campaign=Data%20Analysis&utm_source=1103)** | Woodlawn, 6340 Security Blvd, AFS | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693ae?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, 75 Fifth, Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693a0?utm_campaign=Data%20Analysis&utm_source=1103)** | Greenville, 141 Traction St, IX | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693cd?utm_campaign=Data%20Analysis&utm_source=1103)** | Chesterbrook, 955 Chesterbrook Blvd, MS | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e6938e?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, Accenture Tower, Corp | On Site | Mar 20 |
+| ↳ | **[Data & Asset Analyst](https://jobright.ai/jobs/info/67dcb71e1a592ce3c6e693c5?utm_campaign=Data%20Analysis&utm_source=1103)** | Dallas, 1700 Pacific Avenue, CMT | On Site | Mar 20 |
 | **[Strata Decision Technology](http://www.stratadecision.com)** | **[Data Analyst](https://jobright.ai/jobs/info/67dcb3365cf9d9dcc2160604?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Mar 20 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Graduate Research Assistant](https://jobright.ai/jobs/info/67dcb7d7baee5098b291d352?utm_campaign=Data%20Analysis&utm_source=1103)** | Auburn, AL | On Site | Mar 20 |
 | **[Peterson Institute for International Economics](http://piie.com)** | **[Research Analyst for International Trade](https://jobright.ai/jobs/info/67dcad92a1e0609923641873?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | On Site | Mar 20 |
@@ -301,6 +321,7 @@ For a complete list, click the following sortable link below:
 | **[RAPP](http://www.rapp.com/)** | **[Data Scientist](https://jobright.ai/jobs/info/67620b89d03d46f04888f424?utm_campaign=Data%20Analysis&utm_source=1103)** | LA Metro Area | Hybrid | Mar 20 |
 | **[Susquehanna International Group](http://sig.com)** | **[Quantitative Systematic Trader – PhD: 2025](https://jobright.ai/jobs/info/67c98cde6e360d9ff36ef363?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Mar 19 |
 | **[Covetrus](https://covetrus.com)** | **[Item Master Analyst](https://jobright.ai/jobs/info/67de34bbdea69f13c6db78ba?utm_campaign=Data%20Analysis&utm_source=1103)** | Ohio, IN | On Site | Mar 19 |
+| **[NYU Langone Health](https://nyulangone.org/)** | **[Research Data Associate * Must have bilingual fluency in Spanish and English *](https://jobright.ai/jobs/info/67c2dbe3681c971e7866adcb?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Mar 19 |
 | **[Hospital for Special Surgery](https://www.hss.edu)** | **[Research Assistant II](https://jobright.ai/jobs/info/67db7cc0ddd72c6778cf1bca?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Mar 19 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Decision Scientist](https://jobright.ai/jobs/info/67db7a4093aae28391b40d4a?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Mar 19 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Temporary Donor Services Specialist (Data Analyst and Naming Coordinating)](https://jobright.ai/jobs/info/67db6d88c47ac7e36dfddb43?utm_campaign=Data%20Analysis&utm_source=1103)** | Raleigh, NC | Hybrid | Mar 19 |
@@ -337,9 +358,9 @@ For a complete list, click the following sortable link below:
 | **[California Franchise Tax Board](http://www.ftb.ca.gov)** | **[Receiving and Data Storage Analyst](https://jobright.ai/jobs/info/67db4d420922024e73cc0b0d?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento, CA | Hybrid | Mar 18 |
 | **[KBRA](https://www.kbra.com)** | **[ABS Surveillance Data Entry Analyst ](https://jobright.ai/jobs/info/67da10f67b68c8a41cb5cc68?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, New York | Hybrid | Mar 18 |
 | **[COUNTRY Financial®](https://www.countryfinancial.com)** | **[Data Imaging Assistant](https://jobright.ai/jobs/info/67da1bb596e43d2a509d6f55?utm_campaign=Data%20Analysis&utm_source=1103)** | Bloomington, IL | On Site | Mar 18 |
-| **[RAND](http://www.rand.org)** | **[Early/Mid Technical Research Analyst](https://jobright.ai/jobs/info/67da00e4155d28d486763434?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC (DC Metro Area) | On Site | Mar 18 |
-| ↳ | **[Early/Mid Technical Research Analyst](https://jobright.ai/jobs/info/67da00e4155d28d4867633a7?utm_campaign=Data%20Analysis&utm_source=1103)** | Santa Monica, CA (Greater Los Angeles Area) | On Site | Mar 18 |
+| **[RAND](http://www.rand.org)** | **[Early/Mid Technical Research Analyst](https://jobright.ai/jobs/info/67da00e4155d28d4867633a7?utm_campaign=Data%20Analysis&utm_source=1103)** | Santa Monica, CA (Greater Los Angeles Area) | On Site | Mar 18 |
 | ↳ | **[Early/Mid Technical Research Analyst](https://jobright.ai/jobs/info/67da00e4155d28d486763435?utm_campaign=Data%20Analysis&utm_source=1103)** | Pittsburgh, PA | On Site | Mar 18 |
+| ↳ | **[Early/Mid Technical Research Analyst](https://jobright.ai/jobs/info/67da00e4155d28d486763434?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC (DC Metro Area) | On Site | Mar 18 |
 | **[The Johns Hopkins University](https://www.jhu.edu)** | **[Biostatistician - 117527](https://jobright.ai/jobs/info/67da076028ae086c7c6e8572?utm_campaign=Data%20Analysis&utm_source=1103)** | Baltimore, MD | Hybrid | Mar 18 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Postdoctoral Researcher, Duarte Lab](https://jobright.ai/jobs/info/67cb8ebce08dd064b708b8d1?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX | On Site | Mar 18 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Data Scientist](https://jobright.ai/jobs/info/67d9e009772234042ee3f315?utm_campaign=Data%20Analysis&utm_source=1103)** | Madison, WI | On Site | Mar 18 |
@@ -356,8 +377,4 @@ For a complete list, click the following sortable link below:
 | **[University of Southern California](http://www.usc.edu)** | **[Postdoctoral Scholar - Research Associate](https://jobright.ai/jobs/info/67d44651171f60ebdd822e46?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Mar 18 |
 | **[University of Colorado Boulder](https://www.colorado.edu)** | **[Data Science and Analysis Professional](https://jobright.ai/jobs/info/67d97ae800d1198e413fb55e?utm_campaign=Data%20Analysis&utm_source=1103)** | Boulder, CO | Hybrid | Mar 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Analyst, Litigation - USDS](https://jobright.ai/jobs/info/67bdad3bb9ad53dd2bee9552?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | Hybrid | Mar 18 |
-| ↳ | **[Content Analyst - USDS](https://jobright.ai/jobs/info/67d95af77891b2826cbe8849?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Mar 18 |
-| **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Associate Data Scientist](https://jobright.ai/jobs/info/67bd485a97c45d2acaa41ab9?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Mar 18 |
-| **[NYU Langone Health](https://nyulangone.org/)** | **[Research Coordinator](https://jobright.ai/jobs/info/67d95af77891b2826cbe8a1d?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Mar 18 |
-| **[OMD](http://www.omd.com)** | **[Associate, Data Operations](https://jobright.ai/jobs/info/67a4593869b29bfecbf1ab65?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
