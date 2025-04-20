@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Associate Data Scientist](https://jobright.ai/jobs/info/68051f66dd663023241a97d6?utm_campaign=Data%20Analysis&utm_source=1103)** | Monrovia, CA | On Site | Apr 20 |
+| **[Goldman Sachs](https://www.goldmansachs.com)** | **[Eqs Futures Strat - Engineering - Analyst - GBM Public - NYC](https://jobright.ai/jobs/info/67afbf03924f8f2562793852?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Apr 20 |
 | **[Center for Global Development](http://www.cgdev.org/)** | **[Research Assistant](https://jobright.ai/jobs/info/680473bf685e1c8c17eadbec?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | On Site | Apr 19 |
 | **[ALDI USA](http://www.aldi.com)** | **[Business Data Analyst II,](https://jobright.ai/jobs/info/6803fdf2bd0cb85eabca7b8c?utm_campaign=Data%20Analysis&utm_source=1103)** | Naperville, IL | On Site | Apr 19 |
 | ↳ | **[Business Data Analyst II](https://jobright.ai/jobs/info/6803d92362406fd869da5be7?utm_campaign=Data%20Analysis&utm_source=1103)** | Naperville, IL | On Site | Apr 19 |
+| **[ECG Management Consultants](http://www.ecgmc.com)** | **[Analyst or Senior Analyst, Healthcare: Undergrad-Degree Students, Class of 2025](https://jobright.ai/jobs/info/67a42c6ac73414e835f6c81e?utm_campaign=Data%20Analysis&utm_source=1103)** | San Diego, CA | Hybrid | Apr 19 |
 | **[Q-Centrix](https://www.q-centrix.com/)** | **[VQI Data Abstractor: Part-Time](https://jobright.ai/jobs/info/67e7ec79f18153236586b968?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Apr 19 |
 | **[CharterUP](https://www.charterup.com)** | **[Data Analyst](https://jobright.ai/jobs/info/67ca51d6c92c5898cb4558e2?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, CO | On Site | Apr 19 |
 | **[San Bernardino County](https://linktr.ee/SBCHR)** | **[Statistical Data & Research Outcomes Analyst Trainee*](https://jobright.ai/jobs/info/6803709966aa77d8240d7160?utm_campaign=Data%20Analysis&utm_source=1103)** | San Bernardino, CA | On Site | Apr 19 |
@@ -96,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[The University of Kansas](https://www.lsi.ku.edu)** | **[Assistant Researcher](https://jobright.ai/jobs/info/68029fc88bc5903389e9c35a?utm_campaign=Data%20Analysis&utm_source=1103)** | Lawrence, KS | On Site | Apr 18 |
 | **[UC San Diego](https://extension.ucsd.edu/)** | **[Postdoctoral Scholar - China Data Lab at the 21st Century China Center](https://jobright.ai/jobs/info/6802aa1472994a85b718800d?utm_campaign=Data%20Analysis&utm_source=1103)** | San Diego, CA | On Site | Apr 18 |
 | **[ALDI USA](http://www.aldi.com)** | **[Business Data Analyst II](https://jobright.ai/jobs/info/6802a6a2648905efca60d360?utm_campaign=Data%20Analysis&utm_source=1103)** | Naperville, IL | Hybrid | Apr 18 |
-| **[IPG Health](https://ipghealth.com)** | **[Analyst, Analytics/Insights](https://jobright.ai/jobs/info/68028edbd43f11724fe7bd27?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Apr 18 |
 | **[University of California, Davis](http://ucdavis.edu)** | **[Research Data Analyst (RSCH DATA ANL 3)](https://jobright.ai/jobs/info/6802ff396d89a325fb051cd8?utm_campaign=Data%20Analysis&utm_source=1103)** | Davis, CA | Hybrid | Apr 18 |
 | **[TransUnion](http://www.transunion.com)** | **[Data Analyst](https://jobright.ai/jobs/info/68027caff335ca899a26f1ea?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Apr 18 |
 | **[Q-Centrix](https://www.q-centrix.com/)** | **[CMS/Sepsis Data Abstractor: Full-Time](https://jobright.ai/jobs/info/676159ee64a25fac13d15e3f?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Hybrid | Apr 18 |
@@ -183,9 +185,9 @@ For a complete list, click the following sortable link below:
 | **[University of Vermont](http://www.uvm.edu/medicine)** | **[ENIGMA Research Project Assistant](https://jobright.ai/jobs/info/67fef154d08ba43505ad781f?utm_campaign=Data%20Analysis&utm_source=1103)** | Burlington, VT | Hybrid | Apr 15 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Data Analyst, Metrics & Reporting](https://jobright.ai/jobs/info/67fee99aa631f839a5b824d5?utm_campaign=Data%20Analysis&utm_source=1103)** | Mountain Home, TX | Remote | Apr 15 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Data Scientist](https://jobright.ai/jobs/info/67f01708ba92eb874814fb75?utm_campaign=Data%20Analysis&utm_source=1103)** | Palo Alto, CA | On Site | Apr 15 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Data Analyst, Metrics & Reporting](https://jobright.ai/jobs/info/67fecf031d7d0cdc34bea5eb?utm_campaign=Data%20Analysis&utm_source=1103)** | Remote - Colorado, USA | Remote | Apr 15 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Data Analyst, Metrics & Reporting](https://jobright.ai/jobs/info/67fecf031d7d0cdc34bea5ea?utm_campaign=Data%20Analysis&utm_source=1103)** | Work From Home - California | On Site | Apr 15 |
+| ↳ | **[Data Analyst, Metrics & Reporting](https://jobright.ai/jobs/info/67fecf031d7d0cdc34bea5eb?utm_campaign=Data%20Analysis&utm_source=1103)** | Remote - Colorado, USA | Remote | Apr 15 |
 | ↳ | **[Data Analyst, Metrics & Reporting](https://jobright.ai/jobs/info/67fecf031d7d0cdc34bea5ec?utm_campaign=Data%20Analysis&utm_source=1103)** | Work From Home - Texas | On Site | Apr 15 |
-| ↳ | **[Data Analyst, Metrics & Reporting](https://jobright.ai/jobs/info/67fecf031d7d0cdc34bea5ea?utm_campaign=Data%20Analysis&utm_source=1103)** | Work From Home - California | On Site | Apr 15 |
 | ↳ | **[Data Analyst, Metrics & Reporting](https://jobright.ai/jobs/info/67fecf031d7d0cdc34bea42b?utm_campaign=Data%20Analysis&utm_source=1103)** | Work From Home - New York | On Site | Apr 15 |
 | **[Evercore](http://www.evercore.com)** | **[Experienced Analyst / Senior Analyst - Co-Head Team](https://jobright.ai/jobs/info/67fec74a58083caea8e634aa?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Apr 15 |
 | **[Southwest Gas Corporation](https://www.swgas.com/)** | **[Analyst, GIS](https://jobright.ai/jobs/info/67feba3f8b7e3ab64763e451?utm_campaign=Data%20Analysis&utm_source=1103)** | Carson City, NV | On Site | Apr 15 |
@@ -242,50 +244,4 @@ For a complete list, click the following sortable link below:
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Data Integration Analyst - Parametric](https://jobright.ai/jobs/info/67f8965abc503d03f5696f15?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | Hybrid | Apr 14 |
 | **[Spotify](http://www.spotify.com)** | **[Data Scientist I - Podcast](https://jobright.ai/jobs/info/67fd0822711eebe0a412ba22?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Apr 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Graduate (TikTok-Product-Data Science) - 2025 Start (PhD)](https://jobright.ai/jobs/info/67c3275c81697e4b7053f386?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Apr 14 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc707754cb3c927b013599?utm_campaign=Data%20Analysis&utm_source=1103)** | Albany, NY | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abaa?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Arizona | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abbf?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Texas | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abb3?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Kansas | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abb4?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Michigan | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abb1?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Illinois | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abd1?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Colorado | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abcc?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-New Hampshire | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abc9?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Florida | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22aba8?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Arkansas | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abae?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Pennsylvania | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22a65f?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Delaware | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abc4?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Georgia | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22aba9?utm_campaign=Data%20Analysis&utm_source=1103)** | NY - Work from hom | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abcb?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Kentucky | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abb2?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-West Virginia | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abd3?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Nebraska | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abbb?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Tennessee | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abbc?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Vermont | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abba?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Louisiana | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abd2?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Mississippi | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abc8?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-South Dakota | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abc6?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Maryland | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abc1?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Iowa | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abcf?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Virginia | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abce?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Indiana | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abc7?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Maine | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abac?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Oregon | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abb9?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Massachusetts | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abc3?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Wisconsin | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abb7?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Alabama | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abbd?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-North Carolina | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abbe?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Idaho | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abcd?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Connecticut | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abc5?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-District of Columbia | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abc2?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Ohio | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abc0?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Wyoming | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abb0?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-South Carolina | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abab?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-California | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abd0?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Washington | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abca?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Nevada | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abad?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Minnesota | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abb6?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Oklahoma | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abb8?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-Missouri | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abaf?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home-North Dakota | Hybrid | Apr 13 |
-| ↳ | **[Data Scientist - Care Delivery Growth](https://jobright.ai/jobs/info/67fc58810d23255caf22abb5?utm_campaign=Data%20Analysis&utm_source=1103)** | Work At Home - Utah | Hybrid | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
