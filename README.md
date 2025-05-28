@@ -57,11 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RVO Health](https://rvohealth.com/)** | **[Associate, Content Analytics](https://jobright.ai/jobs/info/68375651bce8907e4a93ac72?utm_campaign=Data%20Analysis&utm_source=1103)** | Remote- US | Remote | May 28 |
+| **[Katten Muchin Rosenman LLP](https://katten.com)** | **[Conflicts Analyst I](https://jobright.ai/jobs/info/683727c6acebb2791ea6849a?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | May 28 |
 | **[Circana](https://www.circana.com)** | **[Client Insights Analyst](https://jobright.ai/jobs/info/6822c1f8bb3d50309c65536e?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | On Site | May 28 |
 | **[Accenture](https://www.accenture.com)** | **[Epic HIM (Health Information Management) Senior Analyst](https://jobright.ai/jobs/info/6822a14d2786e42a2342833d?utm_campaign=Data%20Analysis&utm_source=1103)** | Nashville, TN | Hybrid | May 28 |
-| **[Ulta Beauty](https://www.ulta.com)** | **[LP Intelligence Analyst](https://jobright.ai/jobs/info/6836a0d29975ce3d00a1d4e1?utm_campaign=Data%20Analysis&utm_source=1103)** | Bolingbrook, IL | On Site | May 27 |
-| ↳ | **[LP Intelligence Analyst](https://jobright.ai/jobs/info/6836a0d29975ce3d00a1d4cb?utm_campaign=Data%20Analysis&utm_source=1103)** | Bolingbrook, IL | On Site | May 27 |
-| ↳ | **[LP Intelligence Analyst](https://jobright.ai/jobs/info/6836ed948bf347a663c993f6?utm_campaign=Data%20Analysis&utm_source=1103)** | Bolingbrook, IL | On Site | May 27 |
 | **[KeyBank](https://www.key.com)** | **[Quant Analytics Assoc](https://jobright.ai/jobs/info/68367891f526f15cb5e26c8d?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | May 27 |
 | ↳ | **[Quant Analytics Assoc](https://jobright.ai/jobs/info/68366886c55d58bce9f68c58?utm_campaign=Data%20Analysis&utm_source=1103)** | Brooklyn, OH | Remote | May 27 |
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[Data Analysis Specialist - Mental Health 135](https://jobright.ai/jobs/info/68366375d3bc7cf6c1801d28?utm_campaign=Data%20Analysis&utm_source=1103)** | Modesto, CA | On Site | May 27 |
@@ -114,14 +113,14 @@ For a complete list, click the following sortable link below:
 | **[Memorial Sloan Kettering Cancer Center](http://www.mskcc.org)** | **[Graduate Research Assistant](https://jobright.ai/jobs/info/6815b7ae79266d431b47f54b?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | May 24 |
 | **[Fred Hutch](http://www.fredhutch.org/)** | **[Bioinformatics Analyst I-II - TST](https://jobright.ai/jobs/info/6831536de259926b8e416944?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | May 24 |
 | **[Scholastic](http://www.scholastic.com)** | **[Staff, Digital Analyst](https://jobright.ai/jobs/info/681598d1c5b5256d7fe8a519?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | May 24 |
-| **[Criteo](http://www.criteo.com)** | **[Data Analyst](https://jobright.ai/jobs/info/68156b54cfc3e6ef7a82231e?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | Hybrid | May 24 |
+| **[Criteo](http://www.criteo.com)** | **[Data Analyst](https://jobright.ai/jobs/info/6815627aa664853491fab147?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Hybrid | May 24 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[OSINT Collector - Junior](https://jobright.ai/jobs/info/682cce25e55fcc62a33761c3?utm_campaign=Data%20Analysis&utm_source=1103)** | Virginia, United States | Hybrid | May 24 |
 | **[Forrester](http://www.forrester.com)** | **[Data Partner](https://jobright.ai/jobs/info/67f97a886184af2d3d8fd54a?utm_campaign=Data%20Analysis&utm_source=1103)** | Cambridge, MA | On Site | May 24 |
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Statistical Programmer/Sr. Statistical Programmer](https://jobright.ai/jobs/info/67bf5640dd4bbe8d380022ed?utm_campaign=Data%20Analysis&utm_source=1103)** | Pasadena, CA | On Site | May 24 |
 | **[iSpot](http://www.ispot.tv)** | **[Data Analyst](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e2289a?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Hybrid | May 24 |
 | **[The Johns Hopkins University](https://www.jhu.edu)** | **[Research Assistant - 118094](https://jobright.ai/jobs/info/682e64c934f270ad9eb6c6fd?utm_campaign=Data%20Analysis&utm_source=1103)** | Baltimore, MD | On Site | May 24 |
 | **[Garner Health](https://www.getgarner.com/)** | **[Data Analyst I](https://jobright.ai/jobs/info/68156574a8f4770be2d7848f?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | May 24 |
-| **[Criteo](http://www.criteo.com)** | **[Data Analyst](https://jobright.ai/jobs/info/6815756f42e5b72fe12e266a?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Hybrid | May 24 |
+| **[Criteo](http://www.criteo.com)** | **[Data Analyst](https://jobright.ai/jobs/info/68156b54cfc3e6ef7a82231f?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | Hybrid | May 24 |
 | **[University of California, San Francisco](http://www.ucsf.edu)** | **[Li Lab - Junior/Assistant/Associate/Full Specialist](https://jobright.ai/jobs/info/68316e38b5e2f027313e1290?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | May 23 |
 | **[Optum](https://www.optum.com/)** | **[Data Analyst - 2292318](https://jobright.ai/jobs/info/6831667c3a8d7c225a9077b4?utm_campaign=Data%20Analysis&utm_source=1103)** | Eden Prairie, MN | Hybrid | May 23 |
 | **[Sunrise Banks](http://sunrisebanks.com)** | **[MONITORING SERVICES ANALYST](https://jobright.ai/jobs/info/68316057558ee4456e21c28d?utm_campaign=Data%20Analysis&utm_source=1103)** | St Paul, MN | Hybrid | May 23 |
@@ -177,11 +176,4 @@ For a complete list, click the following sortable link below:
 | **[University of Pittsburgh](https://www.pitt.edu/pittwire)** | **[Data Scientist III](https://jobright.ai/jobs/info/68301114382c759fcdb2d014?utm_campaign=Data%20Analysis&utm_source=1103)** | Pittsburgh, PA | On Site | May 21 |
 | **[JetBlue](http://www.jetblue.com/)** | **[Analyst Operational Quality](https://jobright.ai/jobs/info/68300066882211c96c7e13da?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | May 21 |
 | **[East West Bank](http://eastwestbank.com)** | **[BSA Analyst I](https://jobright.ai/jobs/info/682ff2c274521083b3a176c4?utm_campaign=Data%20Analysis&utm_source=1103)** | Pasadena, CA | On Site | May 21 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Data Scientist (US Security Clearance Required)](https://jobright.ai/jobs/info/682e8c5ea48c54eb11057d71?utm_campaign=Data%20Analysis&utm_source=1103)** | Honolulu, HI | Hybrid | May 21 |
-| **[Clemson University](http://www.clemson.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/6824aa815d31762fbf8c5b13?utm_campaign=Data%20Analysis&utm_source=1103)** | Clemson, SC | On Site | May 21 |
-| **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Data Sync Analyst](https://jobright.ai/jobs/info/6814656b8f419a4fb29d0835?utm_campaign=Data%20Analysis&utm_source=1103)** | Camden, NJ | On Site | May 21 |
-| **[Charles River Laboratories](http://www.criver.com)** | **[Report Assistant](https://jobright.ai/jobs/info/682e78aa6160496a83a03f1f?utm_campaign=Data%20Analysis&utm_source=1103)** | Spencerville, OH | On Site | May 21 |
-| **[Apogem Capital](https://apogemcapital.com/)** | **[Data Analytics, Sr. Associate](https://jobright.ai/jobs/info/682e76d7c0dc0f13258b71a9?utm_campaign=Data%20Analysis&utm_source=1103)** | Richmond, VA | On Site | May 21 |
-| **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Analyst - BCG Vantage, Consumer Banking](https://jobright.ai/jobs/info/682e684bf97560d0c6847d45?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | May 21 |
-| **[Wiland](https://wiland.com/)** | **[Associate Data Analyst](https://jobright.ai/jobs/info/68194a1790b9a479e12325e3?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
