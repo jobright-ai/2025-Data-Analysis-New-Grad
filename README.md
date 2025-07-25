@@ -333,9 +333,4 @@ For a complete list, click the following sortable link below:
 | **[Pacific Life](http://www.pacificlife.com/)** | **[Actuarial Data Analyst](https://jobright.ai/jobs/info/687ab778764c3d7411c2f4c8?utm_campaign=Data%20Analysis&utm_source=1103)** | Omaha NE-6750 | On Site | Jul 18 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Research Assistant](https://jobright.ai/jobs/info/6882a5dd835a903aa07efb0d?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston-MA | Hybrid | Jul 18 |
 | **[BlackRock](http://www.blackrock.com)** | **[Associate](https://jobright.ai/jobs/info/688016242097a271a89a0ccc?utm_campaign=Data%20Analysis&utm_source=1103)** | Princeton, NJ | Hybrid | Jul 18 |
-| **[Pacific Life](http://www.pacificlife.com/)** | **[Actuarial Data Analyst](https://jobright.ai/jobs/info/687ab10eed63844c944a528f?utm_campaign=Data%20Analysis&utm_source=1103)** | Newport Beach CA-700 | On Site | Jul 18 |
-| **[Weber Shandwick](http://www.webershandwick.com/)** | **[Analyst](https://jobright.ai/jobs/info/687aadb9764c3d7411c2f33e?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Jul 18 |
-| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Assoc Analyst Distributed Pricing](https://jobright.ai/jobs/info/687aa121ed63844c944a48a0?utm_campaign=Data%20Analysis&utm_source=1103)** | Temecula, CA | On Site | Jul 18 |
-| **[NorthWestern Energy](http://northwesternenergy.com)** | **[GIS Analyst](https://jobright.ai/jobs/info/687a976aed63844c944a40ab?utm_campaign=Data%20Analysis&utm_source=1103)** | Bozeman,MT,US | On Site | Jul 18 |
-| **[Tiffany & Co.](http://www.tiffany.com)** | **[Multi-Sourcing Analyst](https://jobright.ai/jobs/info/687a96f5764c3d7411c2e189?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
