@@ -106,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[PINKERTON](http://www.maxsecuritys.com)** | **[Intelligence Analyst](https://jobright.ai/jobs/info/689ad2485574fd6bc0c865d1?utm_campaign=Data%20Analysis&utm_source=1103)** | San Mateo, CA | On Site | Aug 11 |
 | **[Citi](https://www.citi.com)** | **[Data Quality Senior Analyst (hybrid)](https://jobright.ai/jobs/info/689a96d45574fd6bc0c83d6e?utm_campaign=Data%20Analysis&utm_source=1103)** | Tampa, FL | Hybrid | Aug 11 |
 | **[University of North Texas](http://unt.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/689a950a5574fd6bc0c83b99?utm_campaign=Data%20Analysis&utm_source=1103)** | Denton, TX | On Site | Aug 11 |
-| **[Harris Computer](http://www.harriscomputer.com)** | **[GIS Specialist](https://jobright.ai/jobs/info/689ad1c9faa4e875e825c927?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Aug 11 |
-| ↳ | **[GIS Specialist](https://jobright.ai/jobs/info/689ad83583d13d1f5b69cf12?utm_campaign=Data%20Analysis&utm_source=1103)** | Colorado, United States | On Site | Aug 11 |
+| **[Harris Computer](http://www.harriscomputer.com)** | **[GIS Specialist](https://jobright.ai/jobs/info/689ad83583d13d1f5b69cf12?utm_campaign=Data%20Analysis&utm_source=1103)** | Colorado, United States | On Site | Aug 11 |
+| ↳ | **[GIS Specialist](https://jobright.ai/jobs/info/689ad1c9faa4e875e825c927?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Aug 11 |
 | ↳ | **[GIS Specialist](https://jobright.ai/jobs/info/689ad250faa4e875e825c9c6?utm_campaign=Data%20Analysis&utm_source=1103)** | Texas, United States | On Site | Aug 11 |
 | **[Baptist Health](http://baptisthealth.net/)** | **[HIM Clinical Data Analyst, Remote, Health Information Management, FT, 08:30A-5P](https://jobright.ai/jobs/info/689ab25b83d13d1f5b69b4ff?utm_campaign=Data%20Analysis&utm_source=1103)** | Florida, United States | Remote | Aug 11 |
 | **[Microsoft](https://www.microsoft.com)** | **[Applied Scientist II - M365](https://jobright.ai/jobs/info/689a82695574fd6bc0c83227?utm_campaign=Data%20Analysis&utm_source=1103)** | Redmond, WA | Hybrid | Aug 11 |
@@ -228,6 +228,7 @@ For a complete list, click the following sortable link below:
 | **[MetroStar](http://www.metrostarsystems.com)** | **[Associate Data Scientist (5682)](https://jobright.ai/jobs/info/67aba1b2f5eb47cd281b45a3?utm_campaign=Data%20Analysis&utm_source=1103)** | Quantico, VA | Hybrid | Aug 08 |
 | **[BD](https://www.bd.com)** | **[Data Specialist II](https://jobright.ai/jobs/info/68977d348c6d6b442678c8f5?utm_campaign=Data%20Analysis&utm_source=1103)** | San Diego, CA | On Site | Aug 08 |
 | **[Oak Street Health, part of CVS Health](http://www.oakstreethealth.com)** | **[Specialist,Clinical Informatics](https://jobright.ai/jobs/info/689ad290faa4e875e825c9f7?utm_campaign=Data%20Analysis&utm_source=1103)** | Cincinnati, OH | Hybrid | Aug 08 |
+| **[Guidehouse](https://guidehouse.com)** | **[Data Analyst/Data Scientist](https://jobright.ai/jobs/info/689c53e379a9f966625387e1?utm_campaign=Data%20Analysis&utm_source=1103)** | District of Columbia, United States | On Site | Aug 08 |
 | **[BD](https://www.bd.com)** | **[Data Specialist II](https://jobright.ai/jobs/info/68985c36faa4e875e824f25a?utm_campaign=Data%20Analysis&utm_source=1103)** | San Diego, CA | On Site | Aug 07 |
 | **[Driven Brands Inc.](http://www.drivenbrands.com/)** | **[Data Analyst](https://jobright.ai/jobs/info/68985e255574fd6bc0c7931a?utm_campaign=Data%20Analysis&utm_source=1103)** | Benicia, CA | On Site | Aug 07 |
 | **[Engine](engine.com)** | **[Data Analyst](https://jobright.ai/jobs/info/68984ae55574fd6bc0c770e3?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Aug 07 |
@@ -246,8 +247,8 @@ For a complete list, click the following sortable link below:
 | **[BCG X](https://www.bcg.com/x)** | **[Data Scientist, Campus, United States - BCG X](https://jobright.ai/jobs/info/689542858c6d6b4426778647?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | On Site | Aug 07 |
 | ↳ | **[Data Scientist, Campus, United States - BCG X](https://jobright.ai/jobs/info/689541354ed2ea559ca5468d?utm_campaign=Data%20Analysis&utm_source=1103)** | Miami, FL | On Site | Aug 07 |
 | **[Atlas Field Services](https://www.atlasfieldservice.com/)** | **[Utility Data Analyst](https://jobright.ai/jobs/info/68985e1efaa4e875e824f5da?utm_campaign=Data%20Analysis&utm_source=1103)** | Fremont, CA | On Site | Aug 07 |
-| ↳ | **[Utility Data Analyst](https://jobright.ai/jobs/info/689867cb5574fd6bc0c79ee5?utm_campaign=Data%20Analysis&utm_source=1103)** | Oakland, CA | On Site | Aug 07 |
 | ↳ | **[Utility Data Analyst](https://jobright.ai/jobs/info/689834a283d13d1f5b68bb92?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Aug 07 |
+| ↳ | **[Utility Data Analyst](https://jobright.ai/jobs/info/689867cb5574fd6bc0c79ee5?utm_campaign=Data%20Analysis&utm_source=1103)** | Oakland, CA | On Site | Aug 07 |
 | ↳ | **[Utility Data Analyst](https://jobright.ai/jobs/info/68984e7583d13d1f5b68dcc2?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Aug 07 |
 | ↳ | **[Utility Data Analyst](https://jobright.ai/jobs/info/689831acfaa4e875e824b6ca?utm_campaign=Data%20Analysis&utm_source=1103)** | Santa Rosa, CA | On Site | Aug 07 |
 | **[BCG X](https://www.bcg.com/x)** | **[Data Scientist, Campus, United States - BCG X](https://jobright.ai/jobs/info/68953fa44ed2ea559ca545c0?utm_campaign=Data%20Analysis&utm_source=1103)** | Manhattan Beach, CA | On Site | Aug 07 |
@@ -347,12 +348,4 @@ For a complete list, click the following sortable link below:
 | **[Jensen Hughes](https://www.jensenhughes.com/)** | **[Associate Investigative Analyst](https://jobright.ai/jobs/info/6893a73af47efe2113965c02?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Aug 06 |
 | **[Optimum Sports](https://optimumsports.com)** | **[Analyst - Operations and Analytics](https://jobright.ai/jobs/info/6893a41e4c7e851b90adeee0?utm_campaign=Data%20Analysis&utm_source=1103)** | New York | On Site | Aug 06 |
 | **[UW Health](http://www.uwhealth.org/)** | **[Registry Oncology Data Specialist](https://jobright.ai/jobs/info/6893a406a9199876488dec33?utm_campaign=Data%20Analysis&utm_source=1103)** | 7974 UW HEALTH CT, MIDDLETON, WI, 53562, US | Remote | Aug 06 |
-| **[Amazon](https://amazon.com)** | **[Business Intel Engineer III - AMZ9442106](https://jobright.ai/jobs/info/689384e84c7e851b90addfef?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, Washington, USA | On Site | Aug 06 |
-| ↳ | **[Business Intel Engineer II - AMZ9442122](https://jobright.ai/jobs/info/68938567f47efe2113964a88?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, Washington, USA | Remote | Aug 06 |
-| ↳ | **[Business Intel Engineer III - AMZ9674043](https://jobright.ai/jobs/info/68936a10f47efe2113963f62?utm_campaign=Data%20Analysis&utm_source=1103)** | Dallas, Texas, USA | On Site | Aug 06 |
-| **[Durham ADAPT](https://www.durham.hsrd.research.va.gov/)** | **[GS 7/9 Research Assistant- DO NOT APPLY VIA LINKED IN](https://jobright.ai/jobs/info/68939c84f47efe2113965533?utm_campaign=Data%20Analysis&utm_source=1103)** | Durham, NC | On Site | Aug 06 |
-| **[HCLTech](https://www.hcltech.com/)** | **[Spanish Bilingual - Data Quality Analyst](https://jobright.ai/jobs/info/6893ee03f47efe2113967e3a?utm_campaign=Data%20Analysis&utm_source=1103)** | Reno, NV | On Site | Aug 06 |
-| **[Baselayer](Baselayer.com)** | **[Data Scientist](https://jobright.ai/jobs/info/6893951ca9199876488de695?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | Hybrid | Aug 06 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Analytics Engineer](https://jobright.ai/jobs/info/6880c30cf4f06100f3a20a20?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Aug 06 |
-| **[Knowledgent](http://www.knowledgent.com)** | **[Anti-Money Laundering (AML) Analyst](https://jobright.ai/jobs/info/68938b07f47efe2113964dc4?utm_campaign=Data%20Analysis&utm_source=1103)** | Louisville, TN | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
