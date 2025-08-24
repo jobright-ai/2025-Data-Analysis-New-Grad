@@ -106,6 +106,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist (Starlink)](https://jobright.ai/jobs/info/68a8f505758f2e4ac3ff6578?utm_campaign=Data%20Analysis&utm_source=1103)** | Redmond, WA | On Site | Aug 22 |
 | **[Calero](https://www.calero.com/)** | **[Junior MDM Analyst](https://jobright.ai/jobs/info/687b90a2ed63844c944a8fb4?utm_campaign=Data%20Analysis&utm_source=1103)** | Rochester, NY | Hybrid | Aug 22 |
 | **[Coppin State University](http://www.coppin.edu/)** | **[Intelligence Analyst - BDHI](https://jobright.ai/jobs/info/68a8e4b7758f2e4ac3ff615a?utm_campaign=Data%20Analysis&utm_source=1103)** | UBalt HIDTA /CPSI /CAPE Washington Blvd | Hybrid | Aug 22 |
+| **[Kahana Feld](https://kahanafeld.com/)** | **[Conflicts Data Analyst](https://jobright.ai/jobs/info/688c0bac1808534a89cb7ed2?utm_campaign=Data%20Analysis&utm_source=1103)** | Irvine, CA | Hybrid | Aug 22 |
 | **[OpenLoop](https://openloophealth.com)** | **[Business Intelligence Analyst](https://jobright.ai/jobs/info/68a8d86d6acf96396f7234a8?utm_campaign=Data%20Analysis&utm_source=1103)** | United States - Remote | Remote | Aug 22 |
 | **[Blue Rose Research](https://blueroseresearch.org)** | **[Research Analyst](https://jobright.ai/jobs/info/68a8d7f4758f2e4ac3ff5cda?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Aug 22 |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Associate, Data Forensics - Summer 2026 (Atlanta, Boston, Chicago, D.C., New York)](https://jobright.ai/jobs/info/68a8cfd5d627244576e35c29?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Aug 22 |
@@ -169,7 +170,7 @@ For a complete list, click the following sortable link below:
 | **[LendingClub](https://www.lendingclub.com)** | **[Decision Systems Analyst](https://jobright.ai/jobs/info/68a4bef52d2a252445cd8be4?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | Hybrid | Aug 21 |
 | **[AIPAC](http://www.aipac.org)** | **[Research Analyst](https://jobright.ai/jobs/info/68a7b206758f2e4ac3fedbe1?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | Hybrid | Aug 21 |
 | **[Caltech](http://www.caltech.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/68a7afe333dd7158bbca8c90?utm_campaign=Data%20Analysis&utm_source=1103)** | Pasadena, CA | On Site | Aug 21 |
-| **[Boeing](https://www.boeing.co.uk)** | **[Staff Analyst (Associate and Mid-Level)](https://jobright.ai/jobs/info/68a7abcc758f2e4ac3feda46?utm_campaign=Data%20Analysis&utm_source=1103)** | USA - Berkeley, MO | Hybrid | Aug 21 |
+| **[Boeing](https://www.boeing.co.uk)** | **[Staff Analyst (Associate and Mid-Level)](https://jobright.ai/jobs/info/68a7abdf758f2e4ac3feda5e?utm_campaign=Data%20Analysis&utm_source=1103)** | USA - Berkeley, MO | Hybrid | Aug 21 |
 | ↳ | **[Staff Analyst (Associate and Mid-Level)](https://jobright.ai/jobs/info/68a7aba733dd7158bbca8b44?utm_campaign=Data%20Analysis&utm_source=1103)** | USA - Seattle, WA | Hybrid | Aug 21 |
 | **[Cambria](http://www.cambriausa.com)** | **[Business Data Analyst](https://jobright.ai/jobs/info/68a7a6fd33dd7158bbca8985?utm_campaign=Data%20Analysis&utm_source=1103)** | Eden Prairie, MN | On Site | Aug 21 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[GIS Analyst](https://jobright.ai/jobs/info/68a7a6e133dd7158bbca8965?utm_campaign=Data%20Analysis&utm_source=1103)** | Phoenix, AZ | Remote | Aug 21 |
@@ -374,6 +375,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Data Scientist II - AMZ9674189](https://jobright.ai/jobs/info/6895109e4ed2ea559ca53271?utm_campaign=Data%20Analysis&utm_source=1103)** | Santa Clara, California, USA | On Site | Aug 18 |
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Statistical Programmer/Sr. Statistical Programmer](https://jobright.ai/jobs/info/67bf5640dd4bbe8d380022ed?utm_campaign=Data%20Analysis&utm_source=1103)** | Pasadena, CA | On Site | Aug 18 |
 | **[Lever Middleware Test Company](http://www.lever.co)** | **[indeed json data](https://jobright.ai/jobs/info/68a2e9fcda4b7a7e730744c4?utm_campaign=Data%20Analysis&utm_source=1103)** | Beverly Hills, California | Remote | Aug 18 |
-| **[NMDP](https://www.nmdp.org)** | **[Clinical Data Analyst I](https://jobright.ai/jobs/info/68a3ae9537d3cc6b0d578b86?utm_campaign=Data%20Analysis&utm_source=1103)** | Home Based, Minneapolis, MN, 55401, US | Remote | Aug 17 |
-| **[Ethos](http://ethosrisk.com)** | **[OSINT Jr. Analyst (EthosPlus)](https://jobright.ai/jobs/info/68a6b06733dd7158bbca1dcf?utm_campaign=Data%20Analysis&utm_source=1103)** | Irving, TX | On Site | Aug 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
