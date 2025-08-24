@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NTEN](https://www.nten.org/)** | **[Request for Proposals for Data and Internal Workflow Solutions](https://jobright.ai/jobs/info/68aa66ef6acf96396f72a0f7?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Aug 23 |
 | **[Western University of Health Sciences](http://www.westernu.edu/)** | **[Research Associate](https://jobright.ai/jobs/info/68aa373ad627244576e3c6f9?utm_campaign=Data%20Analysis&utm_source=1103)** | Pomona, CA | On Site | Aug 23 |
 | **[NYC Department of Social Services](https://www.nyc.gov/site/dss/index.page)** | **[RESEARCH ANALYST](https://jobright.ai/jobs/info/68aa17fb758f2e4ac3ffc098?utm_campaign=Data%20Analysis&utm_source=1103)** | Brooklyn, NY | On Site | Aug 23 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Staff Analyst (Associate and Mid-Level)](https://jobright.ai/jobs/info/68aa0e6f758f2e4ac3ffbfcf?utm_campaign=Data%20Analysis&utm_source=1103)** | Berkeley, MO | On Site | Aug 23 |
@@ -201,7 +202,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate [TikTok LIVE-Data Science] - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6890d62ff5ee707a15dba199?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Aug 21 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[EUC Risk Analyst](https://jobright.ai/jobs/info/68a71e25d627244576e29c3e?utm_campaign=Data%20Analysis&utm_source=1103)** | Indianapolis | Hybrid | Aug 21 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Full-Time Campus Hire](https://jobright.ai/jobs/info/686efc4758dd0e90079960a0?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | Hybrid | Aug 21 |
-| **[iSpot](http://www.ispot.tv)** | **[Research Data Scientist](https://jobright.ai/jobs/info/68a7ea0333dd7158bbcaa3f9?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Hybrid | Aug 21 |
+| **[iSpot](http://www.ispot.tv)** | **[Research Data Scientist](https://jobright.ai/jobs/info/68a7e1c8d627244576e2f498?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Hybrid | Aug 21 |
 | **[BetterHelp](https://www.betterhelp.com)** | **[Data Scientist](https://jobright.ai/jobs/info/686da44852181ce39638463c?utm_campaign=Data%20Analysis&utm_source=1103)** | Mountain View, CA | Hybrid | Aug 21 |
 | **[Jefferson Lab](https://www.jlab.org)** | **[CST Data Scientist I](https://jobright.ai/jobs/info/686ec4019ac195524dc1d63e?utm_campaign=Data%20Analysis&utm_source=1103)** | Newport News, VA | Hybrid | Aug 21 |
 | **[NinjaTrader](http://www.ninjatrader.com)** | **[Product Data Analyst](https://jobright.ai/jobs/info/688a920809808a6103e4fd8e?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Hybrid | Aug 21 |
@@ -276,6 +277,7 @@ For a complete list, click the following sortable link below:
 | **[Commerce](www.commerce.com)** | **[Marketplace Product Data Analyst - Remote](https://jobright.ai/jobs/info/68a52a38758f2e4ac3fdc874?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Aug 19 |
 | **[CGI](https://www.cgi.com)** | **[Business Systems Data Analyst - Entry Level](https://jobright.ai/jobs/info/68a5f0fb758f2e4ac3fe1830?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Aug 19 |
 | **[Acosta](https://www.acosta.com)** | **[Sr. Category Analyst (CPG)](https://jobright.ai/jobs/info/68a5202e758f2e4ac3fdc1e8?utm_campaign=Data%20Analysis&utm_source=1103)** | Cincinnati, OH | On Site | Aug 19 |
+| **[Bayview Asset Management, LLC](http://www.bayviewassetmanagement.com)** | **[Transaction MGMT Analyst](https://jobright.ai/jobs/info/688dd1876a4aac5783cd7a4e?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, CO | Hybrid | Aug 19 |
 | **[USC](https://www.usc.co.uk/)** | **[Business Data Analyst](https://jobright.ai/jobs/info/68a53a37758f2e4ac3fdce86?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Aug 19 |
 | **[Acosta](https://www.acosta.com)** | **[Sr. Category Analyst (CPG)](https://jobright.ai/jobs/info/68a51dccb6a3617d7fa6eb34?utm_campaign=Data%20Analysis&utm_source=1103)** | New Albany, IN | On Site | Aug 19 |
 | **[Wealthspire Advisors](https://www.wealthspire.com/)** | **[Business Intelligence Analyst](https://jobright.ai/jobs/info/68a51c3533dd7158bbc9730c?utm_campaign=Data%20Analysis&utm_source=1103)** | Albany, NY | On Site | Aug 19 |
@@ -373,6 +375,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Intel Engineer II - AMZ9675375](https://jobright.ai/jobs/info/68a90ef8d627244576e37338?utm_campaign=Data%20Analysis&utm_source=1103)** | San Diego, California, USA | On Site | Aug 17 |
 | **[University of Florida](https://www.ufl.edu)** | **[OPS Research Assistant](https://jobright.ai/jobs/info/68a38cea1ab5f8579e8a6ade?utm_campaign=Data%20Analysis&utm_source=1103)** | Gainesville, FL | On Site | Aug 17 |
 | **[Democratic National Committee](https://democrats.org/)** | **[Data Analyst](https://jobright.ai/jobs/info/68928cf1f5ee707a15dc6a4c?utm_campaign=Data%20Analysis&utm_source=1103)** | Remote, US | Remote | Aug 17 |
-| **[Invisible Technologies](https://www.invisible.co/)** | **[Data Scientist](https://jobright.ai/jobs/info/688d84316a4aac5783cd2c51?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco Bay Area | Hybrid | Aug 17 |
-| **[Safety National](https://www.safetynational.com)** | **[Business Intelligence Analyst](https://jobright.ai/jobs/info/689fd62acc9ee94dc911a393?utm_campaign=Data%20Analysis&utm_source=1103)** | St Louis, MO | Hybrid | Aug 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
