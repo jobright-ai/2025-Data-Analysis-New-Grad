@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capstone Logistics, LLC](http://www.capstonelogistics.com/)** | **[Warehouse Auditor](https://jobright.ai/jobs/info/68ab9bfddaf1431824c8f122?utm_campaign=Data%20Analysis&utm_source=1103)** | Oklahoma City, OK | On Site | Aug 24 |
 | **[Call For Referral](https://callforreferral.com/?utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin_page_button)** | **[Data Scientist $130K – $300K  San Francisco](https://jobright.ai/jobs/info/68ab6c6adaf1431824c8ee35?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco Bay Area | On Site | Aug 24 |
 | ↳ | **[Data Scientist  $130K – $300K   San Francisco](https://jobright.ai/jobs/info/68ab54fdd627244576e3f7c0?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Aug 24 |
 | **[Hourglass Cosmetics](https://www.hourglasscosmetics.com)** | **[Data Clerk - WFH / Remote](https://jobright.ai/jobs/info/68ab392fdaf1431824c8ea5a?utm_campaign=Data%20Analysis&utm_source=1103)** | Plano, TX | Remote | Aug 24 |
@@ -171,10 +172,8 @@ For a complete list, click the following sortable link below:
 | **[AIPAC](http://www.aipac.org)** | **[Research Analyst](https://jobright.ai/jobs/info/68a7b206758f2e4ac3fedbe1?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | Hybrid | Aug 21 |
 | **[Caltech](http://www.caltech.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/68a7afe333dd7158bbca8c90?utm_campaign=Data%20Analysis&utm_source=1103)** | Pasadena, CA | On Site | Aug 21 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Staff Analyst (Associate and Mid-Level)](https://jobright.ai/jobs/info/68a7abdf758f2e4ac3feda5e?utm_campaign=Data%20Analysis&utm_source=1103)** | USA - Berkeley, MO | Hybrid | Aug 21 |
-| ↳ | **[Staff Analyst (Associate and Mid-Level)](https://jobright.ai/jobs/info/68a7aba733dd7158bbca8b44?utm_campaign=Data%20Analysis&utm_source=1103)** | USA - Seattle, WA | Hybrid | Aug 21 |
+| ↳ | **[Staff Analyst (Associate and Mid-Level)](https://jobright.ai/jobs/info/68a7abce33dd7158bbca8b7f?utm_campaign=Data%20Analysis&utm_source=1103)** | USA - Seattle, WA | Hybrid | Aug 21 |
 | **[Cambria](http://www.cambriausa.com)** | **[Business Data Analyst](https://jobright.ai/jobs/info/68a7a6fd33dd7158bbca8985?utm_campaign=Data%20Analysis&utm_source=1103)** | Eden Prairie, MN | On Site | Aug 21 |
-| **[Freeport-McMoRan](https://fcx.com)** | **[GIS Analyst](https://jobright.ai/jobs/info/68a7a6e133dd7158bbca8965?utm_campaign=Data%20Analysis&utm_source=1103)** | Phoenix, AZ | Remote | Aug 21 |
-| ↳ | **[GIS Analyst](https://jobright.ai/jobs/info/68a7a5e5d627244576e2dcc7?utm_campaign=Data%20Analysis&utm_source=1103)** | Phoenix, AZ USA 85004-2121 | Hybrid | Aug 21 |
 | **[DHM Research](https://dhmresearch.com)** | **[Research Assistant](https://jobright.ai/jobs/info/68a81cc7758f2e4ac3ff108e?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | Hybrid | Aug 21 |
 | **[FRANdata](https://www.frandata.com)** | **[Research Analyst](https://jobright.ai/jobs/info/68a7f6e833dd7158bbcaaa58?utm_campaign=Data%20Analysis&utm_source=1103)** | Arlington, VA | Hybrid | Aug 21 |
 | **[Cambria](http://www.cambriausa.com)** | **[Business Data Analyst](https://jobright.ai/jobs/info/68a78f26d627244576e2d60c?utm_campaign=Data%20Analysis&utm_source=1103)** | Eden Prairie, MN | Hybrid | Aug 21 |
@@ -209,11 +208,10 @@ For a complete list, click the following sortable link below:
 | **[ICE](https://www.ice.com)** | **[Analyst, Index Product Development](https://jobright.ai/jobs/info/686d7cab7ca8d01b2625ac67?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Aug 21 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Business Data Analyst I](https://jobright.ai/jobs/info/688a67d59f961617fe21b3db?utm_campaign=Data%20Analysis&utm_source=1103)** | Newnan, GA | On Site | Aug 21 |
 | **[Amazon](https://amazon.com)** | **[Business Intel Engineer II - AMZ26491.1](https://jobright.ai/jobs/info/688ab5fe9f961617fe21d9dc?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Aug 21 |
-| **[Personify Health](https://personifyhealth.com)** | **[Healthcare Data Analyst II](https://jobright.ai/jobs/info/688b10adaab47a17f670e438?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate [TikTok LIVE-Data Science] - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6890d62ff5ee707a15dba199?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Aug 21 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[EUC Risk Analyst](https://jobright.ai/jobs/info/68a71e25d627244576e29c3e?utm_campaign=Data%20Analysis&utm_source=1103)** | Indianapolis | Hybrid | Aug 21 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Full-Time Campus Hire](https://jobright.ai/jobs/info/686efc4758dd0e90079960a0?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | Hybrid | Aug 21 |
-| **[iSpot](http://www.ispot.tv)** | **[Research Data Scientist](https://jobright.ai/jobs/info/68a7e1c8d627244576e2f498?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Hybrid | Aug 21 |
+| **[iSpot](http://www.ispot.tv)** | **[Research Data Scientist](https://jobright.ai/jobs/info/68a7ea0333dd7158bbcaa3f9?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Hybrid | Aug 21 |
 | **[BetterHelp](https://www.betterhelp.com)** | **[Data Scientist](https://jobright.ai/jobs/info/686da44852181ce39638463c?utm_campaign=Data%20Analysis&utm_source=1103)** | Mountain View, CA | Hybrid | Aug 21 |
 | **[Jefferson Lab](https://www.jlab.org)** | **[CST Data Scientist I](https://jobright.ai/jobs/info/686ec4019ac195524dc1d63e?utm_campaign=Data%20Analysis&utm_source=1103)** | Newport News, VA | Hybrid | Aug 21 |
 | **[NinjaTrader](http://www.ninjatrader.com)** | **[Product Data Analyst](https://jobright.ai/jobs/info/688a920809808a6103e4fd8e?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Hybrid | Aug 21 |
