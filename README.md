@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trivium Packaging](https://www.triviumpackaging.com)** | **[Data Input Associate - Work From Home](https://jobright.ai/jobs/info/68b4760a1ade4306aa63e73f?utm_campaign=Data%20Analysis&utm_source=1103)** | Overland Park, KS | Remote | Aug 31 |
 | **[TradeStation](https://www.TradeStation.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68b453a4f4e41a61efd8c285?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Hybrid | Aug 31 |
 | **[Oak Street Health, part of CVS Health](http://www.oakstreethealth.com)** | **[Clinical Informatics Specialis](https://jobright.ai/jobs/info/689acf4d83d13d1f5b69c880?utm_campaign=Data%20Analysis&utm_source=1103)** | Dayton, OH | Hybrid | Aug 31 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Customer/Vendor Associate Master Data Analyst](https://jobright.ai/jobs/info/68b33b3dbc187f64e1bdfebe?utm_campaign=Data%20Analysis&utm_source=1103)** | Salisbury, MD | On Site | Aug 30 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Arabic Operational Language Analyst (OLA)](https://jobright.ai/jobs/info/68b31eaf1ade4306aa63ac8b?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, MD | On Site | Aug 30 |
 | ↳ | **[Urdu Operational Language Analyst (OLA)](https://jobright.ai/jobs/info/68b31e81f4e41a61efd88aa1?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, MD | On Site | Aug 30 |
 | ↳ | **[Russian Operational Language Analyst (OLA)](https://jobright.ai/jobs/info/68b31d93bc187f64e1bdfc28?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, MD | On Site | Aug 30 |
+| **[BCG X](https://www.bcg.com/x)** | **[Data Scientist, Campus, United States - BCG X](https://jobright.ai/jobs/info/68b26d0a1ade4306aa636513?utm_campaign=Data%20Analysis&utm_source=1103)** | Miami, FL | On Site | Aug 30 |
 | **[Q-Centrix](https://www.q-centrix.com/)** | **[CathPCI Clinical Data Specialist](https://jobright.ai/jobs/info/68b30adaf4e41a61efd888bf?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Aug 30 |
 | **[Razorfish](http://www.amnesia.com.au)** | **[Data Science and Analytics Analyst](https://jobright.ai/jobs/info/689860235574fd6bc0c79669?utm_campaign=Data%20Analysis&utm_source=1103)** | Birmingham, MI | Hybrid | Aug 30 |
 | **[BCG X](https://www.bcg.com/x)** | **[Data Scientist, Campus, United States - BCG X](https://jobright.ai/jobs/info/68b283caf4e41a61efd8570f?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Aug 30 |
@@ -71,7 +73,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist, Campus, United States - BCG X](https://jobright.ai/jobs/info/689543df8c6d6b44267786fd?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Aug 30 |
 | ↳ | **[Data Scientist, Campus, United States - BCG X](https://jobright.ai/jobs/info/68b27f261ade4306aa6376ba?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Aug 30 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Data Scientist](https://jobright.ai/jobs/info/685c803cad32d5a5e9fbcd54?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, CO | On Site | Aug 30 |
-| **[Atrivo](https://atrivo.se)** | **[Virtual Data Analyst - Full Time (100% Remote)](https://jobright.ai/jobs/info/68b3c1ae1ade4306aa63c000?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Hybrid | Aug 30 |
+| **[Atrivo](https://atrivo.se)** | **[Virtual Data Analyst - Full Time (100% Remote)](https://jobright.ai/jobs/info/68b3c27bbc187f64e1be1076?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Hybrid | Aug 30 |
 | **[BCG X](https://www.bcg.com/x)** | **[Data Scientist, Campus, United States - BCG X](https://jobright.ai/jobs/info/68953fa44ed2ea559ca545c0?utm_campaign=Data%20Analysis&utm_source=1103)** | Manhattan Beach, CA | On Site | Aug 30 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Data Scientist](https://jobright.ai/jobs/info/686389ff5017de06f85901e6?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Aug 30 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[GEOINT Collection Manager, Mid](https://jobright.ai/jobs/info/6898484583d13d1f5b68ce95?utm_campaign=Data%20Analysis&utm_source=1103)** | Springfield, VA | On Site | Aug 30 |
@@ -159,9 +161,9 @@ For a complete list, click the following sortable link below:
 | **[Howard University](http://www.howard.edu)** | **[Research Fellow-1](https://jobright.ai/jobs/info/68b0f03713563e782a9fa806?utm_campaign=Data%20Analysis&utm_source=1103)** | DC-Baltimore Area | Hybrid | Aug 28 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Early Career Data Scientist](https://jobright.ai/jobs/info/68b0efdfb47fb001d6896988?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | Hybrid | Aug 28 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[TECHINT Fusion Analyst](https://jobright.ai/jobs/info/68b0ef0e13563e782a9fa764?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlottesville, VA | On Site | Aug 28 |
-| **[Fred Hutch](http://www.fredhutch.org/)** | **[Bioinformatics Analyst I/II](https://jobright.ai/jobs/info/68b0eabbb47fb001d6896670?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Aug 28 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Early Career Data Scientist](https://jobright.ai/jobs/info/68b0e9fd13563e782a9fa4b5?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Aug 28 |
 | **[University of Kansas Medical Center](https://www.kumc.edu)** | **[Clinical Data Coordinator - Cancer Center](https://jobright.ai/jobs/info/68b0e80013563e782a9fa2bf?utm_campaign=Data%20Analysis&utm_source=1103)** | Kansas City, KS | Hybrid | Aug 28 |
+| **[Fred Hutch](http://www.fredhutch.org/)** | **[Bioinformatics Analyst I/II](https://jobright.ai/jobs/info/68b0e757b47fb001d6896390?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Aug 28 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Business Data Analyst II](https://jobright.ai/jobs/info/6898523483d13d1f5b68e652?utm_campaign=Data%20Analysis&utm_source=1103)** | Knoxville, TN | On Site | Aug 28 |
 | ↳ | **[Business Data Analyst I](https://jobright.ai/jobs/info/6894e85973b3a600fe883389?utm_campaign=Data%20Analysis&utm_source=1103)** | Westerville, OH | On Site | Aug 28 |
 | **[Mojang Studios](http://Minecraft.net)** | **[Data Scientist, Personalization - Minecraft](https://jobright.ai/jobs/info/68b0ddd113563e782a9f9e88?utm_campaign=Data%20Analysis&utm_source=1103)** | Redmond, WA | Hybrid | Aug 28 |
@@ -191,10 +193,10 @@ For a complete list, click the following sortable link below:
 | **[The Johns Hopkins University](https://www.jhu.edu)** | **[Research Assistant - 118826](https://jobright.ai/jobs/info/68b09ada13563e782a9f7b7b?utm_campaign=Data%20Analysis&utm_source=1103)** | Baltimore, MD | On Site | Aug 28 |
 | **[Howard University](http://www.howard.edu)** | **[Research Fellow-1](https://jobright.ai/jobs/info/68b07731b47fb001d689286c?utm_campaign=Data%20Analysis&utm_source=1103)** | Alain Locke Hall | Hybrid | Aug 28 |
 | ↳ | **[Research Fellow-2](https://jobright.ai/jobs/info/68b0960d13563e782a9f794a?utm_campaign=Data%20Analysis&utm_source=1103)** | DC-Baltimore Area | Hybrid | Aug 28 |
-| **[EvenUp](https://www.litty.ai/)** | **[Early Career Data Scientist/Economist](https://jobright.ai/jobs/info/68b0939413563e782a9f77ce?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | Hybrid | Aug 28 |
 | **[The Global Impact Investing Network](http://www.thegiin.org/)** | **[Research Associate](https://jobright.ai/jobs/info/68b08bfbb47fb001d689340c?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Aug 28 |
 | **[Howard University](http://www.howard.edu)** | **[Research Fellow-2](https://jobright.ai/jobs/info/68b0777813563e782a9f6577?utm_campaign=Data%20Analysis&utm_source=1103)** | Alain Locke Hall | Hybrid | Aug 28 |
 | **[NinjaTrader](http://www.ninjatrader.com)** | **[Product Data Analyst](https://jobright.ai/jobs/info/688a920809808a6103e4fd8e?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Hybrid | Aug 28 |
+| **[EvenUp](https://www.litty.ai/)** | **[Early Career Data Scientist/Economist](https://jobright.ai/jobs/info/68b0906613563e782a9f752a?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | Hybrid | Aug 28 |
 | **[Alliance Drawback Services](https://alliancechb.com)** | **[Junior Data Analyst](https://jobright.ai/jobs/info/68b080962d46f6396cae5f73?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Petersburg, FL | On Site | Aug 28 |
 | **[Howard University](http://www.howard.edu)** | **[Research Fellow-4](https://jobright.ai/jobs/info/68b07a172d46f6396cae5bb8?utm_campaign=Data%20Analysis&utm_source=1103)** | Alain Locke Hall | Hybrid | Aug 28 |
 | ↳ | **[Research Fellow-3](https://jobright.ai/jobs/info/68b0780d13563e782a9f65ed?utm_campaign=Data%20Analysis&utm_source=1103)** | Alain Locke Hall | Hybrid | Aug 28 |
@@ -282,7 +284,7 @@ For a complete list, click the following sortable link below:
 | **[CU Online](https://online.cu.edu/)** | **[Temporary Researcher](https://jobright.ai/jobs/info/68ae7d21d627244576e545d1?utm_campaign=Data%20Analysis&utm_source=1103)** | Boulder, CO | On Site | Aug 26 |
 | **[Formlabs](http://www.formlabs.com)** | **[GTM Analytics Lead - Hybrid (Somerville, MA)](https://jobright.ai/jobs/info/68ae3797daf1431824ca197b?utm_campaign=Data%20Analysis&utm_source=1103)** | Somerville, MA | Hybrid | Aug 26 |
 | **[Citi](https://www.citi.com)** | **[Bilingual Security Derivatives Associate Analyst Hybrid](https://jobright.ai/jobs/info/689188804c7e851b90acf917?utm_campaign=Data%20Analysis&utm_source=1103)** | Tampa, FL | Hybrid | Aug 26 |
-| **[Boeing](https://www.boeing.co.uk)** | **[Business Intelligence Analyst (Associate or Experienced)](https://jobright.ai/jobs/info/68ae2a03d627244576e5229b?utm_campaign=Data%20Analysis&utm_source=1103)** | USA - Berkeley, MO | Hybrid | Aug 26 |
+| **[Boeing](https://www.boeing.co.uk)** | **[Business Intelligence Analyst (Associate or Experienced)](https://jobright.ai/jobs/info/68ae2b6fdaf1431824ca15ab?utm_campaign=Data%20Analysis&utm_source=1103)** | USA - Berkeley, MO | Hybrid | Aug 26 |
 | ↳ | **[Business Intelligence Analyst (Associate or Experienced)](https://jobright.ai/jobs/info/68ae2870758f2e4ac3011cba?utm_campaign=Data%20Analysis&utm_source=1103)** | USA - Seattle, WA | Hybrid | Aug 26 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Data Lab Technologist Energy](https://jobright.ai/jobs/info/68ae1fe5d627244576e51deb?utm_campaign=Data%20Analysis&utm_source=1103)** | US.WA.Richland | On Site | Aug 26 |
 | **[Portillo's](https://www.portillos.com)** | **[Guest Insights & Research Specialist](https://jobright.ai/jobs/info/68ae1383d627244576e51790?utm_campaign=Data%20Analysis&utm_source=1103)** | Oak Brook, IL | On Site | Aug 26 |
@@ -380,5 +382,4 @@ For a complete list, click the following sortable link below:
 | **[Imperial Dade](https://www.imperialdade.com)** | **[Regional Transfer Analyst](https://jobright.ai/jobs/info/6838f381f99d1ca8d1bf34cd?utm_campaign=Data%20Analysis&utm_source=1103)** | Jersey City, NJ | On Site | Aug 25 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Clinical Research Associate I - MIRIAD IBD Biobank & Database](https://jobright.ai/jobs/info/68aec77a2daaba398441a311?utm_campaign=Data%20Analysis&utm_source=1103)** | 110 George Burns Rd, Los Angeles, CA, 90048, US | On Site | Aug 25 |
 | **[PwC Experience Center Stockholm](https://digital.pwc.com/en-se.html)** | **[Digital Assurance & Transparency (DAT) Data Associate - Summer/Fall 2026](https://jobright.ai/jobs/info/68aedb197bcb7608b3d29e01?utm_campaign=Data%20Analysis&utm_source=1103)** | LA Metro Area | On Site | Aug 25 |
-| **[Capstone Logistics, LLC](http://www.capstonelogistics.com/)** | **[Warehouse Auditor](https://jobright.ai/jobs/info/68ab9bfddaf1431824c8f122?utm_campaign=Data%20Analysis&utm_source=1103)** | Oklahoma City, OK | On Site | Aug 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
