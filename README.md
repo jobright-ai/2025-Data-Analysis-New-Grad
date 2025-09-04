@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Microsoft](https://www.microsoft.com)** | **[Data Scientist II](https://jobright.ai/jobs/info/68b8d4f5ea901c0d269f9d2a?utm_campaign=Data%20Analysis&utm_source=1103)** | Redmond, WA | Hybrid | Sep 03 |
+| **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/68b8cdc45b42bc4562827d02?utm_campaign=Data%20Analysis&utm_source=1103)** | Parsippany, NJ | On Site | Sep 03 |
+| **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[IRP Data Scientist I (3 Positions)](https://jobright.ai/jobs/info/68b8cd2607090163b6ba4f9f?utm_campaign=Data%20Analysis&utm_source=1103)** | Madison, WI | On Site | Sep 03 |
+| **[McMaster-Carr](http://www.mcmaster.com)** | **[Data Analyst](https://jobright.ai/jobs/info/6893c7c7f47efe2113966ee4?utm_campaign=Data%20Analysis&utm_source=1103)** | Elmhurst, IL | On Site | Sep 03 |
 | **[Hertz](http://www.hertz.com)** | **[Operations Research Analyst](https://jobright.ai/jobs/info/68b8b9a507090163b6ba489e?utm_campaign=Data%20Analysis&utm_source=1103)** | 8501 Williams Rd, Estero, FL, 33928, US | On Site | Sep 03 |
 | **[University of Pennsylvania](http://www.upenn.edu)** | **[Data Scientist](https://jobright.ai/jobs/info/68b8a8645b42bc4562826ab1?utm_campaign=Data%20Analysis&utm_source=1103)** | Smilow Center for Translational | Hybrid | Sep 03 |
 | **[84.51˚](http://8451.com/)** | **[Data Scientist (P2546)](https://jobright.ai/jobs/info/68b89d4aea901c0d269f8232?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Sep 03 |
 | ↳ | **[Data Scientist (P2546)](https://jobright.ai/jobs/info/68b89c795b42bc456282647d?utm_campaign=Data%20Analysis&utm_source=1103)** | Cincinnati, OH | Hybrid | Sep 03 |
 | **[LSEG](http://www.lseg.com)** | **[Financial Data and Model Research Analyst](https://jobright.ai/jobs/info/68b89b6dea901c0d269f8065?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Sep 03 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Informatics Analyst](https://jobright.ai/jobs/info/68b8961cea901c0d269f7c0b?utm_campaign=Data%20Analysis&utm_source=1103)** | Albany, NY | Hybrid | Sep 03 |
-| **[Constangy](http://constangy.com)** | **[Data Analyst](https://jobright.ai/jobs/info/68b895d107090163b6ba3159?utm_campaign=Data%20Analysis&utm_source=1103)** | LA Metro Area | On Site | Sep 03 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Associate Suply Chain Analyst](https://jobright.ai/jobs/info/68b894e15b42bc4562825e26?utm_campaign=Data%20Analysis&utm_source=1103)** | Reynoldsburg, OH | Hybrid | Sep 03 |
 | **[CLEAResult](http://www.clearesult.com)** | **[SEM Data Analyst](https://jobright.ai/jobs/info/68b892185b42bc4562825c82?utm_campaign=Data%20Analysis&utm_source=1103)** | Remote - United States | Remote | Sep 03 |
 | **[LSEG](http://www.lseg.com)** | **[Financial Data and Model Research Analyst](https://jobright.ai/jobs/info/68b8912907090163b6ba2db7?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Sep 03 |
@@ -102,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Data Scientist II](https://jobright.ai/jobs/info/68b7e0250514b74d7c3eb557?utm_campaign=Data%20Analysis&utm_source=1103)** | Redmond, WA | Hybrid | Sep 02 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[Healthcare Statistical Analyst I/II/III/IV](https://jobright.ai/jobs/info/68b7a4df1ade4306aa64cc67?utm_campaign=Data%20Analysis&utm_source=1103)** | DeWitt, NY | On Site | Sep 02 |
 | ↳ | **[Healthcare Statistical Analyst I/II/III/IV](https://jobright.ai/jobs/info/68b7a68f1ade4306aa64cd79?utm_campaign=Data%20Analysis&utm_source=1103)** | Latham, NY | On Site | Sep 02 |
-| ↳ | **[Healthcare Statistical Analyst I/II/III/IV](https://jobright.ai/jobs/info/68b7a72b2124650c140249fd?utm_campaign=Data%20Analysis&utm_source=1103)** | Utica, NY | On Site | Sep 02 |
 | ↳ | **[Healthcare Statistical Analyst I/II/III/IV](https://jobright.ai/jobs/info/68b7a00df4e41a61efd9aa1d?utm_campaign=Data%20Analysis&utm_source=1103)** | Elmira, NY | On Site | Sep 02 |
+| ↳ | **[Healthcare Statistical Analyst I/II/III/IV](https://jobright.ai/jobs/info/68b7a72b2124650c140249fd?utm_campaign=Data%20Analysis&utm_source=1103)** | Utica, NY | On Site | Sep 02 |
 | ↳ | **[Healthcare Statistical Analyst I/II/III/IV](https://jobright.ai/jobs/info/68b7a46a1ade4306aa64cc19?utm_campaign=Data%20Analysis&utm_source=1103)** | Rochester, NY | On Site | Sep 02 |
 | **[Jobs via Tuilink](www.tuilink.io)** | **[Data Scientist (Entry-Mid)](https://jobright.ai/jobs/info/68b7afe7195d032a0960a9e6?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Sep 02 |
 | **[Maxar Technologies](https://www.maxar.com)** | **[Image Analyst](https://jobright.ai/jobs/info/68b7a4e41ade4306aa64cc6b?utm_campaign=Data%20Analysis&utm_source=1103)** | Westminster, CO | On Site | Sep 02 |
@@ -153,10 +156,8 @@ For a complete list, click the following sortable link below:
 | **[ZAIS Group](http://www.zaisgroup.com/)** | **[Quantitative Analyst – Structured Credit/Macro Credit Investments Full-Time (Immediate)](https://jobright.ai/jobs/info/68b742eaf4e41a61efd974dd?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Sep 02 |
 | **[Harris Williams](http://www.harriswilliams.com)** | **[Technology Senior Analyst](https://jobright.ai/jobs/info/68b71c3b2124650c1401f739?utm_campaign=Data%20Analysis&utm_source=1103)** | CA - San Francisco (94105) | On Site | Sep 02 |
 | **[Capital One](http://www.capitalone.com)** | **[Manager, Data Scientist - Credit Review](https://jobright.ai/jobs/info/68b70284f4e41a61efd94f85?utm_campaign=Data%20Analysis&utm_source=1103)** | McLean, VA | On Site | Sep 02 |
-| **[Datavant](https://datavant.com)** | **[Clinical Data Abstractor - Full Time - Remote](https://jobright.ai/jobs/info/68b706991ade4306aa647177?utm_campaign=Data%20Analysis&utm_source=1103)** | Remote - United States | Remote | Sep 02 |
-| ↳ | **[Clinical Data Abstractor - Part Time - Remote](https://jobright.ai/jobs/info/68b70499f4e41a61efd95015?utm_campaign=Data%20Analysis&utm_source=1103)** | Remote - United States | Remote | Sep 02 |
-| **[Capital One](http://www.capitalone.com)** | **[Manager, Data Scientist - Credit Review](https://jobright.ai/jobs/info/68b702b6f4e41a61efd94f98?utm_campaign=Data%20Analysis&utm_source=1103)** | Riverwoods, IL | On Site | Sep 02 |
-| ↳ | **[Manager, Data Scientist - Credit Review](https://jobright.ai/jobs/info/68b702ae1ade4306aa647085?utm_campaign=Data%20Analysis&utm_source=1103)** | Plano, TX | On Site | Sep 02 |
+| ↳ | **[Manager, Data Scientist - Credit Review](https://jobright.ai/jobs/info/68b702fe1ade4306aa64709a?utm_campaign=Data%20Analysis&utm_source=1103)** | Plano, TX | On Site | Sep 02 |
+| ↳ | **[Manager, Data Scientist - Credit Review](https://jobright.ai/jobs/info/68b702b6f4e41a61efd94f98?utm_campaign=Data%20Analysis&utm_source=1103)** | Riverwoods, IL | On Site | Sep 02 |
 | ↳ | **[Manager, Data Scientist - Credit Review](https://jobright.ai/jobs/info/68b701562124650c1401ebcd?utm_campaign=Data%20Analysis&utm_source=1103)** | Richmond, VA | On Site | Sep 02 |
 | **[Resource Innovations ](https://www.resource-innovations.com/)** | **[Analyst](https://jobright.ai/jobs/info/68b700f51ade4306aa646ec2?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Sep 02 |
 | **[Lakeview Loan Servicing, LLC.](https://lakeview.com)** | **[Power BI Development Analyst](https://jobright.ai/jobs/info/68b6f9582124650c1401e975?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Lauderdale, FL | Hybrid | Sep 02 |
@@ -281,7 +282,7 @@ For a complete list, click the following sortable link below:
 | **[Piedmont Airlines](http://piedmont-airlines.com/)** | **[Data Auditor](https://jobright.ai/jobs/info/68acf4e7758f2e4ac3009e44?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlotte, NC | On Site | Aug 28 |
 | **[Howard University](http://www.howard.edu)** | **[Research Fellow-1](https://jobright.ai/jobs/info/68b0f03713563e782a9fa806?utm_campaign=Data%20Analysis&utm_source=1103)** | DC-Baltimore Area | Hybrid | Aug 28 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[TECHINT Fusion Analyst](https://jobright.ai/jobs/info/68b0ef0e13563e782a9fa764?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlottesville, VA | On Site | Aug 28 |
-| **[Fred Hutch](http://www.fredhutch.org/)** | **[Bioinformatics Analyst I/II](https://jobright.ai/jobs/info/68b0eabbb47fb001d6896670?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Aug 28 |
+| **[Fred Hutch](http://www.fredhutch.org/)** | **[Bioinformatics Analyst I/II](https://jobright.ai/jobs/info/68b0e757b47fb001d6896390?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Aug 28 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Business Data Analyst II](https://jobright.ai/jobs/info/6898523483d13d1f5b68e652?utm_campaign=Data%20Analysis&utm_source=1103)** | Knoxville, TN | On Site | Aug 28 |
 | ↳ | **[Business Data Analyst I](https://jobright.ai/jobs/info/6894e85973b3a600fe883389?utm_campaign=Data%20Analysis&utm_source=1103)** | Westerville, OH | On Site | Aug 28 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[Conflicts Analyst](https://jobright.ai/jobs/info/68b0dd99b47fb001d689601b?utm_campaign=Data%20Analysis&utm_source=1103)** | Minneapolis, MN | Hybrid | Aug 28 |
@@ -321,9 +322,4 @@ For a complete list, click the following sortable link below:
 | **[The Voleon Group](http://voleon.com/)** | **[Data Scientist, Trading Operations](https://jobright.ai/jobs/info/6878535b5cebcd1dd51d9782?utm_campaign=Data%20Analysis&utm_source=1103)** | Berkeley, CA | Hybrid | Aug 28 |
 | **[Omnicom Media Group](http://www.omnicommediagroup.com)** | **[Analyst - Operations and Analytics](https://jobright.ai/jobs/info/6893b447f47efe21139663a1?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Aug 28 |
 | **[Accenture](https://www.accenture.com)** | **[Anti-Money Laundering (AML) Analyst](https://jobright.ai/jobs/info/689288aa4c7e851b90ad697a?utm_campaign=Data%20Analysis&utm_source=1103)** | Louisville, TN | Hybrid | Aug 28 |
-| **[Snap Inc.](https://careers.snap.com/)** | **[Data Acquisition Coordinator](https://jobright.ai/jobs/info/6892aa524c7e851b90ad76f3?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Aug 28 |
-| **[Ankura](https://ankura.com)** | **[University Associate, Analytics & Data Strategy](https://jobright.ai/jobs/info/68b00a67b47fb001d688f5df?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Aug 28 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Analytics Engineer](https://jobright.ai/jobs/info/6880c30cf4f06100f3a20a20?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Aug 28 |
-| **[AECOM](http://www.aecom.com/)** | **[GIS/Data Specialist](https://jobright.ai/jobs/info/68ad0467758f2e4ac300a389?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX | Hybrid | Aug 28 |
-| **[Ankura](https://ankura.com)** | **[University Associate, Analytics & Data Strategy](https://jobright.ai/jobs/info/68aff944e723db6c9b7b509a?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
