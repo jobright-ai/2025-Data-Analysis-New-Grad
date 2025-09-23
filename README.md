@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Andersen Corporation](https://www.andersenwindows.com)** | **[Data Analyst - Test[ing]](https://jobright.ai/jobs/info/68d2c0c817554c2d9eee9627?utm_campaign=Data%20Analysis&utm_source=1103)** | Remote Office - State of MN | Remote | Sep 23 |
+| **[A2SECURE](https://www.a2secure.com/)** | **[SOC Analyst Tier 1 - Blue Team](https://jobright.ai/jobs/info/68d2b11217554c2d9eee8e92?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Sep 23 |
 | **[Akkodis Group Nordics](http://www.datarespons.com/)** | **[Data Analyst](https://jobright.ai/jobs/info/68d2a2e5f0d9af73038d9e30?utm_campaign=Data%20Analysis&utm_source=1103)** | Maple Grove, MN | Hybrid | Sep 23 |
 | **[Keck Medicine of USC](https://www.keckmedicine.org)** | **[Business Intelligence Developer, I - IS Dept Apps and Ent Rptg - Full Time 8 Hour Days (Non-Exempt) (Non-Union)](https://jobright.ai/jobs/info/68d28ba08c62e63bc7fd8242?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Sep 23 |
 | **[BioSpace](http://www.biospace.com/)** | **[Postdoctoral Fellow, Computational Genetic and Safety Data Science](https://jobright.ai/jobs/info/68d2874e17554c2d9eee816d?utm_campaign=Data%20Analysis&utm_source=1103)** | North Chicago, IL | On Site | Sep 23 |
@@ -75,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Clinical Data Specialist](https://jobright.ai/jobs/info/68d2642417554c2d9eee76ab?utm_campaign=Data%20Analysis&utm_source=1103)** | Illinois, United States | Remote | Sep 22 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Clinical Research Assistant - Research Projects](https://jobright.ai/jobs/info/68d243118c62e63bc7fd61b4?utm_campaign=Data%20Analysis&utm_source=1103)** | Santa Rosa, CA | On Site | Sep 22 |
 | **[Oak Street Health, part of CVS Health](http://www.oakstreethealth.com)** | **[Specialist,Clinical Informatics](https://jobright.ai/jobs/info/68d23e698c62e63bc7fd5f11?utm_campaign=Data%20Analysis&utm_source=1103)** | Memphis, TN | Hybrid | Sep 22 |
-| **[Job Spread](https://www.jobspreadus.com)** | **[Data Quality Specialist](https://jobright.ai/jobs/info/68d22e8fa54edb3bf3e1bc41?utm_campaign=Data%20Analysis&utm_source=1103)** | Burlington, MA | On Site | Sep 22 |
 | **[Adobe](http://www.adobe.com)** | **[2026 University Graduate - Applied Research Scientist](https://jobright.ai/jobs/info/68d21452a54edb3bf3e19565?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose | On Site | Sep 22 |
 | **[WPP](http://www.wpp.com)** | **[User Researcher, WPP Open](https://jobright.ai/jobs/info/68d1fe538c62e63bc7fd1fff?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 22 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Burn Data Abstractor](https://jobright.ai/jobs/info/68d1f64f17554c2d9eee1af3?utm_campaign=Data%20Analysis&utm_source=1103)** | Las Vegas, NV | On Site | Sep 22 |
@@ -183,10 +184,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sr Category Analyst (CPG)](https://jobright.ai/jobs/info/68ce37efb2a74e1837ee07bb?utm_campaign=Data%20Analysis&utm_source=1103)** | Louisville, KY | On Site | Sep 19 |
 | ↳ | **[Sr Category Analyst (CPG)](https://jobright.ai/jobs/info/68ce37b71ad6b16f028a31be?utm_campaign=Data%20Analysis&utm_source=1103)** | Wilmington, OH | On Site | Sep 19 |
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[Conflicts Analyst](https://jobright.ai/jobs/info/68b0d3672d46f6396cae8d8f?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, CO | Hybrid | Sep 19 |
-| **[Acosta](https://www.acosta.com)** | **[Sr Category Analyst (CPG)](https://jobright.ai/jobs/info/68ce373b1ad6b16f028a30d0?utm_campaign=Data%20Analysis&utm_source=1103)** | Bethel, OH | On Site | Sep 19 |
+| **[Acosta](https://www.acosta.com)** | **[Sr Category Analyst (CPG)](https://jobright.ai/jobs/info/68ce37661ad6b16f028a312c?utm_campaign=Data%20Analysis&utm_source=1103)** | Dayton, OH | On Site | Sep 19 |
+| ↳ | **[Sr Category Analyst (CPG)](https://jobright.ai/jobs/info/68ce373b1ad6b16f028a30d0?utm_campaign=Data%20Analysis&utm_source=1103)** | Bethel, OH | On Site | Sep 19 |
 | ↳ | **[Sr Category Analyst (CPG)](https://jobright.ai/jobs/info/68ce36d01ad6b16f028a301d?utm_campaign=Data%20Analysis&utm_source=1103)** | Oxford, OH | On Site | Sep 19 |
 | ↳ | **[Sr Category Analyst (CPG)](https://jobright.ai/jobs/info/68ce349e24dd5209002f0868?utm_campaign=Data%20Analysis&utm_source=1103)** | Mansfield, OH | On Site | Sep 19 |
-| ↳ | **[Sr Category Analyst (CPG)](https://jobright.ai/jobs/info/68ce339c24dd5209002f0648?utm_campaign=Data%20Analysis&utm_source=1103)** | Dayton, OH | On Site | Sep 19 |
 | ↳ | **[Sr Category Analyst (CPG)](https://jobright.ai/jobs/info/68ce331f24dd5209002f0566?utm_campaign=Data%20Analysis&utm_source=1103)** | Richmond, KY | On Site | Sep 19 |
 | ↳ | **[Sr Category Analyst (CPG)](https://jobright.ai/jobs/info/68ce32fe24dd5209002f052b?utm_campaign=Data%20Analysis&utm_source=1103)** | Cincinnati, OH | On Site | Sep 19 |
 | **[IMEG, formerly KJWW (non active page)](http://www.kjww.com)** | **[Data Analyst](https://jobright.ai/jobs/info/68cf76ca846f0b04af68242f?utm_campaign=Data%20Analysis&utm_source=1103)** | Rock Island, IL | On Site | Sep 19 |
@@ -347,7 +348,6 @@ For a complete list, click the following sortable link below:
 | **[Ajinomoto Cambrooke, Inc.](http://www.cambrooke.com)** | **[Business Data Analyst](https://jobright.ai/jobs/info/68cf63c5fb49c96ca6ea82ef?utm_campaign=Data%20Analysis&utm_source=1103)** | Ayer, MA | On Site | Sep 17 |
 | **[Duolingo for Schools](schools.duolingo.com)** | **[Data Scientist, New Graduate](https://jobright.ai/jobs/info/68cf6427846f0b04af681d00?utm_campaign=Data%20Analysis&utm_source=1103)** | Pittsburgh, PA | On Site | Sep 17 |
 | **[Axtria - Ingenious Insights](http://axtria.com)** | **[Campus 2026: Decision Science (DS) Analyst/Associate](https://jobright.ai/jobs/info/68cb28baefdec76df36b98f6?utm_campaign=Data%20Analysis&utm_source=1103)** | Berkeley Heights, NJ | On Site | Sep 17 |
-| **[Fred Hutch](http://www.fredhutch.org/)** | **[Post-Doctoral Research Fellow](https://jobright.ai/jobs/info/68cf64efdbd9fb154ede7994?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Sep 17 |
 | **[Scopely](http://www.scopely.com)** | **[Analyst - Part Time Associate](https://jobright.ai/jobs/info/68cb5908efdec76df36bb73f?utm_campaign=Data%20Analysis&utm_source=1103)** | US - Culver City, United States | On Site | Sep 17 |
 | **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[Clinical Data Analyst  - Infectious Diseases Clinic](https://jobright.ai/jobs/info/68cea7a8fb49c96ca6ea2a80?utm_campaign=Data%20Analysis&utm_source=1103)** | US-NJ-Newark | On Site | Sep 17 |
 | **[OHSU School of Dentistry](https://ohsu.edu/sod)** | **[Senior Research Assistant](https://jobright.ai/jobs/info/68cea745dbd9fb154ede1b19?utm_campaign=Data%20Analysis&utm_source=1103)** | US-OR-Portland | On Site | Sep 17 |
@@ -399,6 +399,4 @@ For a complete list, click the following sortable link below:
 | **[California Department of Forestry and Fire Protection (CAL FIRE)](https://www.fire.ca.gov/)** | **[Research Data Specialist I – Wildfire Forecast and Threat Intelligence Integration Center](https://jobright.ai/jobs/info/68cbde41efdec76df36c2b9f?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento, CA | On Site | Sep 16 |
 | **[Concord](http://concordusa.com)** | **[Entry-Level Analyst - Data and Analytics (2026 Program)](https://jobright.ai/jobs/info/68ca07dbf61c922772a7214c?utm_campaign=Data%20Analysis&utm_source=1103)** | Parkville, MO | Hybrid | Sep 16 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Research Associate / Senior Associate](https://jobright.ai/jobs/info/68cc228f7342c7623ae5fa2f?utm_campaign=Data%20Analysis&utm_source=1103)** | Des Moines, Iowa | Hybrid | Sep 16 |
-| **[Evercore](http://www.evercore.com)** | **[2026 Full Time Analyst – Co-Head Team](https://jobright.ai/jobs/info/68cf400dfb49c96ca6ea67b6?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Sep 16 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist, Mid](https://jobright.ai/jobs/info/68cf3f4efb49c96ca6ea6672?utm_campaign=Data%20Analysis&utm_source=1103)** | Annapolis Junction, MD | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
