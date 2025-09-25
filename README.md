@@ -335,6 +335,4 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Decision Scientist - Generative Business Intelligence](https://jobright.ai/jobs/info/68cd0bb61ad6b16f02893ed9?utm_campaign=Data%20Analysis&utm_source=1103)** | Wellesley Hills, MA | Hybrid | Sep 19 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Analytics Engineer](https://jobright.ai/jobs/info/68cfb2eedbd9fb154edea42b?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Sep 19 |
 | **[Music Jobs US ](https://www.music-jobs.com/usa/)** | **[Junior Analyst, Finance & Legal](https://jobright.ai/jobs/info/68d3a77e17554c2d9eef3ff6?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 18 |
-| **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Data Lab Technologist Energy](https://jobright.ai/jobs/info/68ae6d2e758f2e4ac30136aa?utm_campaign=Data%20Analysis&utm_source=1103)** | Richland, WA | On Site | Sep 18 |
-| **[Ovative Group](http://www.ovative.com)** | **[Analyst, Data & Software Engineering - January 2026 Start Date](https://jobright.ai/jobs/info/68cf8d90dbd9fb154ede8b9b?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
