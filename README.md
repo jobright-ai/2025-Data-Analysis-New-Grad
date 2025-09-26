@@ -331,8 +331,4 @@ For a complete list, click the following sortable link below:
 | **[Amentum](https://www.amentum.com/)** | **[Declassification Analyst](https://jobright.ai/jobs/info/68d518222ed36439e51e4bae?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | On Site | Sep 19 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[GIS Analyst I](https://jobright.ai/jobs/info/68cfc51adbd9fb154edead2d?utm_campaign=Data%20Analysis&utm_source=1103)** | Houston, TX | On Site | Sep 19 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/68cfe001dbd9fb154edeb72b?utm_campaign=Data%20Analysis&utm_source=1103)** | Parsippany, NJ | On Site | Sep 19 |
-| **[American Express](http://www.americanexpress.com)** | **[Analyst-Data Analytics](https://jobright.ai/jobs/info/68cd1423b2a74e1837ed2030?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Sep 19 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Decision Scientist - Generative Business Intelligence](https://jobright.ai/jobs/info/68cd0bb61ad6b16f02893ed9?utm_campaign=Data%20Analysis&utm_source=1103)** | Wellesley Hills, MA | Hybrid | Sep 19 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Analytics Engineer](https://jobright.ai/jobs/info/68cfb2eedbd9fb154edea42b?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Sep 19 |
-| **[Music Jobs US ](https://www.music-jobs.com/usa/)** | **[Junior Analyst, Finance & Legal](https://jobright.ai/jobs/info/68d3a77e17554c2d9eef3ff6?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
