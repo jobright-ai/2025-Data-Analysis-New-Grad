@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IQVIA](https://www.iqvia.com)** | **[Analyst](https://jobright.ai/jobs/info/68d8448c7796a83635f100be?utm_campaign=Data%20Analysis&utm_source=1103)** | Wayne, PA | Remote | Sep 27 |
 | **[Englewood Hospital](https://www.englewoodhealth.org)** | **[Clinical Research Assistant - Data & Analytics](https://jobright.ai/jobs/info/68d8395e295f8e37655e6339?utm_campaign=Data%20Analysis&utm_source=1103)** | Englewood, NJ | On Site | Sep 27 |
 | **[BioSpace](http://www.biospace.com/)** | **[Data Scientist Associate](https://jobright.ai/jobs/info/68d7ffec7a37c712687d7a7d?utm_campaign=Data%20Analysis&utm_source=1103)** | Bannockburn, IL | On Site | Sep 27 |
 | **[Audible](http://www.audible.com)** | **[Data Scientist, SAMBA](https://jobright.ai/jobs/info/68ced59bfb49c96ca6ea3d6d?utm_campaign=Data%20Analysis&utm_source=1103)** | Newark, NJ | On Site | Sep 27 |
@@ -325,8 +326,8 @@ For a complete list, click the following sortable link below:
 | **[Charleston County School District](https://www.ccsdschools.com/)** | **[25-26 SY- Student Data Specialist](https://jobright.ai/jobs/info/68d4e24e8c62e63bc7fed8b0?utm_campaign=Data%20Analysis&utm_source=1103)** | Charleston, SC | On Site | Sep 21 |
 | **[San Gorgonio Memorial Hospital](https://sgmh.org)** | **[DATA INPUT SPECIALIST-HEALTHCARE](https://jobright.ai/jobs/info/68d0cc9317bd5d3415aa6923?utm_campaign=Data%20Analysis&utm_source=1103)** | Banning, CA | On Site | Sep 21 |
 | **[University of Florida](https://www.ufl.edu)** | **[Data Management Analyst I](https://jobright.ai/jobs/info/68d1960e17554c2d9eedcf64?utm_campaign=Data%20Analysis&utm_source=1103)** | Gainesville, FL | On Site | Sep 21 |
-| **[USC CERPP (Center for Enrollment Research, Policy and Practice)](https://cerpp.usc.edu)** | **[Postdoctoral Scholar - Research Associate](https://jobright.ai/jobs/info/68d1c5e717554c2d9eedfa68?utm_campaign=Data%20Analysis&utm_source=1103)** | LA Metro Area | On Site | Sep 21 |
-| ↳ | **[CSP Data Collection Specialist I](https://jobright.ai/jobs/info/68d1c50917554c2d9eedf895?utm_campaign=Data%20Analysis&utm_source=1103)** | LA Metro Area | On Site | Sep 21 |
+| **[USC CERPP (Center for Enrollment Research, Policy and Practice)](https://cerpp.usc.edu)** | **[CSP Data Collection Specialist I](https://jobright.ai/jobs/info/68d1c50917554c2d9eedf895?utm_campaign=Data%20Analysis&utm_source=1103)** | LA Metro Area | On Site | Sep 21 |
+| ↳ | **[Postdoctoral Scholar - Research Associate](https://jobright.ai/jobs/info/68d1c5e717554c2d9eedfa68?utm_campaign=Data%20Analysis&utm_source=1103)** | LA Metro Area | On Site | Sep 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Content Quality Analyst, TikTok LIVE (Spanish Speaking)](https://jobright.ai/jobs/info/68d065af846f0b04af6889f9?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | Hybrid | Sep 21 |
 | **[Material](https://materialplus.io)** | **[Sr. Associate Insights](https://jobright.ai/jobs/info/68cd4380b2a74e1837ed4ac4?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | Hybrid | Sep 21 |
 | **[OpenLoop](https://openloophealth.com)** | **[Data Analyst](https://jobright.ai/jobs/info/68c0ad275c5d5f14f46e0184?utm_campaign=Data%20Analysis&utm_source=1103)** | United States - Remote | Remote | Sep 21 |
@@ -334,6 +335,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data & Reporting Analyst , Relay Operations Center Tech & Ops integration](https://jobright.ai/jobs/info/68d6696e894705799a2eb883?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | On Site | Sep 21 |
 | **[InMarket](http://www.inmarket.com)** | **[Data Insights Analyst](https://jobright.ai/jobs/info/68cc09d816d00d2beeb189fe?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Sep 21 |
 | **[Mathematica](http://www.mathematica.org)** | **[Field Data Collector (Massachusetts)](https://jobright.ai/jobs/info/68c8fbc0f9c6ff7aedf15b81?utm_campaign=Data%20Analysis&utm_source=1103)** | Lawrence, MA | Hybrid | Sep 21 |
-| **[Memorial Sloan Kettering Cancer Center](http://www.mskcc.org)** | **[Postdoctoral fellow, Liquid biopsy – Widman Laboratory](https://jobright.ai/jobs/info/68d39df817554c2d9eef38a6?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 20 |
-| **[Mathematica](http://www.mathematica.org)** | **[Field Data Collector (Massachusetts)](https://jobright.ai/jobs/info/68b2380bbc187f64e1bd9e3a?utm_campaign=Data%20Analysis&utm_source=1103)** | Springfield, MA | Hybrid | Sep 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
