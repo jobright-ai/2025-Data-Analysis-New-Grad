@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capstone Logistics, LLC](http://www.capstonelogistics.com/)** | **[Warehouse Auditor](https://jobright.ai/jobs/info/68d9e957022fc803b4877e0f?utm_campaign=Data%20Analysis&utm_source=1103)** | Oklahoma City, OK | On Site | Sep 28 |
 | **[H1](https://www.h1.co)** | **[Korean Speaking Research Analyst](https://jobright.ai/jobs/info/68d9ce5f061b716fa295ae47?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Sep 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Anti-Fraud Data Analyst - USDS](https://jobright.ai/jobs/info/68d998439a8e451a446a5030?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | Hybrid | Sep 28 |
 | ↳ | **[Anti-Fraud Data Analyst - USDS](https://jobright.ai/jobs/info/68d99bc59a8e451a446a5076?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | Hybrid | Sep 28 |
@@ -79,10 +80,10 @@ For a complete list, click the following sortable link below:
 | **[Capital Rx](https://www.judi.health/)** | **[Analyst, Analytics -  Corporate Insights](https://jobright.ai/jobs/info/68851dc94174df41e0f96249?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, Colorado, United States | Hybrid | Sep 27 |
 | **[Benaroya Research Institute](https://www.benaroyaresearch.org/)** | **[Biostatistician I](https://jobright.ai/jobs/info/68d7bba1295f8e37655e1392?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Sep 27 |
 | **[Agentio](https://www.agentio.com)** | **[Foundational Data Team Member](https://jobright.ai/jobs/info/68c7b7785c25e576f7b2a2db?utm_campaign=Data%20Analysis&utm_source=1103)** | Brooklyn, NY | On Site | Sep 27 |
+| **[Quinn Company](https://www.quinncompany.com/)** | **[Customer Information Data Analyst](https://jobright.ai/jobs/info/68d7b12d7796a83635f0a52b?utm_campaign=Data%20Analysis&utm_source=1103)** | City of Industry, CA | On Site | Sep 27 |
 | **[eHealth, Inc.](http://ehealthinsurance.com)** | **[Data Analyst](https://jobright.ai/jobs/info/68d7a08e295f8e37655df874?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Sep 27 |
 | **[QBE LLC](http://qbe.net)** | **[Data Science Associate](https://jobright.ai/jobs/info/68d7a6d57796a83635f09abf?utm_campaign=Data%20Analysis&utm_source=1103)** | Sun Prairie, WI | On Site | Sep 27 |
 | **[QBE Insurance](http://www.qbe.com)** | **[Data Science Associate](https://jobright.ai/jobs/info/68d778d4295f8e37655daa81?utm_campaign=Data%20Analysis&utm_source=1103)** | Sun Prairie, WI, USA | Hybrid | Sep 26 |
-| **[Quinn Company](https://www.quinncompany.com/)** | **[Customer Information Data Analyst](https://jobright.ai/jobs/info/68d8cbcced09d95201eb7151?utm_campaign=Data%20Analysis&utm_source=1103)** | City of Industry, CA | On Site | Sep 26 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Research Data Associate](https://jobright.ai/jobs/info/68d76534295f8e37655d781e?utm_campaign=Data%20Analysis&utm_source=1103)** | Brooklyn, NY | On Site | Sep 26 |
 | **[Natera](https://www.natera.com/)** | **[Clinical Data Operator](https://jobright.ai/jobs/info/68d74f52e5293e3538af3f19?utm_campaign=Data%20Analysis&utm_source=1103)** | Pleasanton, CA | On Site | Sep 26 |
 | **[Centene Corporation](http://www.centene.com)** | **[Provider Data Management Analyst I](https://jobright.ai/jobs/info/68d74e4ae5293e3538af3cd8?utm_campaign=Data%20Analysis&utm_source=1103)** | Missouri, United States | Remote | Sep 26 |
@@ -329,7 +330,4 @@ For a complete list, click the following sortable link below:
 | **[Murphy Research](https://murphyresearch.com/)** | **[Research Associate](https://jobright.ai/jobs/info/67962e3bc3b9fb92e624af34?utm_campaign=Data%20Analysis&utm_source=1103)** | Santa Monica, CA | Hybrid | Sep 22 |
 | **[UNSW](https://www.unsw.edu.au/)** | **[Research Associate (Health Services Research/Epidemiology)](https://jobright.ai/jobs/info/68b554ba1ade4306aa64176d?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | On Site | Sep 22 |
 | ↳ | **[Research Associate (Health Services Research/Epidemiology)](https://jobright.ai/jobs/info/68b549931ade4306aa640f0e?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Sep 22 |
-| ↳ | **[Research Associate (Health Services Research/Epidemiology)](https://jobright.ai/jobs/info/68b54fcc1ade4306aa64163e?utm_campaign=Data%20Analysis&utm_source=1103)** | New Haven, CT | On Site | Sep 22 |
-| **[Susquehanna International Group](http://sig.com)** | **[Quantitative Researcher – PhD: 2026](https://jobright.ai/jobs/info/68ce177ae23def7af55c1f41?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 22 |
-| ↳ | **[Quantitative Researcher – Master's: 2026](https://jobright.ai/jobs/info/68cd7962e23def7af55ba503?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
