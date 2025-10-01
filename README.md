@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Lead Fulfillment Associate , ICQA Data Analyst](https://jobright.ai/jobs/info/68ce70f9fb49c96ca6ea071b?utm_campaign=Data%20Analysis&utm_source=1103)** | Virginia Beach, VA | On Site | Oct 01 |
 | **[OpenLoop](https://openloophealth.com)** | **[Data Analyst](https://jobright.ai/jobs/info/68ce1a3eb2a74e1837edf428?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Oct 01 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Associate Research Scientist](https://jobright.ai/jobs/info/68c07c455c5d5f14f46de304?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Oct 01 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Associate Research Scientist](https://jobright.ai/jobs/info/68c07cf75c5d5f14f46de3e0?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Oct 01 |
@@ -112,7 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Northeastern University](https://www.northeastern.edu/cri/)** | **[Research Coordinator](https://jobright.ai/jobs/info/68daa8e90b832179ca4af7b6?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA (Main Campus) | On Site | Sep 29 |
 | **[Leidos](https://www.leidos.com/)** | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da896b6df7b8311bb0f736?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Louis, MO | On Site | Sep 29 |
 | ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da894607c157682e56acd0?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
-| ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da88e10b832179ca4ae203?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
+| ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da893e07c157682e56acb6?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
 | ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da88e10b832179ca4ae206?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Louis, MO | On Site | Sep 29 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Business Data Analyst II](https://jobright.ai/jobs/info/68cd0bfe1ad6b16f02893f94?utm_campaign=Data%20Analysis&utm_source=1103)** | Jackson, MO | On Site | Sep 29 |
 | **[Capstone Logistics, LLC](http://www.capstonelogistics.com/)** | **[Warehouse Auditor](https://jobright.ai/jobs/info/68d9e957022fc803b4877e0f?utm_campaign=Data%20Analysis&utm_source=1103)** | Oklahoma City, OK | On Site | Sep 28 |
@@ -137,13 +138,12 @@ For a complete list, click the following sortable link below:
 | **[Capital Rx](https://www.judi.health/)** | **[Analyst, Analytics -  Corporate Insights](https://jobright.ai/jobs/info/68851dc94174df41e0f96249?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, Colorado, United States | Hybrid | Sep 27 |
 | **[Benaroya Research Institute](https://www.benaroyaresearch.org/)** | **[Biostatistician I](https://jobright.ai/jobs/info/68d7bba1295f8e37655e1392?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Sep 27 |
 | **[Agentio](https://www.agentio.com)** | **[Foundational Data Team Member](https://jobright.ai/jobs/info/68c7b7785c25e576f7b2a2db?utm_campaign=Data%20Analysis&utm_source=1103)** | Brooklyn, NY | On Site | Sep 27 |
+| **[Quinn Company](https://www.quinncompany.com/)** | **[Customer Information Data Analyst](https://jobright.ai/jobs/info/68d7b12d7796a83635f0a52b?utm_campaign=Data%20Analysis&utm_source=1103)** | City of Industry, CA | On Site | Sep 27 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[TECHINT Fusion Analyst](https://jobright.ai/jobs/info/68ba22aa8043103d4f21db1f?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlottesville, VA | On Site | Sep 27 |
-| **[Quinn Company](https://www.quinncompany.com/)** | **[Customer Information Data Analyst](https://jobright.ai/jobs/info/68d8cbcced09d95201eb7151?utm_campaign=Data%20Analysis&utm_source=1103)** | City of Industry, CA | On Site | Sep 26 |
 | **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[RESEARCH DATA SPECIALIST I](https://jobright.ai/jobs/info/68db640fe19b9e63ba20ba90?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento, CA | On Site | Sep 26 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Research Data Associate](https://jobright.ai/jobs/info/68d76534295f8e37655d781e?utm_campaign=Data%20Analysis&utm_source=1103)** | Brooklyn, NY | On Site | Sep 26 |
 | **[University of Michigan](https://www.umich.edu)** | **[Research Area Specialist Inter](https://jobright.ai/jobs/info/68db5048e19b9e63ba20a86b?utm_campaign=Data%20Analysis&utm_source=1103)** | Ann Arbor, MI | On Site | Sep 26 |
 | **[Employment Development Department](https://www.edd.ca.gov/About_EDD/Career_Opportunities.htm)** | **[RESEARCH DATA SPECIALIST I](https://jobright.ai/jobs/info/68db50b7e19b9e63ba20aa41?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento County, CA | Hybrid | Sep 26 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[C4I Analyst](https://jobright.ai/jobs/info/68d74670e5293e3538af35b9?utm_campaign=Data%20Analysis&utm_source=1103)** | Riverdale, MD | On Site | Sep 26 |
 | **[Element Materials Technology](https://www.element.com)** | **[Data Analyst](https://jobright.ai/jobs/info/68dac1ec0b832179ca4b08e2?utm_campaign=Data%20Analysis&utm_source=1103)** | Fairfield, OH | On Site | Sep 26 |
 | **[IQVIA](https://www.iqvia.com)** | **[Analyst](https://jobright.ai/jobs/info/68d74194d3fe025a3015fdb8?utm_campaign=Data%20Analysis&utm_source=1103)** | Wayne, PA, United States of America | On Site | Sep 26 |
 | **[Bikky](https://bikky.com)** | **[Data Analyst](https://jobright.ai/jobs/info/68d72767894705799a2f11b9?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Sep 26 |
@@ -223,5 +223,4 @@ For a complete list, click the following sortable link below:
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Data Collection Specialist (Temp Only)](https://jobright.ai/jobs/info/68d4fa0de678d65ec7d8a2ee?utm_campaign=Data%20Analysis&utm_source=1103)** | Corona, CA | Hybrid | Sep 25 |
 | **[Accenture](https://www.accenture.com)** | **[Anti-Money Laundering (AML) Analyst](https://jobright.ai/jobs/info/68d62af4894705799a2e827e?utm_campaign=Data%20Analysis&utm_source=1103)** | Louisville, TN | Hybrid | Sep 25 |
 | **[Takeda](http://www.takeda.com)** | **[Data Scientist Associate](https://jobright.ai/jobs/info/68d5188824b1ee4c7b663dd6?utm_campaign=Data%20Analysis&utm_source=1103)** | Bannockburn, IL | On Site | Sep 25 |
-| **[Knowledgent](http://www.knowledgent.com)** | **[Anti-Money Laundering (AML) Analyst](https://jobright.ai/jobs/info/68d4d0ffffc1276de3fde564?utm_campaign=Data%20Analysis&utm_source=1103)** | Louisville, TN | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
