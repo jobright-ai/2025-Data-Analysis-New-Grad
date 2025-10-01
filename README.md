@@ -108,10 +108,10 @@ For a complete list, click the following sortable link below:
 | **[Leidos](https://www.leidos.com/)** | **[Journeyman Geospatial Analyst](https://jobright.ai/jobs/info/68daa9606df7b8311bb10c15?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Louis, MO | On Site | Sep 29 |
 | ↳ | **[Journeyman Geospatial Analyst](https://jobright.ai/jobs/info/68daa95b0b832179ca4af8a7?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
 | **[Northeastern University](https://www.northeastern.edu/cri/)** | **[Research Coordinator](https://jobright.ai/jobs/info/68daa8e90b832179ca4af7b6?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA (Main Campus) | On Site | Sep 29 |
-| **[Leidos](https://www.leidos.com/)** | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da896b6df7b8311bb0f736?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Louis, MO | On Site | Sep 29 |
-| ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da894607c157682e56acd0?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
-| ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da88e10b832179ca4ae203?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
+| **[Leidos](https://www.leidos.com/)** | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da894607c157682e56acd0?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
+| ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da88f00b832179ca4ae244?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Louis, MO | On Site | Sep 29 |
 | ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da88e10b832179ca4ae206?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Louis, MO | On Site | Sep 29 |
+| ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da88e10b832179ca4ae203?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Business Data Analyst II](https://jobright.ai/jobs/info/68cd0bfe1ad6b16f02893f94?utm_campaign=Data%20Analysis&utm_source=1103)** | Jackson, MO | On Site | Sep 29 |
 | **[Capstone Logistics, LLC](http://www.capstonelogistics.com/)** | **[Warehouse Auditor](https://jobright.ai/jobs/info/68d9e957022fc803b4877e0f?utm_campaign=Data%20Analysis&utm_source=1103)** | Oklahoma City, OK | On Site | Sep 28 |
 | **[University of Arizona](https://www.arizona.edu)** | **[Sustainability Data Analyst](https://jobright.ai/jobs/info/68dadd446df7b8311bb13453?utm_campaign=Data%20Analysis&utm_source=1103)** | Tucson, AZ | On Site | Sep 28 |
@@ -255,8 +255,4 @@ For a complete list, click the following sortable link below:
 | **[Inclusively](https://inclusively.com/)** | **[User Researcher](https://jobright.ai/jobs/info/68d414e85ae5a90cfd482fc0?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 24 |
 | **[University of Rochester Advancement](https://www.rochester.edu/advancement/)** | **[EHR Applications Analyst I](https://jobright.ai/jobs/info/68d42a338c62e63bc7fe6477?utm_campaign=Data%20Analysis&utm_source=1103)** | 30 Corporate Woods | Remote | Sep 24 |
 | **[Jenkins Restorations](https://jenkinsrestorations.com/)** | **[Data Specialist](https://jobright.ai/jobs/info/68d4038217554c2d9eef563f?utm_campaign=Data%20Analysis&utm_source=1103)** | CHANTILLY, VA, USA | On Site | Sep 24 |
-| **[MONTEFIORE MEDICAL CENTER](http://montefiore.org)** | **[Data Analyst](https://jobright.ai/jobs/info/68d4226717554c2d9eef635d?utm_campaign=Data%20Analysis&utm_source=1103)** | Bronx, NY | On Site | Sep 24 |
-| **[Henkel](http://www.henkel.com)** | **[SAP Master Data](https://jobright.ai/jobs/info/68cf2c72846f0b04af67fa92?utm_campaign=Data%20Analysis&utm_source=1103)** | Seabrook, NH | On Site | Sep 24 |
-| **[Resource Innovations ](https://www.resource-innovations.com/)** | **[Analyst](https://jobright.ai/jobs/info/68b700f51ade4306aa646ec2?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Sep 24 |
-| **[NYU Langone Health](https://nyulangone.org/)** | **[Research Data Associate](https://jobright.ai/jobs/info/68239c9c5b7c69bde80d5317?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
