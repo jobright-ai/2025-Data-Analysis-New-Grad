@@ -215,7 +215,4 @@ For a complete list, click the following sortable link below:
 | **[NinjaTrader](http://www.ninjatrader.com)** | **[Product Data Analyst](https://jobright.ai/jobs/info/688a920809808a6103e4fd8e?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Hybrid | Sep 25 |
 | **[Pfizer](http://www.pfizer.com)** | **[Data Analyst](https://jobright.ai/jobs/info/68d53b2e63d77d6f6f3ec981?utm_campaign=Data%20Analysis&utm_source=1103)** | United States - North Carolina - Rocky Mount | On Site | Sep 25 |
 | **[Takeda](http://www.takeda.com)** | **[Data Scientist Associate](https://jobright.ai/jobs/info/68d555f01f7fb2169ab0f120?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | On Site | Sep 25 |
-| **[Memorial Sloan Kettering Cancer Center](http://www.mskcc.org)** | **[Postdoctoral Fellow, Computational Biology in Cancer – Chan Lab at Memorial Sloan Kettering Cancer Center](https://jobright.ai/jobs/info/68d394a78c62e63bc7fe2f08?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 25 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68cf5037fb49c96ca6ea730e?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, MD | On Site | Sep 25 |
-| **[DENSO](https://www.denso.com)** | **[Data Scientist 1](https://jobright.ai/jobs/info/68d53f3463d77d6f6f3ecae8?utm_campaign=Data%20Analysis&utm_source=1103)** | Southfield, MI, United States | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
