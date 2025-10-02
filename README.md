@@ -213,6 +213,4 @@ For a complete list, click the following sortable link below:
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Graduate Research Data Analyst](https://jobright.ai/jobs/info/68d57f4f39247e3c807ebdef?utm_campaign=Data%20Analysis&utm_source=1103)** | UT MAIN CAMPUS | On Site | Sep 25 |
 | **[Ringer Sciences](http://www.ringersciences.com)** | **[Data Scientist II](https://jobright.ai/jobs/info/68d5784839247e3c807eb771?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Sep 25 |
 | **[NinjaTrader](http://www.ninjatrader.com)** | **[Product Data Analyst](https://jobright.ai/jobs/info/688a920809808a6103e4fd8e?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Hybrid | Sep 25 |
-| **[Pfizer](http://www.pfizer.com)** | **[Data Analyst](https://jobright.ai/jobs/info/68d53b2e63d77d6f6f3ec981?utm_campaign=Data%20Analysis&utm_source=1103)** | United States - North Carolina - Rocky Mount | On Site | Sep 25 |
-| **[Takeda](http://www.takeda.com)** | **[Data Scientist Associate](https://jobright.ai/jobs/info/68d555f01f7fb2169ab0f120?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
