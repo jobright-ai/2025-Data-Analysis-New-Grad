@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AIPAC](http://www.aipac.org)** | **[Research Analyst](https://jobright.ai/jobs/info/68a7b206758f2e4ac3fedbe1?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | Hybrid | Oct 03 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Full-Time Campus Hire](https://jobright.ai/jobs/info/68cb8abbefdec76df36be44e?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Oct 03 |
 | **[ID.me](https://www.ID.me)** | **[Data Scientist - Wallet Authorization and Profiles](https://jobright.ai/jobs/info/67ddeab9cc36765933922cca?utm_campaign=Data%20Analysis&utm_source=1103)** | Mountain View, CA | On Site | Oct 03 |
 | **[The Voleon Group](http://voleon.com/)** | **[Data Scientist (New York)](https://jobright.ai/jobs/info/68cbdec2ba798c1a501d5b5a?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Oct 03 |
@@ -126,8 +127,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Journeyman Geospatial Analyst](https://jobright.ai/jobs/info/68daa95b0b832179ca4af8a7?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
 | **[Northeastern University](https://www.northeastern.edu/cri/)** | **[Research Coordinator](https://jobright.ai/jobs/info/68daa8e90b832179ca4af7b6?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA (Main Campus) | On Site | Sep 29 |
 | **[Optiver](http://www.optiver.com)** | **[Graduate Quantitative Researcher, Bachelor’s or Master’s Degree (2026 Start)](https://jobright.ai/jobs/info/68daabd60b832179ca4af933?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Sep 29 |
-| **[Leidos](https://www.leidos.com/)** | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da896b6df7b8311bb0f736?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Louis, MO | On Site | Sep 29 |
-| ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da894607c157682e56acd0?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
+| **[Leidos](https://www.leidos.com/)** | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da894607c157682e56acd0?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
+| ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da88f00b832179ca4ae244?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Louis, MO | On Site | Sep 29 |
 | ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da88e10b832179ca4ae203?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
 | ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da88e10b832179ca4ae206?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Louis, MO | On Site | Sep 29 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Business Data Analyst II](https://jobright.ai/jobs/info/68cd0bfe1ad6b16f02893f94?utm_campaign=Data%20Analysis&utm_source=1103)** | Jackson, MO | On Site | Sep 29 |
@@ -141,9 +142,9 @@ For a complete list, click the following sortable link below:
 | **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Data Sync Analyst](https://jobright.ai/jobs/info/68ca646e06a34016008c80b0?utm_campaign=Data%20Analysis&utm_source=1103)** | Camden, NJ | On Site | Sep 28 |
 | **[Q-Centrix](https://www.q-centrix.com/)** | **[CMS/Sepsis Data Abstractor: Full-Time](https://jobright.ai/jobs/info/689f88a1faa4e875e8289717?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Sep 28 |
 | **[Taku Health Services, LLC](http://www.goldbelt.com)** | **[SELRES Analysts](https://jobright.ai/jobs/info/68cfa93adbd9fb154ede984e?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Sep 28 |
+| **[Columbia University Irving Medical Center](https://www.cuimc.columbia.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/68d5e22463d77d6f6f3f2e1f?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 27 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Data Coordinator I-Cardiology](https://jobright.ai/jobs/info/68d5f74e1f7fb2169ab14fa3?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 27 |
-| **[Columbia University Irving Medical Center](https://www.cuimc.columbia.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/68d5c4561f7fb2169ab138bf?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 27 |
-| ↳ | **[Research Assistant](https://jobright.ai/jobs/info/68d5d45763d77d6f6f3f29bf?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 27 |
+| **[Columbia University Irving Medical Center](https://www.cuimc.columbia.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/68d5d45763d77d6f6f3f29bf?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 27 |
 | **[IQVIA](https://www.iqvia.com)** | **[Analyst](https://jobright.ai/jobs/info/68d8448c7796a83635f100be?utm_campaign=Data%20Analysis&utm_source=1103)** | Wayne, PA | Remote | Sep 27 |
 | **[BioSpace](http://www.biospace.com/)** | **[Data Scientist Associate](https://jobright.ai/jobs/info/68d7ffec7a37c712687d7a7d?utm_campaign=Data%20Analysis&utm_source=1103)** | Bannockburn, IL | On Site | Sep 27 |
 | **[Audible](http://www.audible.com)** | **[Data Scientist, SAMBA](https://jobright.ai/jobs/info/68ced59bfb49c96ca6ea3d6d?utm_campaign=Data%20Analysis&utm_source=1103)** | Newark, NJ | On Site | Sep 27 |
@@ -153,10 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Capital Rx](https://www.judi.health/about/careers)** | **[Analyst, Analytics -  Corporate Insights](https://jobright.ai/jobs/info/68851dc94174df41e0f96249?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, Colorado, United States | Hybrid | Sep 27 |
 | **[Benaroya Research Institute](https://www.benaroyaresearch.org/)** | **[Biostatistician I](https://jobright.ai/jobs/info/68d7bba1295f8e37655e1392?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Sep 27 |
 | **[Agentio](https://www.agentio.com)** | **[Foundational Data Team Member](https://jobright.ai/jobs/info/68c7b7785c25e576f7b2a2db?utm_campaign=Data%20Analysis&utm_source=1103)** | Brooklyn, NY | On Site | Sep 27 |
+| **[Quinn Company](https://www.quinncompany.com/)** | **[Customer Information Data Analyst](https://jobright.ai/jobs/info/68d7b12d7796a83635f0a52b?utm_campaign=Data%20Analysis&utm_source=1103)** | City of Industry, CA | On Site | Sep 27 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[TECHINT Fusion Analyst](https://jobright.ai/jobs/info/68ba22aa8043103d4f21db1f?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlottesville, VA | On Site | Sep 27 |
-| **[Quinn Company](https://www.quinncompany.com/)** | **[Customer Information Data Analyst](https://jobright.ai/jobs/info/68d8cbcced09d95201eb7151?utm_campaign=Data%20Analysis&utm_source=1103)** | City of Industry, CA | On Site | Sep 26 |
 | **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[RESEARCH DATA SPECIALIST I](https://jobright.ai/jobs/info/68db640fe19b9e63ba20ba90?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento, CA | On Site | Sep 26 |
-| **[NYU Langone Health](https://nyulangone.org/)** | **[Research Data Associate](https://jobright.ai/jobs/info/68d76534295f8e37655d781e?utm_campaign=Data%20Analysis&utm_source=1103)** | Brooklyn, NY | On Site | Sep 26 |
-| **[University of Michigan](https://www.umich.edu)** | **[Research Area Specialist Inter](https://jobright.ai/jobs/info/68db5048e19b9e63ba20a86b?utm_campaign=Data%20Analysis&utm_source=1103)** | Ann Arbor, MI | On Site | Sep 26 |
-| **[Employment Development Department](https://www.edd.ca.gov/About_EDD/Career_Opportunities.htm)** | **[RESEARCH DATA SPECIALIST I](https://jobright.ai/jobs/info/68db50b7e19b9e63ba20aa41?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento County, CA | Hybrid | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
