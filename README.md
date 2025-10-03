@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Voleon Group](http://voleon.com/)** | **[Data Scientist (New York)](https://jobright.ai/jobs/info/68cbdec2ba798c1a501d5b5a?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Oct 03 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate [TikTok LIVE-Data Science] - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cd93771ad6b16f0289b967?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
+| **[Adobe](http://www.adobe.com)** | **[2026 University Graduate - Data Scientist](https://jobright.ai/jobs/info/68cd09f01ad6b16f02893ae6?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
+| ↳ | **[2026 University Graduate - Data Scientist](https://jobright.ai/jobs/info/68ce10851ad6b16f028a1890?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
+| ↳ | **[2026 University Graduate - Data Scientist](https://jobright.ai/jobs/info/68cffbbd846f0b04af686b26?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate [TikTok LIVE-Data Science] - 2026 Start (PhD)](https://jobright.ai/jobs/info/68ce2172e23def7af55c2771?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
+| **[Novartis](https://www.novartis.com)** | **[Data Science Innovation Postdoc](https://jobright.ai/jobs/info/68d612db2116ff37ee0925d5?utm_campaign=Data%20Analysis&utm_source=1103)** | Cambridge, MA | On Site | Oct 02 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate (TikTok-Search)-2026 Start (BS/MS)](https://jobright.ai/jobs/info/68ce66bcfb49c96ca6ea0082?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 02 |
 | **[Oak Street Health, part of CVS Health](http://www.oakstreethealth.com)** | **[Specialist,Clinical Informatics](https://jobright.ai/jobs/info/68a3621d37d3cc6b0d576657?utm_campaign=Data%20Analysis&utm_source=1103)** | Memphis, TN | Hybrid | Oct 01 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[Data Management Analyst](https://jobright.ai/jobs/info/68ca21fbf16e3266d2822ec5?utm_campaign=Data%20Analysis&utm_source=1103)** | Hanover, MD | Hybrid | Oct 01 |
 | **[BlackRock](http://www.blackrock.com)** | **[Associate, Quantitative Modeler](https://jobright.ai/jobs/info/68cb1f38ba798c1a501cc11c?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Oct 01 |
@@ -114,9 +122,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Journeyman Geospatial Analyst](https://jobright.ai/jobs/info/68daa95b0b832179ca4af8a7?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
 | **[Northeastern University](https://www.northeastern.edu/cri/)** | **[Research Coordinator](https://jobright.ai/jobs/info/68daa8e90b832179ca4af7b6?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA (Main Campus) | On Site | Sep 29 |
 | **[Optiver](http://www.optiver.com)** | **[Graduate Quantitative Researcher, Bachelor’s or Master’s Degree (2026 Start)](https://jobright.ai/jobs/info/68daabd60b832179ca4af933?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Sep 29 |
-| **[Leidos](https://www.leidos.com/)** | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da896b6df7b8311bb0f736?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Louis, MO | On Site | Sep 29 |
-| ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da894607c157682e56acd0?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
-| ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da88e10b832179ca4ae203?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
+| **[Leidos](https://www.leidos.com/)** | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da894607c157682e56acd0?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
+| ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da893e07c157682e56acb6?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
+| ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da88f00b832179ca4ae244?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Louis, MO | On Site | Sep 29 |
 | ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da88e10b832179ca4ae206?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Louis, MO | On Site | Sep 29 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Business Data Analyst II](https://jobright.ai/jobs/info/68cd0bfe1ad6b16f02893f94?utm_campaign=Data%20Analysis&utm_source=1103)** | Jackson, MO | On Site | Sep 29 |
 | **[Capstone Logistics, LLC](http://www.capstonelogistics.com/)** | **[Warehouse Auditor](https://jobright.ai/jobs/info/68d9e957022fc803b4877e0f?utm_campaign=Data%20Analysis&utm_source=1103)** | Oklahoma City, OK | On Site | Sep 28 |
@@ -129,9 +137,9 @@ For a complete list, click the following sortable link below:
 | **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Data Sync Analyst](https://jobright.ai/jobs/info/68ca646e06a34016008c80b0?utm_campaign=Data%20Analysis&utm_source=1103)** | Camden, NJ | On Site | Sep 28 |
 | **[Q-Centrix](https://www.q-centrix.com/)** | **[CMS/Sepsis Data Abstractor: Full-Time](https://jobright.ai/jobs/info/689f88a1faa4e875e8289717?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Sep 28 |
 | **[Taku Health Services, LLC](http://www.goldbelt.com)** | **[SELRES Analysts](https://jobright.ai/jobs/info/68cfa93adbd9fb154ede984e?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Sep 28 |
+| **[Columbia University Irving Medical Center](https://www.cuimc.columbia.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/68d5e22463d77d6f6f3f2e1f?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 27 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Data Coordinator I-Cardiology](https://jobright.ai/jobs/info/68d5f74e1f7fb2169ab14fa3?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 27 |
-| **[Columbia University Irving Medical Center](https://www.cuimc.columbia.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/68d5c4561f7fb2169ab138bf?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 27 |
-| ↳ | **[Research Assistant](https://jobright.ai/jobs/info/68d5d45763d77d6f6f3f29bf?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 27 |
+| **[Columbia University Irving Medical Center](https://www.cuimc.columbia.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/68d5d45763d77d6f6f3f29bf?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 27 |
 | **[IQVIA](https://www.iqvia.com)** | **[Analyst](https://jobright.ai/jobs/info/68d8448c7796a83635f100be?utm_campaign=Data%20Analysis&utm_source=1103)** | Wayne, PA | Remote | Sep 27 |
 | **[BioSpace](http://www.biospace.com/)** | **[Data Scientist Associate](https://jobright.ai/jobs/info/68d7ffec7a37c712687d7a7d?utm_campaign=Data%20Analysis&utm_source=1103)** | Bannockburn, IL | On Site | Sep 27 |
 | **[Audible](http://www.audible.com)** | **[Data Scientist, SAMBA](https://jobright.ai/jobs/info/68ced59bfb49c96ca6ea3d6d?utm_campaign=Data%20Analysis&utm_source=1103)** | Newark, NJ | On Site | Sep 27 |
@@ -149,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Employment Development Department](https://www.edd.ca.gov/About_EDD/Career_Opportunities.htm)** | **[RESEARCH DATA SPECIALIST I](https://jobright.ai/jobs/info/68db50b7e19b9e63ba20aa41?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento County, CA | Hybrid | Sep 26 |
 | **[Element Materials Technology](https://www.element.com)** | **[Data Analyst](https://jobright.ai/jobs/info/68dac1ec0b832179ca4b08e2?utm_campaign=Data%20Analysis&utm_source=1103)** | Fairfield, OH | On Site | Sep 26 |
 | **[IQVIA](https://www.iqvia.com)** | **[Analyst](https://jobright.ai/jobs/info/68d74194d3fe025a3015fdb8?utm_campaign=Data%20Analysis&utm_source=1103)** | Wayne, PA, United States of America | On Site | Sep 26 |
-| **[Bikky](https://bikky.com)** | **[Data Analyst](https://jobright.ai/jobs/info/68d72767894705799a2f11b9?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Sep 26 |
-| **[The Citco Group Limited](https://www.citco.com)** | **[Data Analytics Associate - Product Management (12 Month Contract)](https://jobright.ai/jobs/info/68d7249545853d0e39ccd209?utm_campaign=Data%20Analysis&utm_source=1103)** | Jersey City, NJ | Hybrid | Sep 26 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate (TikTok Shop Business Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68d71f8445853d0e39ccd0a5?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Sep 26 |
-| **[Marist University](http://www.marist.edu/)** | **[Institutional Data Analyst](https://jobright.ai/jobs/info/68d71bdd894705799a2f0afe?utm_campaign=Data%20Analysis&utm_source=1103)** | Poughkeepsie, NY | On Site | Sep 26 |
-| **[Quinn Company](https://www.quinncompany.com/)** | **[Customer Information Data Analyst](https://jobright.ai/jobs/info/68d7b003295f8e37655e0b21?utm_campaign=Data%20Analysis&utm_source=1103)** | US-CA-City of Industry | On Site | Sep 26 |
-| **[Element Materials Technology](https://www.element.com)** | **[Data Analyst](https://jobright.ai/jobs/info/68dac67e0b832179ca4b0b89?utm_campaign=Data%20Analysis&utm_source=1103)** | US-OH-Fairfield | On Site | Sep 26 |
-| **[Colorado State University](http://economics.colostate.edu/)** | **[Postdoctoral Associate - Predictive Modeler](https://jobright.ai/jobs/info/68d71393894705799a2f0750?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Collins, CO | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
