@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Standard Motor Products](http://www.smpcorp.com/)** | **[Data Scientist](https://jobright.ai/jobs/info/688bcc903a30793eb963dba6?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Oct 04 |
 | **[NielsenIQ](https://nielseniq.com)** | **[Analyst](https://jobright.ai/jobs/info/68c4ab50fce86561b92882d2?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 04 |
+| **[Northwestern University](https://www.northwestern.edu)** | **[Research Data Analyst Associate, Rheumatology](https://jobright.ai/jobs/info/68cd4a24b2a74e1837ed4ef1?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Oct 04 |
 | **[University of California, San Francisco](http://www.ucsf.edu)** | **[Research Data Analyst](https://jobright.ai/jobs/info/68dadd236df7b8311bb1336c?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Oct 03 |
 | **[Citi](https://www.citi.com)** | **[Data Analyst 2 - Officer](https://jobright.ai/jobs/info/68d8ee45061b716fa2959b67?utm_campaign=Data%20Analysis&utm_source=1103)** | Tampa, FL | On Site | Oct 03 |
 | **[AIPAC](http://www.aipac.org)** | **[Research Analyst](https://jobright.ai/jobs/info/68a7b206758f2e4ac3fedbe1?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | Hybrid | Oct 03 |
@@ -74,6 +75,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 University Graduate - Data Scientist](https://jobright.ai/jobs/info/68ce10851ad6b16f028a1890?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
 | ↳ | **[2026 University Graduate - Data Scientist](https://jobright.ai/jobs/info/68cffbbd846f0b04af686b26?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate [TikTok LIVE-Data Science] - 2026 Start (PhD)](https://jobright.ai/jobs/info/68ce2172e23def7af55c2771?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
+| **[CNA Corporation](https://www.cna.org)** | **[Research Specialist (Geospatial/Stats Focus)](https://jobright.ai/jobs/info/68cce60ed11b445e0bee3e3c?utm_campaign=Data%20Analysis&utm_source=1103)** | Houston, TX | Hybrid | Oct 02 |
 | **[Novartis](https://www.novartis.com)** | **[Data Science Innovation Postdoc](https://jobright.ai/jobs/info/68d612db2116ff37ee0925d5?utm_campaign=Data%20Analysis&utm_source=1103)** | Cambridge, MA | On Site | Oct 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate (TikTok-Product-Data Science)-2026 Start (PhD)](https://jobright.ai/jobs/info/68c78d72db52c07d2884be84?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 02 |
 | ↳ | **[Data Scientist Graduate (TikTok-Search)-2026 Start (BS/MS)](https://jobright.ai/jobs/info/68ce66bcfb49c96ca6ea0082?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 02 |
@@ -102,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Turn/River Capital](http://www.turnriver.com/)** | **[Data Scientist](https://jobright.ai/jobs/info/68cda7b9e23def7af55bd807?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | Hybrid | Sep 30 |
 | **[Albert Einstein College of Medicine](https://einsteinmed.edu/)** | **[Bioinformatics Analyst](https://jobright.ai/jobs/info/68cf88d5fb49c96ca6ea9562?utm_campaign=Data%20Analysis&utm_source=1103)** | Bronx, NY | On Site | Sep 30 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Business Data Analyst II](https://jobright.ai/jobs/info/68cccef3a77e5d7d744f5c5e?utm_campaign=Data%20Analysis&utm_source=1103)** | Mechanicsburg, PA | On Site | Sep 30 |
-| **[CNA Corporation](https://www.cna.org)** | **[Research Specialist (Geospatial/Stats Focus)](https://jobright.ai/jobs/info/68cce60ed11b445e0bee3e3c?utm_campaign=Data%20Analysis&utm_source=1103)** | Houston, TX | Hybrid | Sep 30 |
 | **[Peraton](https://www.peraton.com/)** | **[Junior Data Analyst](https://jobright.ai/jobs/info/68db728fe19b9e63ba20c318?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
 | **[Audible](http://www.audible.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68db445a34f2c406da6d5d70?utm_campaign=Data%20Analysis&utm_source=1103)** | Newark, NJ | On Site | Sep 29 |
 | **[CGI](https://www.cgi.com)** | **[Junior Knowledge Analyst](https://jobright.ai/jobs/info/68db3b529f13662d20e48b96?utm_campaign=Data%20Analysis&utm_source=1103)** | Arlington, VA | Hybrid | Sep 29 |
@@ -136,9 +137,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Journeyman Geospatial Analyst](https://jobright.ai/jobs/info/68daa95b0b832179ca4af8a7?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
 | **[Northeastern University](https://www.northeastern.edu/cri/)** | **[Research Coordinator](https://jobright.ai/jobs/info/68daa8e90b832179ca4af7b6?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA (Main Campus) | On Site | Sep 29 |
 | **[Optiver](http://www.optiver.com)** | **[Graduate Quantitative Researcher, Bachelor’s or Master’s Degree (2026 Start)](https://jobright.ai/jobs/info/68daabd60b832179ca4af933?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Sep 29 |
-| **[Leidos](https://www.leidos.com/)** | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da896b6df7b8311bb0f736?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Louis, MO | On Site | Sep 29 |
-| ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da894607c157682e56acd0?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
+| **[Leidos](https://www.leidos.com/)** | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da894607c157682e56acd0?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
 | ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da893e07c157682e56acb6?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
+| ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da88f00b832179ca4ae244?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Louis, MO | On Site | Sep 29 |
 | ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da88e10b832179ca4ae206?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Louis, MO | On Site | Sep 29 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Business Data Analyst II](https://jobright.ai/jobs/info/68cd0bfe1ad6b16f02893f94?utm_campaign=Data%20Analysis&utm_source=1103)** | Jackson, MO | On Site | Sep 29 |
 | **[Capstone Logistics, LLC](http://www.capstonelogistics.com/)** | **[Warehouse Auditor](https://jobright.ai/jobs/info/68d9e957022fc803b4877e0f?utm_campaign=Data%20Analysis&utm_source=1103)** | Oklahoma City, OK | On Site | Sep 28 |
@@ -151,5 +152,4 @@ For a complete list, click the following sortable link below:
 | **[Q-Centrix](https://www.q-centrix.com/)** | **[CMS/Sepsis Data Abstractor: Full-Time](https://jobright.ai/jobs/info/689f88a1faa4e875e8289717?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Sep 28 |
 | **[Taku Health Services, LLC](http://www.goldbelt.com)** | **[SELRES Analysts](https://jobright.ai/jobs/info/68cfa93adbd9fb154ede984e?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Sep 28 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Data Coordinator I-Cardiology](https://jobright.ai/jobs/info/68d5f74e1f7fb2169ab14fa3?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 27 |
-| **[Columbia University Irving Medical Center](https://www.cuimc.columbia.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/68d5c4561f7fb2169ab138bf?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
