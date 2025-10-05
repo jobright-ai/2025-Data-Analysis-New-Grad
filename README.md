@@ -133,15 +133,14 @@ For a complete list, click the following sortable link below:
 | **[Verisk](https://www.verisk.com)** | **[Research Analyst I (XW)](https://jobright.ai/jobs/info/68dad7370b832179ca4b1931?utm_campaign=Data%20Analysis&utm_source=1103)** | Lehi, UT, United States | Hybrid | Sep 29 |
 | **[Indiana University](https://www.iu.edu)** | **[Research Data Analyst](https://jobright.ai/jobs/info/68daef5d6df7b8311bb1439d?utm_campaign=Data%20Analysis&utm_source=1103)** | Bloomington, IN | Hybrid | Sep 29 |
 | **[University of Washington](http://www.washington.edu)** | **[Business Intelligence Analyst](https://jobright.ai/jobs/info/68dac68a07c157682e56d631?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle Campus | Hybrid | Sep 29 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Clinical Data Analyst](https://jobright.ai/jobs/info/68dac65407c157682e56d56b?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston-MA | Hybrid | Sep 29 |
 | **[Leidos](https://www.leidos.com/)** | **[Journeyman Geospatial Analyst](https://jobright.ai/jobs/info/68daa9606df7b8311bb10c15?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Louis, MO | On Site | Sep 29 |
 | ↳ | **[Journeyman Geospatial Analyst](https://jobright.ai/jobs/info/68daa95b0b832179ca4af8a7?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
 | **[Northeastern University](https://www.northeastern.edu/cri/)** | **[Research Coordinator](https://jobright.ai/jobs/info/68daa8e90b832179ca4af7b6?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA (Main Campus) | On Site | Sep 29 |
 | **[Optiver](http://www.optiver.com)** | **[Graduate Quantitative Researcher, Bachelor’s or Master’s Degree (2026 Start)](https://jobright.ai/jobs/info/68daabd60b832179ca4af933?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Sep 29 |
 | **[Leidos](https://www.leidos.com/)** | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da894607c157682e56acd0?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
 | ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da88f00b832179ca4ae244?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Louis, MO | On Site | Sep 29 |
-| ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da88e10b832179ca4ae203?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
 | ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da88e10b832179ca4ae206?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Louis, MO | On Site | Sep 29 |
+| ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da88e10b832179ca4ae203?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Business Data Analyst II](https://jobright.ai/jobs/info/68cd0bfe1ad6b16f02893f94?utm_campaign=Data%20Analysis&utm_source=1103)** | Jackson, MO | On Site | Sep 29 |
 | **[Capstone Logistics, LLC](http://www.capstonelogistics.com/)** | **[Warehouse Auditor](https://jobright.ai/jobs/info/68d9e957022fc803b4877e0f?utm_campaign=Data%20Analysis&utm_source=1103)** | Oklahoma City, OK | On Site | Sep 28 |
 | **[University of Arizona](https://www.arizona.edu)** | **[Sustainability Data Analyst](https://jobright.ai/jobs/info/68dadd446df7b8311bb13453?utm_campaign=Data%20Analysis&utm_source=1103)** | Tucson, AZ | On Site | Sep 28 |
@@ -150,5 +149,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Anti-Fraud Data Analyst - USDS](https://jobright.ai/jobs/info/68d99bc59a8e451a446a5076?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | Hybrid | Sep 28 |
 | **[Vincent Valuations LLC](https://www.vincentvaluations.com/)** | **[Data Collector](https://jobright.ai/jobs/info/68d979a7061b716fa295a5d0?utm_campaign=Data%20Analysis&utm_source=1103)** | Alamance County, NC | On Site | Sep 28 |
 | **[Q-Centrix](https://www.q-centrix.com/)** | **[CMS/Sepsis Data Abstractor: Full-Time](https://jobright.ai/jobs/info/689f88a1faa4e875e8289717?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Sep 28 |
-| **[Taku Health Services, LLC](http://www.goldbelt.com)** | **[SELRES Analysts](https://jobright.ai/jobs/info/68cfa93adbd9fb154ede984e?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
