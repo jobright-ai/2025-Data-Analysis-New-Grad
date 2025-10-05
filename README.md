@@ -59,10 +59,12 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Standard Motor Products](http://www.smpcorp.com/)** | **[Data Scientist](https://jobright.ai/jobs/info/688bcc903a30793eb963dba6?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Oct 04 |
 | **[NielsenIQ](https://nielseniq.com)** | **[Analyst](https://jobright.ai/jobs/info/68c4ab50fce86561b92882d2?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 04 |
+| **[Children's Hospital Los Angeles (CHLA)](http://www.chla.org/)** | **[Associate Research Specialist / Full time / Days](https://jobright.ai/jobs/info/68ce6afadbd9fb154eddf59b?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Oct 04 |
 | **[SpaceX](https://www.spacex.com)** | **[Data Scientist (Starlink)](https://jobright.ai/jobs/info/68cea0f1846f0b04af67bb00?utm_campaign=Data%20Analysis&utm_source=1103)** | Redmond, WA | On Site | Oct 04 |
 | **[Point72](https://www.point72.com)** | **[Data Scientist, Proprietary Research](https://jobright.ai/jobs/info/68cf5589dbd9fb154ede7139?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Oct 04 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Research Data Analyst Associate, Rheumatology](https://jobright.ai/jobs/info/68cd4a24b2a74e1837ed4ef1?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Oct 04 |
 | **[Children's National Hospital](http://childrensnational.org)** | **[Research Associate](https://jobright.ai/jobs/info/67fe10bbc6a7f1fb4f4cbb2d?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | On Site | Oct 04 |
+| **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[EUC Risk Analyst](https://jobright.ai/jobs/info/68a76b3d33dd7158bbca6d22?utm_campaign=Data%20Analysis&utm_source=1103)** | Indianapolis, IN | Hybrid | Oct 04 |
 | **[University of California, San Francisco](http://www.ucsf.edu)** | **[Research Data Analyst](https://jobright.ai/jobs/info/68dadd236df7b8311bb1336c?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Oct 03 |
 | **[Citi](https://www.citi.com)** | **[Data Analyst 2 - Officer](https://jobright.ai/jobs/info/68d8ee45061b716fa2959b67?utm_campaign=Data%20Analysis&utm_source=1103)** | Tampa, FL | On Site | Oct 03 |
 | **[AIPAC](http://www.aipac.org)** | **[Research Analyst](https://jobright.ai/jobs/info/68a7b206758f2e4ac3fedbe1?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | Hybrid | Oct 03 |
@@ -139,9 +141,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Journeyman Geospatial Analyst](https://jobright.ai/jobs/info/68daa95b0b832179ca4af8a7?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
 | **[Northeastern University](https://www.northeastern.edu/cri/)** | **[Research Coordinator](https://jobright.ai/jobs/info/68daa8e90b832179ca4af7b6?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA (Main Campus) | On Site | Sep 29 |
 | **[Optiver](http://www.optiver.com)** | **[Graduate Quantitative Researcher, Bachelor’s or Master’s Degree (2026 Start)](https://jobright.ai/jobs/info/68daabd60b832179ca4af933?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Sep 29 |
-| **[Leidos](https://www.leidos.com/)** | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da894607c157682e56acd0?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
-| ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da893e07c157682e56acb6?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
-| ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da88f00b832179ca4ae244?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Louis, MO | On Site | Sep 29 |
+| **[Leidos](https://www.leidos.com/)** | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da896b6df7b8311bb0f736?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Louis, MO | On Site | Sep 29 |
+| ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da894607c157682e56acd0?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
+| ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da88e10b832179ca4ae203?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
 | ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da88e10b832179ca4ae206?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Louis, MO | On Site | Sep 29 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Business Data Analyst II](https://jobright.ai/jobs/info/68cd0bfe1ad6b16f02893f94?utm_campaign=Data%20Analysis&utm_source=1103)** | Jackson, MO | On Site | Sep 29 |
 | **[Capstone Logistics, LLC](http://www.capstonelogistics.com/)** | **[Warehouse Auditor](https://jobright.ai/jobs/info/68d9e957022fc803b4877e0f?utm_campaign=Data%20Analysis&utm_source=1103)** | Oklahoma City, OK | On Site | Sep 28 |
@@ -149,5 +151,4 @@ For a complete list, click the following sortable link below:
 | **[H1](https://www.h1.co)** | **[Korean Speaking Research Analyst](https://jobright.ai/jobs/info/68d9ce5f061b716fa295ae47?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Sep 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Anti-Fraud Data Analyst - USDS](https://jobright.ai/jobs/info/68d998439a8e451a446a5030?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | Hybrid | Sep 28 |
 | ↳ | **[Anti-Fraud Data Analyst - USDS](https://jobright.ai/jobs/info/68d99bc59a8e451a446a5076?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | Hybrid | Sep 28 |
-| **[Vincent Valuations LLC](https://www.vincentvaluations.com/)** | **[Data Collector](https://jobright.ai/jobs/info/68d979a7061b716fa295a5d0?utm_campaign=Data%20Analysis&utm_source=1103)** | Alamance County, NC | On Site | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
