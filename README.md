@@ -147,5 +147,4 @@ For a complete list, click the following sortable link below:
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Business Data Analyst II](https://jobright.ai/jobs/info/68cd0bfe1ad6b16f02893f94?utm_campaign=Data%20Analysis&utm_source=1103)** | Jackson, MO | On Site | Sep 29 |
 | **[Capstone Logistics, LLC](http://www.capstonelogistics.com/)** | **[Warehouse Auditor](https://jobright.ai/jobs/info/68d9e957022fc803b4877e0f?utm_campaign=Data%20Analysis&utm_source=1103)** | Oklahoma City, OK | On Site | Sep 28 |
 | **[University of Arizona](https://www.arizona.edu)** | **[Sustainability Data Analyst](https://jobright.ai/jobs/info/68dadd446df7b8311bb13453?utm_campaign=Data%20Analysis&utm_source=1103)** | Tucson, AZ | On Site | Sep 28 |
-| **[H1](https://www.h1.co)** | **[Korean Speaking Research Analyst](https://jobright.ai/jobs/info/68d9ce5f061b716fa295ae47?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
