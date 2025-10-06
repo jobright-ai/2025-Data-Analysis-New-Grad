@@ -115,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Audible](http://www.audible.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68db445a34f2c406da6d5d70?utm_campaign=Data%20Analysis&utm_source=1103)** | Newark, NJ | On Site | Sep 29 |
 | **[CGI](https://www.cgi.com)** | **[Junior Knowledge Analyst](https://jobright.ai/jobs/info/68db3b529f13662d20e48b96?utm_campaign=Data%20Analysis&utm_source=1103)** | Arlington, VA | Hybrid | Sep 29 |
 | **[Peraton](https://www.peraton.com/)** | **[Junior Data Analyst](https://jobright.ai/jobs/info/68db36c334f2c406da6d55ad?utm_campaign=Data%20Analysis&utm_source=1103)** | US-VA-Reston | On Site | Sep 29 |
-| **[NielsenIQ](https://nielseniq.com)** | **[Analyst](https://jobright.ai/jobs/info/68db34ad34f2c406da6d54ed?utm_campaign=Data%20Analysis&utm_source=1103)** | Newark, NJ | Hybrid | Sep 29 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Data Services Assistant](https://jobright.ai/jobs/info/68db2b220dffed6f83d2cf2e?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, California | Hybrid | Sep 29 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Data Analyst Associate - Early Career](https://jobright.ai/jobs/info/68db2ae1e9b48513789b23e1?utm_campaign=Data%20Analysis&utm_source=1103)** | Texas | Hybrid | Sep 29 |
 | ↳ | **[Data Analyst Associate - Early Career](https://jobright.ai/jobs/info/68db2acc0dffed6f83d2ce36?utm_campaign=Data%20Analysis&utm_source=1103)** | Possible | Hybrid | Sep 29 |
@@ -141,9 +140,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Journeyman Geospatial Analyst](https://jobright.ai/jobs/info/68daa95b0b832179ca4af8a7?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
 | **[Northeastern University](https://www.northeastern.edu/cri/)** | **[Research Coordinator](https://jobright.ai/jobs/info/68daa8e90b832179ca4af7b6?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA (Main Campus) | On Site | Sep 29 |
 | **[Optiver](http://www.optiver.com)** | **[Graduate Quantitative Researcher, Bachelor’s or Master’s Degree (2026 Start)](https://jobright.ai/jobs/info/68daabd60b832179ca4af933?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Sep 29 |
-| **[Leidos](https://www.leidos.com/)** | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da896b6df7b8311bb0f736?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Louis, MO | On Site | Sep 29 |
-| ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da894607c157682e56acd0?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
-| ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da893e07c157682e56acb6?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
+| **[Leidos](https://www.leidos.com/)** | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da894607c157682e56acd0?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
+| ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da88f00b832179ca4ae244?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Louis, MO | On Site | Sep 29 |
 | ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da88e10b832179ca4ae206?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Louis, MO | On Site | Sep 29 |
-| **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Business Data Analyst II](https://jobright.ai/jobs/info/68cd0bfe1ad6b16f02893f94?utm_campaign=Data%20Analysis&utm_source=1103)** | Jackson, MO | On Site | Sep 29 |
+| ↳ | **[Apprentice Geospatial Analyst](https://jobright.ai/jobs/info/68da88e10b832179ca4ae203?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
