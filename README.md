@@ -137,8 +137,4 @@ For a complete list, click the following sortable link below:
 | **[Verisk](https://www.verisk.com)** | **[Research Analyst I (XW)](https://jobright.ai/jobs/info/68dad7370b832179ca4b1931?utm_campaign=Data%20Analysis&utm_source=1103)** | Lehi, UT, United States | Hybrid | Sep 29 |
 | **[Indiana University](https://www.iu.edu)** | **[Research Data Analyst](https://jobright.ai/jobs/info/68daef5d6df7b8311bb1439d?utm_campaign=Data%20Analysis&utm_source=1103)** | Bloomington, IN | Hybrid | Sep 29 |
 | **[University of Washington](http://www.washington.edu)** | **[Business Intelligence Analyst](https://jobright.ai/jobs/info/68dac68a07c157682e56d631?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle Campus | Hybrid | Sep 29 |
-| **[Leidos](https://www.leidos.com/)** | **[Journeyman Geospatial Analyst](https://jobright.ai/jobs/info/68daa9606df7b8311bb10c15?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Louis, MO | On Site | Sep 29 |
-| ↳ | **[Journeyman Geospatial Analyst](https://jobright.ai/jobs/info/68daa95b0b832179ca4af8a7?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
-| **[Northeastern University](https://www.northeastern.edu/cri/)** | **[Research Coordinator](https://jobright.ai/jobs/info/68daa8e90b832179ca4af7b6?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA (Main Campus) | On Site | Sep 29 |
-| **[Optiver](http://www.optiver.com)** | **[Graduate Quantitative Researcher, Bachelor’s or Master’s Degree (2026 Start)](https://jobright.ai/jobs/info/68daabd60b832179ca4af933?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
