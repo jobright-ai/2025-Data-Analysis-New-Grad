@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Spark Foundry](http://www.sparkfoundryww.com/)** | **[Analyst, SEM (Pharma Client)](https://jobright.ai/jobs/info/68ccb2b2128dc347fd9283f9?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Oct 05 |
+| **[AgReliant Genetics, LLC](http://www.agreliantgenetics.com)** | **[Foundation Data Specialist](https://jobright.ai/jobs/info/68ccfe825954791a1d70278c?utm_campaign=Data%20Analysis&utm_source=1103)** | Decatur, IL | On Site | Oct 05 |
 | **[Celonis](https://www.celonis.com)** | **[GCDT Analyst](https://jobright.ai/jobs/info/687017eca5ae807a59cf5a49?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Oct 05 |
 | **[Standard Motor Products](http://www.smpcorp.com/)** | **[Data Scientist](https://jobright.ai/jobs/info/688bcc903a30793eb963dba6?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Oct 04 |
 | **[NielsenIQ](https://nielseniq.com)** | **[Analyst](https://jobright.ai/jobs/info/68c4ab50fce86561b92882d2?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 04 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Children's National Hospital](http://childrensnational.org)** | **[Research Associate](https://jobright.ai/jobs/info/67fe10bbc6a7f1fb4f4cbb2d?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | On Site | Oct 04 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[EUC Risk Analyst](https://jobright.ai/jobs/info/68a76b3d33dd7158bbca6d22?utm_campaign=Data%20Analysis&utm_source=1103)** | Indianapolis, IN | Hybrid | Oct 04 |
 | **[Amazon](https://amazon.com)** | **[Data Scientist II - AMZ26521.1](https://jobright.ai/jobs/info/68ccc250a77e5d7d744f4f12?utm_campaign=Data%20Analysis&utm_source=1103)** | Sunnyvale, CA | On Site | Oct 03 |
-| **[University of California, San Francisco](http://www.ucsf.edu)** | **[Research Data Analyst](https://jobright.ai/jobs/info/68dadd236df7b8311bb1336c?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Oct 03 |
 | **[Citi](https://www.citi.com)** | **[Data Analyst 2 - Officer](https://jobright.ai/jobs/info/68d8ee45061b716fa2959b67?utm_campaign=Data%20Analysis&utm_source=1103)** | Tampa, FL | On Site | Oct 03 |
 | **[AIPAC](http://www.aipac.org)** | **[Research Analyst](https://jobright.ai/jobs/info/68a7b206758f2e4ac3fedbe1?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | Hybrid | Oct 03 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Full-Time Campus Hire](https://jobright.ai/jobs/info/68cb8abbefdec76df36be44e?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Oct 03 |
@@ -115,11 +115,4 @@ For a complete list, click the following sortable link below:
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Business Data Analyst II](https://jobright.ai/jobs/info/68cccef3a77e5d7d744f5c5e?utm_campaign=Data%20Analysis&utm_source=1103)** | Mechanicsburg, PA | On Site | Sep 30 |
 | **[Peraton](https://www.peraton.com/)** | **[Junior Data Analyst](https://jobright.ai/jobs/info/68db728fe19b9e63ba20c318?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
 | **[Audible](http://www.audible.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68db445a34f2c406da6d5d70?utm_campaign=Data%20Analysis&utm_source=1103)** | Newark, NJ | On Site | Sep 29 |
-| **[CGI](https://www.cgi.com)** | **[Junior Knowledge Analyst](https://jobright.ai/jobs/info/68db3b529f13662d20e48b96?utm_campaign=Data%20Analysis&utm_source=1103)** | Arlington, VA | Hybrid | Sep 29 |
-| **[Peraton](https://www.peraton.com/)** | **[Junior Data Analyst](https://jobright.ai/jobs/info/68db36c334f2c406da6d55ad?utm_campaign=Data%20Analysis&utm_source=1103)** | US-VA-Reston | On Site | Sep 29 |
-| **[Earthjustice](http://earthjustice.org/)** | **[Data Services Assistant](https://jobright.ai/jobs/info/68db2b220dffed6f83d2cf2e?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, California | Hybrid | Sep 29 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Data Analyst Associate - Early Career](https://jobright.ai/jobs/info/68db2ae1e9b48513789b23e1?utm_campaign=Data%20Analysis&utm_source=1103)** | Texas | Hybrid | Sep 29 |
-| ↳ | **[Data Analyst Associate - Early Career](https://jobright.ai/jobs/info/68db2acc0dffed6f83d2ce36?utm_campaign=Data%20Analysis&utm_source=1103)** | Possible | Hybrid | Sep 29 |
-| **[University of California, San Francisco](http://www.ucsf.edu)** | **[006256 RSCH DATA ANL 2](https://jobright.ai/jobs/info/68db294c6df7b8311bb165a7?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Sep 29 |
-| **[Earthjustice](http://earthjustice.org/)** | **[Data Services Assistant](https://jobright.ai/jobs/info/68db28e70dffed6f83d2cc50?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | Hybrid | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
