@@ -114,5 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Turn/River Capital](http://www.turnriver.com/)** | **[Data Scientist](https://jobright.ai/jobs/info/68cda7b9e23def7af55bd807?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | Hybrid | Sep 30 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Business Data Analyst II](https://jobright.ai/jobs/info/68cccef3a77e5d7d744f5c5e?utm_campaign=Data%20Analysis&utm_source=1103)** | Mechanicsburg, PA | On Site | Sep 30 |
 | **[Peraton](https://www.peraton.com/)** | **[Junior Data Analyst](https://jobright.ai/jobs/info/68db728fe19b9e63ba20c318?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | On Site | Sep 29 |
-| **[Audible](http://www.audible.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68db445a34f2c406da6d5d70?utm_campaign=Data%20Analysis&utm_source=1103)** | Newark, NJ | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
