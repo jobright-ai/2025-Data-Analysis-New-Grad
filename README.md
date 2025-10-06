@@ -122,5 +122,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analyst Associate - Early Career](https://jobright.ai/jobs/info/68db2acc0dffed6f83d2ce36?utm_campaign=Data%20Analysis&utm_source=1103)** | Possible | Hybrid | Sep 29 |
 | **[University of California, San Francisco](http://www.ucsf.edu)** | **[006256 RSCH DATA ANL 2](https://jobright.ai/jobs/info/68db294c6df7b8311bb165a7?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Sep 29 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Data Services Assistant](https://jobright.ai/jobs/info/68db28e70dffed6f83d2cc50?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | Hybrid | Sep 29 |
-| **[Texas Department of State Health Services](https://www.dshs.texas.gov/)** | **[Epidemiologist II](https://jobright.ai/jobs/info/68db1b680dffed6f83d2c8b4?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
