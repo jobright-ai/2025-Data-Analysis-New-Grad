@@ -136,5 +136,4 @@ For a complete list, click the following sortable link below:
 | **[ACLED](https://www.acleddata.com)** | **[Cameroon & Nigeria Researcher - REMOTE](https://jobright.ai/jobs/info/68dad7e00b832179ca4b1b3d?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Sep 29 |
 | **[Verisk](https://www.verisk.com)** | **[Research Analyst I (XW)](https://jobright.ai/jobs/info/68dad7370b832179ca4b1931?utm_campaign=Data%20Analysis&utm_source=1103)** | Lehi, UT, United States | Hybrid | Sep 29 |
 | **[Indiana University](https://www.iu.edu)** | **[Research Data Analyst](https://jobright.ai/jobs/info/68daef5d6df7b8311bb1439d?utm_campaign=Data%20Analysis&utm_source=1103)** | Bloomington, IN | Hybrid | Sep 29 |
-| **[University of Washington](http://www.washington.edu)** | **[Business Intelligence Analyst](https://jobright.ai/jobs/info/68dac68a07c157682e56d631?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle Campus | Hybrid | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
