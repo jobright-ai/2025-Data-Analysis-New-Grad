@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Geographic Information Systems](https://jobright.ai/jobs/info/68acf024d627244576e49fbb?utm_campaign=Data%20Analysis&utm_source=1103)** | Lakewood, CO | Hybrid | Oct 07 |
+| **[Northwestern University](https://www.northwestern.edu)** | **[Empirical Research Fellow, Research Support](https://jobright.ai/jobs/info/68ce6552dbd9fb154eddf190?utm_campaign=Data%20Analysis&utm_source=1103)** | Evanston, IL | On Site | Oct 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate (TikTok UG-Mid Platform) - 2026 Start (BS/MS）](https://jobright.ai/jobs/info/68cfdde0846f0b04af685953?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 07 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist, Mid](https://jobright.ai/jobs/info/68cf3f4efb49c96ca6ea6672?utm_campaign=Data%20Analysis&utm_source=1103)** | Annapolis Junction, MD | On Site | Oct 07 |
 | **[FiscalNote](http://www.fiscalnote.com)** | **[Junior Data Coordinator](https://jobright.ai/jobs/info/68cf3fa4fb49c96ca6ea66f9?utm_campaign=Data%20Analysis&utm_source=1103)** | Madison, WI | On Site | Oct 06 |
