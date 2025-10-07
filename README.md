@@ -104,5 +104,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Business Intel Engineer II - AMZ26844.1](https://jobright.ai/jobs/info/68bf733c5c5d5f14f46d6f32?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Sep 30 |
 | **[Sonesta International Hotels](http://www.sonesta.com)** | **[Analyst, Revenue Strategy (Remote)](https://jobright.ai/jobs/info/68d62b22ebcef82ef5cf70d3?utm_campaign=Data%20Analysis&utm_source=1103)** | Newton, MA | Remote | Sep 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist - TikTok Ads](https://jobright.ai/jobs/info/68bae0286105227d118a1082?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Sep 30 |
-| **[iSoftStone](https://www.isoftstoneinc.com)** | **[Data Analyst](https://jobright.ai/jobs/info/68cda5cc1ad6b16f0289ccc0?utm_campaign=Data%20Analysis&utm_source=1103)** | Menlo Park, CA | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
