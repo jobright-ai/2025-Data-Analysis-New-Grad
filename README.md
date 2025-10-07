@@ -106,7 +106,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist - TikTok Ads](https://jobright.ai/jobs/info/68bae0286105227d118a1082?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Sep 30 |
 | **[iSoftStone](https://www.isoftstoneinc.com)** | **[Data Analyst](https://jobright.ai/jobs/info/68cda5cc1ad6b16f0289ccc0?utm_campaign=Data%20Analysis&utm_source=1103)** | Menlo Park, CA | On Site | Sep 30 |
 | **[Federal Reserve Bank of St. Louis](http://www.stlouisfed.org)** | **[Research Associate](https://jobright.ai/jobs/info/68ce66eafb49c96ca6ea00ce?utm_campaign=Data%20Analysis&utm_source=1103)** | St Louis, MO | Hybrid | Sep 30 |
-| **[LSEG](http://www.lseg.com)** | **[Research Integration Specialist](https://jobright.ai/jobs/info/68cb66deba798c1a501cf31e?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Mill, SC | On Site | Sep 30 |
-| **[Dignity Health](https://www.dignityhealth.org)** | **[Research Scientist I](https://jobright.ai/jobs/info/68d7689461a175619f8cc125?utm_campaign=Data%20Analysis&utm_source=1103)** | Phoenix, AZ | On Site | Sep 30 |
-| **[Figma](https://www.figma.com)** | **[Early Career, Data Scientist (2026)](https://jobright.ai/jobs/info/68cfc34c846f0b04af684cec?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
