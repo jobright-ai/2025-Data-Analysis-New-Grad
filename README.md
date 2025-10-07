@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FiscalNote](http://www.fiscalnote.com)** | **[Junior Data Coordinator](https://jobright.ai/jobs/info/68cf3fa4fb49c96ca6ea66f9?utm_campaign=Data%20Analysis&utm_source=1103)** | Madison, WI | On Site | Oct 06 |
 | **[Point72](https://www.point72.com)** | **[Fundamental Researcher - Canvas](https://jobright.ai/jobs/info/68cd8223b2a74e1837ed7e70?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Oct 05 |
 | **[Spark Foundry](http://www.sparkfoundryww.com/)** | **[Analyst, SEM (Pharma Client)](https://jobright.ai/jobs/info/68ccb2b2128dc347fd9283f9?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Oct 05 |
 | **[AgReliant Genetics, LLC](http://www.agreliantgenetics.com)** | **[Foundation Data Specialist](https://jobright.ai/jobs/info/68ccfe825954791a1d70278c?utm_campaign=Data%20Analysis&utm_source=1103)** | Decatur, IL | On Site | Oct 05 |
@@ -108,7 +109,4 @@ For a complete list, click the following sortable link below:
 | **[LSEG](http://www.lseg.com)** | **[Research Integration Specialist](https://jobright.ai/jobs/info/68cb66deba798c1a501cf31e?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Mill, SC | On Site | Sep 30 |
 | **[Dignity Health](https://www.dignityhealth.org)** | **[Research Scientist I](https://jobright.ai/jobs/info/68d7689461a175619f8cc125?utm_campaign=Data%20Analysis&utm_source=1103)** | Phoenix, AZ | On Site | Sep 30 |
 | **[Figma](https://www.figma.com)** | **[Early Career, Data Scientist (2026)](https://jobright.ai/jobs/info/68cfc34c846f0b04af684cec?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 30 |
-| ↳ | **[Early Career, Data Scientist (2026)](https://jobright.ai/jobs/info/68cfe6f0846f0b04af685f6c?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Sep 30 |
-| **[BILL](http://www.bill.com)** | **[Associate Risk Data Scientist](https://jobright.ai/jobs/info/68ce5569dbd9fb154edde979?utm_campaign=Data%20Analysis&utm_source=1103)** | Draper, UT | On Site | Sep 30 |
-| **[Turn/River Capital](http://www.turnriver.com/)** | **[Data Scientist](https://jobright.ai/jobs/info/68cda7b9e23def7af55bd807?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | Hybrid | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
