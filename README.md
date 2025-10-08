@@ -103,5 +103,4 @@ For a complete list, click the following sortable link below:
 | **[Baptist Health](http://baptisthealth.net/)** | **[MCI Remote Certified Oncology Data Specialist 2, Tumor Registry, $6000 Bonus, FT, 8:00A - 4:30P](https://jobright.ai/jobs/info/6888d7f2aab47a17f66fd214?utm_campaign=Data%20Analysis&utm_source=1103)** | Miami, FL | Remote | Oct 01 |
 | **[Yale University](https://www.yale.edu)** | **[Research Associate 1](https://jobright.ai/jobs/info/68c17d014d652f0447757b72?utm_campaign=Data%20Analysis&utm_source=1103)** | New Haven, CT | On Site | Oct 01 |
 | **[OpenLoop](https://openloophealth.com)** | **[Data Analyst](https://jobright.ai/jobs/info/68ce1a3eb2a74e1837edf428?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Oct 01 |
-| **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Quantitative Modeling and Research Analyst II](https://jobright.ai/jobs/info/68c78835c96a22563ecf1bfd?utm_campaign=Data%20Analysis&utm_source=1103)** | Indianapolis, IN | Hybrid | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
