@@ -65,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Duolingo](https://www.duolingo.com)** | **[Data Scientist, New Graduate](https://jobright.ai/jobs/info/68ce445f24dd5209002f127a?utm_campaign=Data%20Analysis&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 07 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist, Mid](https://jobright.ai/jobs/info/68cd93241ad6b16f0289b8b5?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, MD | On Site | Oct 07 |
 | ↳ | **[Data Scientist, Mid](https://jobright.ai/jobs/info/68cf3f4efb49c96ca6ea6672?utm_campaign=Data%20Analysis&utm_source=1103)** | Annapolis Junction, MD | On Site | Oct 07 |
+| **[Ametros](http://www.ametrosfinancial.com)** | **[Analyst, Business Analysis](https://jobright.ai/jobs/info/68ce42631ad6b16f028a3791?utm_campaign=Data%20Analysis&utm_source=1103)** | Wilmington, MA | Hybrid | Oct 06 |
 | **[FiscalNote](http://www.fiscalnote.com)** | **[Junior Data Coordinator](https://jobright.ai/jobs/info/68cf3fa4fb49c96ca6ea66f9?utm_campaign=Data%20Analysis&utm_source=1103)** | Madison, WI | On Site | Oct 06 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[GIS Analyst I](https://jobright.ai/jobs/info/68cfc51adbd9fb154edead2d?utm_campaign=Data%20Analysis&utm_source=1103)** | Houston, TX | On Site | Oct 06 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Clinical Research Data Specialist I - Heart Institute](https://jobright.ai/jobs/info/68caef2bd905e25191d9da30?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Oct 05 |
@@ -103,5 +104,4 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68ce6beafb49c96ca6ea03ac?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, MD | On Site | Oct 02 |
 | **[Oak Street Health, part of CVS Health](http://www.oakstreethealth.com)** | **[Specialist,Clinical Informatics](https://jobright.ai/jobs/info/68c0bbfb5c5d5f14f46e0a4f?utm_campaign=Data%20Analysis&utm_source=1103)** | Metairie, LA | Hybrid | Oct 01 |
 | ↳ | **[Specialist,Clinical Informatics](https://jobright.ai/jobs/info/68a3621d37d3cc6b0d576657?utm_campaign=Data%20Analysis&utm_source=1103)** | Memphis, TN | Hybrid | Oct 01 |
-| **[Oceaneering](http://www.oceaneering.com/)** | **[Data Management Analyst](https://jobright.ai/jobs/info/68ca21fbf16e3266d2822ec5?utm_campaign=Data%20Analysis&utm_source=1103)** | Hanover, MD | Hybrid | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
