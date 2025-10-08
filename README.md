@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rippling](https://www.rippling.com)** | **[Fraud Risk Data Scientist](https://jobright.ai/jobs/info/68cf6398fb49c96ca6ea8277?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Oct 08 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Data Assistant Associate](https://jobright.ai/jobs/info/68ccd88477add66568aba4a6?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Oct 08 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Geographic Information Systems](https://jobright.ai/jobs/info/68acf024d627244576e49fbb?utm_campaign=Data%20Analysis&utm_source=1103)** | Lakewood, CO | Hybrid | Oct 07 |
+| **[Oppenheimer & Co. Inc.](https://oppenheimer.com)** | **[Research Associate - Digital Infrastructure; Satellite and Communications](https://jobright.ai/jobs/info/68cd31cce23def7af55b6a69?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Oct 07 |
 | **[Fabletics](https://www.fabletics.com/)** | **[Data Analyst II](https://jobright.ai/jobs/info/68cc325a16d00d2beeb1b700?utm_campaign=Data%20Analysis&utm_source=1103)** | El Segundo, CA | Hybrid | Oct 07 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Empirical Research Fellow, Research Support](https://jobright.ai/jobs/info/68ce6552dbd9fb154eddf190?utm_campaign=Data%20Analysis&utm_source=1103)** | Evanston, IL | On Site | Oct 07 |
 | **[HealthStream](http://www.healthstream.com)** | **[Business Intelligence Analyst](https://jobright.ai/jobs/info/68d007d0fb49c96ca6ead80d?utm_campaign=Data%20Analysis&utm_source=1103)** | Nashville, TN | Hybrid | Oct 07 |
@@ -78,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Standard Motor Products](http://www.smpcorp.com/)** | **[Data Scientist](https://jobright.ai/jobs/info/688bcc903a30793eb963dba6?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Oct 04 |
 | **[Children's Hospital Los Angeles (CHLA)](http://www.chla.org/)** | **[Associate Research Specialist / Full time / Days](https://jobright.ai/jobs/info/68ce6afadbd9fb154eddf59b?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Oct 04 |
 | **[SpaceX](https://www.spacex.com)** | **[Data Scientist (Starlink)](https://jobright.ai/jobs/info/68cea0f1846f0b04af67bb00?utm_campaign=Data%20Analysis&utm_source=1103)** | Redmond, WA | On Site | Oct 04 |
+| **[The Henry M. Jackson Foundation for the Advancement of Military Medicine](https://www.hjf.org/)** | **[Bioinformatics Analyst III (Computational Biology)](https://jobright.ai/jobs/info/68cd77fbe23def7af55ba1bc?utm_campaign=Data%20Analysis&utm_source=1103)** | Silver Spring, MD | On Site | Oct 04 |
 | **[Point72](https://www.point72.com)** | **[Data Scientist, Proprietary Research](https://jobright.ai/jobs/info/68cf5589dbd9fb154ede7139?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Oct 04 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Research Data Analyst Associate, Rheumatology](https://jobright.ai/jobs/info/68cd4a24b2a74e1837ed4ef1?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Oct 04 |
 | **[Children's National Hospital](http://childrensnational.org)** | **[Research Associate](https://jobright.ai/jobs/info/67fe10bbc6a7f1fb4f4cbb2d?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | On Site | Oct 04 |
@@ -105,5 +108,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist Graduate (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cd9c13e23def7af55bc99a?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Oct 02 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68ce6beafb49c96ca6ea03ac?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, MD | On Site | Oct 02 |
 | **[Oak Street Health, part of CVS Health](http://www.oakstreethealth.com)** | **[Specialist,Clinical Informatics](https://jobright.ai/jobs/info/68c0bbfb5c5d5f14f46e0a4f?utm_campaign=Data%20Analysis&utm_source=1103)** | Metairie, LA | Hybrid | Oct 01 |
-| ↳ | **[Specialist,Clinical Informatics](https://jobright.ai/jobs/info/68a3621d37d3cc6b0d576657?utm_campaign=Data%20Analysis&utm_source=1103)** | Memphis, TN | Hybrid | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
