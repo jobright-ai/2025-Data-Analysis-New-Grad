@@ -58,7 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Geographic Information Systems](https://jobright.ai/jobs/info/68acf024d627244576e49fbb?utm_campaign=Data%20Analysis&utm_source=1103)** | Lakewood, CO | Hybrid | Oct 07 |
+| **[Fabletics](https://www.fabletics.com/)** | **[Data Analyst II](https://jobright.ai/jobs/info/68cc325a16d00d2beeb1b700?utm_campaign=Data%20Analysis&utm_source=1103)** | El Segundo, CA | Hybrid | Oct 07 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Empirical Research Fellow, Research Support](https://jobright.ai/jobs/info/68ce6552dbd9fb154eddf190?utm_campaign=Data%20Analysis&utm_source=1103)** | Evanston, IL | On Site | Oct 07 |
+| **[HealthStream](http://www.healthstream.com)** | **[Business Intelligence Analyst](https://jobright.ai/jobs/info/68d007d0fb49c96ca6ead80d?utm_campaign=Data%20Analysis&utm_source=1103)** | Nashville, TN | Hybrid | Oct 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate (TikTok UG-Mid Platform) - 2026 Start (BS/MS）](https://jobright.ai/jobs/info/68cfdde0846f0b04af685953?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 07 |
 | **[Duolingo](https://www.duolingo.com)** | **[Data Scientist, New Graduate](https://jobright.ai/jobs/info/68ce445f24dd5209002f127a?utm_campaign=Data%20Analysis&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 07 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist, Mid](https://jobright.ai/jobs/info/68cd93241ad6b16f0289b8b5?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, MD | On Site | Oct 07 |
@@ -103,6 +105,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Specialist,Clinical Informatics](https://jobright.ai/jobs/info/68a3621d37d3cc6b0d576657?utm_campaign=Data%20Analysis&utm_source=1103)** | Memphis, TN | Hybrid | Oct 01 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[Data Management Analyst](https://jobright.ai/jobs/info/68ca21fbf16e3266d2822ec5?utm_campaign=Data%20Analysis&utm_source=1103)** | Hanover, MD | Hybrid | Oct 01 |
 | **[Baptist Health](http://baptisthealth.net/)** | **[MCI Remote Certified Oncology Data Specialist 2, Tumor Registry, $6000 Bonus, FT, 8:00A - 4:30P](https://jobright.ai/jobs/info/6888d7f2aab47a17f66fd214?utm_campaign=Data%20Analysis&utm_source=1103)** | Miami, FL | Remote | Oct 01 |
-| **[Yale University](https://www.yale.edu)** | **[Research Associate 1](https://jobright.ai/jobs/info/68c17d014d652f0447757b72?utm_campaign=Data%20Analysis&utm_source=1103)** | New Haven, CT | On Site | Oct 01 |
-| **[OpenLoop](https://openloophealth.com)** | **[Data Analyst](https://jobright.ai/jobs/info/68ce1a3eb2a74e1837edf428?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
