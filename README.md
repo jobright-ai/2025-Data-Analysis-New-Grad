@@ -108,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate (TikTok-Search)-2026 Start (BS/MS)](https://jobright.ai/jobs/info/68ce66bcfb49c96ca6ea0082?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 02 |
 | ↳ | **[Data Scientist Graduate (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cd9c13e23def7af55bc99a?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Oct 02 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68ce6beafb49c96ca6ea03ac?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, MD | On Site | Oct 02 |
-| **[Oak Street Health, part of CVS Health](http://www.oakstreethealth.com)** | **[Specialist,Clinical Informatics](https://jobright.ai/jobs/info/68c0bbfb5c5d5f14f46e0a4f?utm_campaign=Data%20Analysis&utm_source=1103)** | Metairie, LA | Hybrid | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
