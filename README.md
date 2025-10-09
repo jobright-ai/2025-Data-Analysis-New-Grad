@@ -101,7 +101,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 University Graduate - Data Scientist](https://jobright.ai/jobs/info/68cffbbd846f0b04af686b26?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate [TikTok LIVE-Data Science] - 2026 Start (PhD)](https://jobright.ai/jobs/info/68ce2172e23def7af55c2771?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
 | **[CNA Corporation](https://www.cna.org)** | **[Research Specialist (Geospatial/Stats Focus)](https://jobright.ai/jobs/info/68cce60ed11b445e0bee3e3c?utm_campaign=Data%20Analysis&utm_source=1103)** | Houston, TX | Hybrid | Oct 02 |
-| **[Novartis](https://www.novartis.com)** | **[Data Science Innovation Postdoc](https://jobright.ai/jobs/info/68d612db2116ff37ee0925d5?utm_campaign=Data%20Analysis&utm_source=1103)** | Cambridge, MA | On Site | Oct 02 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate (TikTok-Product-Data Science)-2026 Start (PhD)](https://jobright.ai/jobs/info/68c78d72db52c07d2884be84?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 02 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68a6075fb6a3617d7fa74ac7?utm_campaign=Data%20Analysis&utm_source=1103)** | Annapolis Junction, MD | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
