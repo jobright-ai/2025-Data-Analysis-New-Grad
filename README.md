@@ -59,8 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Q-Centrix](https://www.q-centrix.com/)** | **[GWTG Stroke Data Abstractor: Full-Time](https://jobright.ai/jobs/info/68ad0c41d627244576e4ade1?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Oct 08 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Geographic Information Systems](https://jobright.ai/jobs/info/68ad0b4edaf1431824c9a0d9?utm_campaign=Data%20Analysis&utm_source=1103)** | Lakewood, CO | On Site | Oct 08 |
-| **[Rippling](https://www.rippling.com)** | **[Fraud Risk Data Scientist](https://jobright.ai/jobs/info/68cf6398fb49c96ca6ea8277?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Oct 08 |
-| ↳ | **[Fraud Risk Data Scientist](https://jobright.ai/jobs/info/68ce808fdbd9fb154ede0344?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Oct 08 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Data Assistant Associate](https://jobright.ai/jobs/info/68ccd88477add66568aba4a6?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Oct 08 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Geographic Information Systems](https://jobright.ai/jobs/info/68acf024d627244576e49fbb?utm_campaign=Data%20Analysis&utm_source=1103)** | Lakewood, CO | Hybrid | Oct 07 |
 | **[Oppenheimer & Co. Inc.](https://oppenheimer.com)** | **[Research Associate - Digital Infrastructure; Satellite and Communications](https://jobright.ai/jobs/info/68cd31cce23def7af55b6a69?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Oct 07 |
@@ -106,7 +104,4 @@ For a complete list, click the following sortable link below:
 | **[Novartis](https://www.novartis.com)** | **[Data Science Innovation Postdoc](https://jobright.ai/jobs/info/68d612db2116ff37ee0925d5?utm_campaign=Data%20Analysis&utm_source=1103)** | Cambridge, MA | On Site | Oct 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate (TikTok-Product-Data Science)-2026 Start (PhD)](https://jobright.ai/jobs/info/68c78d72db52c07d2884be84?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 02 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68a6075fb6a3617d7fa74ac7?utm_campaign=Data%20Analysis&utm_source=1103)** | Annapolis Junction, MD | On Site | Oct 02 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate (TikTok-Search)-2026 Start (BS/MS)](https://jobright.ai/jobs/info/68ce66bcfb49c96ca6ea0082?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 02 |
-| ↳ | **[Data Scientist Graduate (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cd9c13e23def7af55bc99a?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Oct 02 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68ce6beafb49c96ca6ea03ac?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, MD | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
