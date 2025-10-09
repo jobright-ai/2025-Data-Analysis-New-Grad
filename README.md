@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vincent Valuations LLC](https://www.vincentvaluations.com/)** | **[Data Collector](https://jobright.ai/jobs/info/68d979a7061b716fa295a5d0?utm_campaign=Data%20Analysis&utm_source=1103)** | Alamance County, NC | On Site | Oct 08 |
 | **[Q-Centrix](https://www.q-centrix.com/)** | **[GWTG Stroke Data Abstractor: Full-Time](https://jobright.ai/jobs/info/68ad0c41d627244576e4ade1?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Oct 08 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Geographic Information Systems](https://jobright.ai/jobs/info/68ad0b4edaf1431824c9a0d9?utm_campaign=Data%20Analysis&utm_source=1103)** | Lakewood, CO | On Site | Oct 08 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Data Assistant Associate](https://jobright.ai/jobs/info/68ccd88477add66568aba4a6?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Oct 08 |
+| **[Hearts & Science](http://www.hearts-science.com)** | **[Senior Analyst, Data Science](https://jobright.ai/jobs/info/68cd7ab2b2a74e1837ed794c?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Oct 08 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Geographic Information Systems](https://jobright.ai/jobs/info/68acf024d627244576e49fbb?utm_campaign=Data%20Analysis&utm_source=1103)** | Lakewood, CO | Hybrid | Oct 07 |
 | **[Oppenheimer & Co. Inc.](https://oppenheimer.com)** | **[Research Associate - Digital Infrastructure; Satellite and Communications](https://jobright.ai/jobs/info/68cd31cce23def7af55b6a69?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Oct 07 |
 | **[Fabletics](https://www.fabletics.com/)** | **[Data Analyst II](https://jobright.ai/jobs/info/68cc325a16d00d2beeb1b700?utm_campaign=Data%20Analysis&utm_source=1103)** | El Segundo, CA | Hybrid | Oct 07 |
@@ -100,5 +102,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 University Graduate - Data Scientist](https://jobright.ai/jobs/info/68ce10851ad6b16f028a1890?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
 | ↳ | **[2026 University Graduate - Data Scientist](https://jobright.ai/jobs/info/68cffbbd846f0b04af686b26?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate [TikTok LIVE-Data Science] - 2026 Start (PhD)](https://jobright.ai/jobs/info/68ce2172e23def7af55c2771?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
-| **[CNA Corporation](https://www.cna.org)** | **[Research Specialist (Geospatial/Stats Focus)](https://jobright.ai/jobs/info/68cce60ed11b445e0bee3e3c?utm_campaign=Data%20Analysis&utm_source=1103)** | Houston, TX | Hybrid | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
