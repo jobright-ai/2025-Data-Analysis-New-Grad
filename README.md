@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Axtria - Ingenious Insights](http://axtria.com)** | **[Campus 2026: Decision Science (DS) Analyst/Associate](https://jobright.ai/jobs/info/68cb28baefdec76df36b98f6?utm_campaign=Data%20Analysis&utm_source=1103)** | Berkeley Heights, NJ | On Site | Oct 09 |
 | **[Vincent Valuations LLC](https://www.vincentvaluations.com/)** | **[Data Collector](https://jobright.ai/jobs/info/68d979a7061b716fa295a5d0?utm_campaign=Data%20Analysis&utm_source=1103)** | Alamance County, NC | On Site | Oct 08 |
 | **[Q-Centrix](https://www.q-centrix.com/)** | **[GWTG Stroke Data Abstractor: Full-Time](https://jobright.ai/jobs/info/68ad0c41d627244576e4ade1?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Oct 08 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Geographic Information Systems](https://jobright.ai/jobs/info/68ad0b4edaf1431824c9a0d9?utm_campaign=Data%20Analysis&utm_source=1103)** | Lakewood, CO | On Site | Oct 08 |
@@ -82,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Celonis](https://www.celonis.com)** | **[GCDT Analyst](https://jobright.ai/jobs/info/687017eca5ae807a59cf5a49?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Oct 05 |
 | **[Standard Motor Products](http://www.smpcorp.com/)** | **[Data Scientist](https://jobright.ai/jobs/info/688bcc903a30793eb963dba6?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Oct 04 |
 | **[SpaceX](https://www.spacex.com)** | **[Data Scientist (Starlink)](https://jobright.ai/jobs/info/68cea0f1846f0b04af67bb00?utm_campaign=Data%20Analysis&utm_source=1103)** | Redmond, WA | On Site | Oct 04 |
+| **[Garner Health](https://www.getgarner.com/)** | **[Data Scientist](https://jobright.ai/jobs/info/68d149bacece431f8b582750?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Oct 04 |
 | **[The Henry M. Jackson Foundation for the Advancement of Military Medicine](https://www.hjf.org/)** | **[Bioinformatics Analyst III (Computational Biology)](https://jobright.ai/jobs/info/68cd77fbe23def7af55ba1bc?utm_campaign=Data%20Analysis&utm_source=1103)** | Silver Spring, MD | On Site | Oct 04 |
 | **[Point72](https://www.point72.com)** | **[Data Scientist, Proprietary Research](https://jobright.ai/jobs/info/68cf5589dbd9fb154ede7139?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Oct 04 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Research Data Analyst Associate, Rheumatology](https://jobright.ai/jobs/info/68cd4a24b2a74e1837ed4ef1?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Oct 04 |
