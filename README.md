@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BIP](https://www.bip-group.com)** | **[Quantitative Developer, Capital Markets](https://jobright.ai/jobs/info/68cc5229128dc347fd9228f0?utm_campaign=Data%20Analysis&utm_source=1103)** | NYC Metro Area | Hybrid | Oct 09 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[Senior Business Solutions and Data Analyst](https://jobright.ai/jobs/info/68ca2179f16e3266d2822d74?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Hybrid | Oct 09 |
+| **[LendingClub](https://www.lendingclub.com)** | **[Risk Decisioning System Analyst](https://jobright.ai/jobs/info/68cda940b2a74e1837eda996?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | Hybrid | Oct 09 |
 | **[Axtria - Ingenious Insights](http://axtria.com)** | **[Campus 2026: Decision Science (DS) Analyst/Associate](https://jobright.ai/jobs/info/68cb28baefdec76df36b98f6?utm_campaign=Data%20Analysis&utm_source=1103)** | Berkeley Heights, NJ | On Site | Oct 09 |
 | **[Vincent Valuations LLC](https://www.vincentvaluations.com/)** | **[Data Collector](https://jobright.ai/jobs/info/68d979a7061b716fa295a5d0?utm_campaign=Data%20Analysis&utm_source=1103)** | Alamance County, NC | On Site | Oct 08 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Data Assistant Associate](https://jobright.ai/jobs/info/68ccd88477add66568aba4a6?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Oct 08 |
