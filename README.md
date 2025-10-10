@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Clinical Research Data Specialist I - PER_DIEM -Heart Institute](https://jobright.ai/jobs/info/689ad108faa4e875e825c85c?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Oct 10 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Data and Business Analyst](https://jobright.ai/jobs/info/68cea5c8846f0b04af67be75?utm_campaign=Data%20Analysis&utm_source=1103)** | Del Mar, CA | Hybrid | Oct 09 |
 | **[BIP](https://www.bip-group.com)** | **[Quantitative Developer, Capital Markets](https://jobright.ai/jobs/info/68cc5229128dc347fd9228f0?utm_campaign=Data%20Analysis&utm_source=1103)** | NYC Metro Area | Hybrid | Oct 09 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[Senior Business Solutions and Data Analyst](https://jobright.ai/jobs/info/68ca2179f16e3266d2822d74?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Hybrid | Oct 09 |
