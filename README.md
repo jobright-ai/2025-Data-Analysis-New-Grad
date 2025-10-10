@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Data and Business Analyst](https://jobright.ai/jobs/info/68cea5c8846f0b04af67be75?utm_campaign=Data%20Analysis&utm_source=1103)** | Del Mar, CA | Hybrid | Oct 09 |
 | **[BIP](https://www.bip-group.com)** | **[Quantitative Developer, Capital Markets](https://jobright.ai/jobs/info/68cc5229128dc347fd9228f0?utm_campaign=Data%20Analysis&utm_source=1103)** | NYC Metro Area | Hybrid | Oct 09 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[Senior Business Solutions and Data Analyst](https://jobright.ai/jobs/info/68ca2179f16e3266d2822d74?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Hybrid | Oct 09 |
 | **[LendingClub](https://www.lendingclub.com)** | **[Risk Decisioning System Analyst](https://jobright.ai/jobs/info/68cda940b2a74e1837eda996?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | Hybrid | Oct 09 |
@@ -82,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Spark Foundry](http://www.sparkfoundryww.com/)** | **[Analyst, SEM (Pharma Client)](https://jobright.ai/jobs/info/68ccb2b2128dc347fd9283f9?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Oct 05 |
 | **[AgReliant Genetics, LLC](http://www.agreliantgenetics.com)** | **[Foundation Data Specialist](https://jobright.ai/jobs/info/68ccfe825954791a1d70278c?utm_campaign=Data%20Analysis&utm_source=1103)** | Decatur, IL | On Site | Oct 05 |
 | **[Celonis](https://www.celonis.com)** | **[GCDT Analyst](https://jobright.ai/jobs/info/687017eca5ae807a59cf5a49?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Oct 05 |
+| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Clinical Research Associate I (Bilingual English/Spanish) – Hybrid, Torres Lab](https://jobright.ai/jobs/info/68c423f8e471ef3ce16d3f5d?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 04 |
 | **[Standard Motor Products](http://www.smpcorp.com/)** | **[Data Scientist](https://jobright.ai/jobs/info/688bcc903a30793eb963dba6?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Oct 04 |
 | **[SpaceX](https://www.spacex.com)** | **[Data Scientist (Starlink)](https://jobright.ai/jobs/info/68cea0f1846f0b04af67bb00?utm_campaign=Data%20Analysis&utm_source=1103)** | Redmond, WA | On Site | Oct 04 |
 | **[Garner Health](https://www.getgarner.com/)** | **[Data Scientist](https://jobright.ai/jobs/info/68d149bacece431f8b582750?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Oct 04 |
@@ -94,5 +96,4 @@ For a complete list, click the following sortable link below:
 | **[AIPAC](http://www.aipac.org)** | **[Research Analyst](https://jobright.ai/jobs/info/68a7b206758f2e4ac3fedbe1?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | Hybrid | Oct 03 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Full-Time Campus Hire](https://jobright.ai/jobs/info/68cb8abbefdec76df36be44e?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Oct 03 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader (2026)](https://jobright.ai/jobs/info/68ce01b1b2a74e1837ede5a1?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Oct 03 |
-| **[ID.me](https://www.ID.me)** | **[Data Scientist - Wallet Authorization and Profiles](https://jobright.ai/jobs/info/67ddeab9cc36765933922cca?utm_campaign=Data%20Analysis&utm_source=1103)** | Mountain View, CA | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
