@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Clinical Research Data Specialist I - PER_DIEM -Heart Institute](https://jobright.ai/jobs/info/689ad108faa4e875e825c85c?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Oct 10 |
 | **[Brown Advisory](http://www.brownadvisory.com)** | **[Business Intelligence Analyst](https://jobright.ai/jobs/info/68cc644a16d00d2beeb1edb0?utm_campaign=Data%20Analysis&utm_source=1103)** | Baltimore, MD | On Site | Oct 10 |
+| **[Scholastic](http://www.scholastic.com)** | **[Associate, Data Products](https://jobright.ai/jobs/info/68ccf5edd11b445e0bee4f7d?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Oct 10 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Trading, Data Analyst I](https://jobright.ai/jobs/info/68ccf6ff5954791a1d701de0?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, CO | On Site | Oct 10 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Data and Business Analyst](https://jobright.ai/jobs/info/68cea5c8846f0b04af67be75?utm_campaign=Data%20Analysis&utm_source=1103)** | Del Mar, CA | Hybrid | Oct 09 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Clinical Research Associate I - MIRIAD IBD Biobank & Database](https://jobright.ai/jobs/info/68ccb78116d00d2beeb234a8?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Oct 09 |
