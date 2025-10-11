@@ -91,5 +91,4 @@ For a complete list, click the following sortable link below:
 | **[Spark Foundry](http://www.sparkfoundryww.com/)** | **[Analyst, SEM (Pharma Client)](https://jobright.ai/jobs/info/68ccb2b2128dc347fd9283f9?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Oct 05 |
 | **[AgReliant Genetics, LLC](http://www.agreliantgenetics.com)** | **[Foundation Data Specialist](https://jobright.ai/jobs/info/68ccfe825954791a1d70278c?utm_campaign=Data%20Analysis&utm_source=1103)** | Decatur, IL | On Site | Oct 05 |
 | **[Celonis](https://www.celonis.com)** | **[GCDT Analyst](https://jobright.ai/jobs/info/687017eca5ae807a59cf5a49?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Oct 05 |
-| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Clinical Research Associate I (Bilingual English/Spanish) – Hybrid, Torres Lab](https://jobright.ai/jobs/info/68c423f8e471ef3ce16d3f5d?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
