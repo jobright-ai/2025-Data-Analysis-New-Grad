@@ -94,6 +94,4 @@ For a complete list, click the following sortable link below:
 | **[SpaceX](https://www.spacex.com)** | **[Data Scientist (Starlink)](https://jobright.ai/jobs/info/68cea0f1846f0b04af67bb00?utm_campaign=Data%20Analysis&utm_source=1103)** | Redmond, WA | On Site | Oct 04 |
 | **[Garner Health](https://www.getgarner.com/)** | **[Data Scientist](https://jobright.ai/jobs/info/68d149bacece431f8b582750?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Oct 04 |
 | **[The Henry M. Jackson Foundation for the Advancement of Military Medicine](https://www.hjf.org/)** | **[Bioinformatics Analyst III (Computational Biology)](https://jobright.ai/jobs/info/68cd77fbe23def7af55ba1bc?utm_campaign=Data%20Analysis&utm_source=1103)** | Silver Spring, MD | On Site | Oct 04 |
-| **[Point72](https://www.point72.com)** | **[Data Scientist, Proprietary Research](https://jobright.ai/jobs/info/68cf5589dbd9fb154ede7139?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Oct 04 |
-| **[Northwestern University](https://www.northwestern.edu)** | **[Research Data Analyst Associate, Rheumatology](https://jobright.ai/jobs/info/68cd4a24b2a74e1837ed4ef1?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
