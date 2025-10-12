@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[Data Scientist Graduate (E-Commerce Governance)-2026 Start (BS/MS)](https://jobright.ai/jobs/info/68ceaf6bdbd9fb154ede228d?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 12 |
+| **[InMarket](http://www.inmarket.com)** | **[Data Insights Analyst](https://jobright.ai/jobs/info/68cc09d816d00d2beeb189fe?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Oct 12 |
+| **[Huron](http://www.huronconsultinggroup.com)** | **[Innosight Analyst 2025 - Q3/Q4 Start Dates](https://jobright.ai/jobs/info/68dad1c507c157682e56de27?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, AR | On Site | Oct 12 |
 | **[Q-Centrix](https://www.q-centrix.com/)** | **[Trauma Clinical Data Specialist (Beginner Registrars)](https://jobright.ai/jobs/info/68cdbaefb2a74e1837edbbf3?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Hybrid | Oct 11 |
 | **[Starcom](http://www.starcomww.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68cd9dcbe23def7af55bccfc?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Oct 11 |
 | **[MetroStar](http://www.metrostarsystems.com)** | **[Associate Data Scientist (5682)](https://jobright.ai/jobs/info/67aba1b2f5eb47cd281b45a3?utm_campaign=Data%20Analysis&utm_source=1103)** | Quantico, VA | Hybrid | Oct 11 |
@@ -64,6 +67,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research Associate](https://jobright.ai/jobs/info/68cba975efdec76df36c099e?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Oct 11 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Data Scientist](https://jobright.ai/jobs/info/686389ff5017de06f85901e6?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Oct 11 |
 | **[Whatnot](https://www.whatnot.com)** | **[Research Associate](https://jobright.ai/jobs/info/689524714ed2ea559ca53bcb?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Oct 11 |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Variance and Data Administrator](https://jobright.ai/jobs/info/68770f515cebcd1dd51ced16?utm_campaign=Data%20Analysis&utm_source=1103)** | Sterling Heights, MI | On Site | Oct 11 |
+| **[Faegre Drinker](https://www.faegredrinker.com/)** | **[Conflicts Analyst](https://jobright.ai/jobs/info/68b0d3672d46f6396cae8d8f?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, CO | Hybrid | Oct 11 |
 | **[Red Hat](http://www.redhat.com)** | **[Data Analyst](https://jobright.ai/jobs/info/68cc156a7342c7623ae5ea0c?utm_campaign=Data%20Analysis&utm_source=1103)** | Raleigh, NC | On Site | Oct 11 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Data Lab Technologist Energy](https://jobright.ai/jobs/info/68ae6d2e758f2e4ac30136aa?utm_campaign=Data%20Analysis&utm_source=1103)** | Richland, WA | On Site | Oct 10 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Analytics Engineer](https://jobright.ai/jobs/info/68cfb2eedbd9fb154edea42b?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Oct 10 |
