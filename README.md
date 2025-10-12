@@ -71,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Faegre Drinker](https://www.faegredrinker.com/)** | **[Conflicts Analyst](https://jobright.ai/jobs/info/68b0d3672d46f6396cae8d8f?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, CO | Hybrid | Oct 11 |
 | **[Red Hat](http://www.redhat.com)** | **[Data Analyst](https://jobright.ai/jobs/info/68cc156a7342c7623ae5ea0c?utm_campaign=Data%20Analysis&utm_source=1103)** | Raleigh, NC | On Site | Oct 11 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Data Lab Technologist Energy](https://jobright.ai/jobs/info/68ae6d2e758f2e4ac30136aa?utm_campaign=Data%20Analysis&utm_source=1103)** | Richland, WA | On Site | Oct 10 |
+| **[Hospital for Special Surgery](https://www.hss.edu)** | **[Analyst II Bioinformatics](https://jobright.ai/jobs/info/68d5bdf41f7fb2169ab136ba?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Oct 10 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Analytics Engineer](https://jobright.ai/jobs/info/68cfb2eedbd9fb154edea42b?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Oct 10 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Data Scientist](https://jobright.ai/jobs/info/68cc4a1c16d00d2beeb1d102?utm_campaign=Data%20Analysis&utm_source=1103)** | Cincinnati, OH | On Site | Oct 10 |
 | **[Old Mission](http://oldmissioncapital.com)** | **[Junior Quantitative Researcher (Ph.D.)](https://jobright.ai/jobs/info/68cbf2a116d00d2beeb174d5?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Oct 10 |
@@ -103,5 +104,4 @@ For a complete list, click the following sortable link below:
 | **[FiscalNote](http://www.fiscalnote.com)** | **[Junior Data Coordinator](https://jobright.ai/jobs/info/68cf3fa4fb49c96ca6ea66f9?utm_campaign=Data%20Analysis&utm_source=1103)** | Madison, WI | On Site | Oct 06 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[GIS Analyst I](https://jobright.ai/jobs/info/68cfc51adbd9fb154edead2d?utm_campaign=Data%20Analysis&utm_source=1103)** | Houston, TX | On Site | Oct 06 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Clinical Research Data Specialist I - Heart Institute](https://jobright.ai/jobs/info/68caef2bd905e25191d9da30?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Oct 05 |
-| **[Point72](https://www.point72.com)** | **[Fundamental Researcher - Canvas](https://jobright.ai/jobs/info/68cd8223b2a74e1837ed7e70?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
