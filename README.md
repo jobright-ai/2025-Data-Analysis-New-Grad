@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Researcher – Master's: 2026](https://jobright.ai/jobs/info/68cd7962e23def7af55ba503?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Oct 13 |
 | **[GRAYCE](https://grayce.co.uk/)** | **[Graduate Analyst](https://jobright.ai/jobs/info/68cd1142b2a74e1837ed1b09?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Oct 13 |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Researcher – PhD: 2026](https://jobright.ai/jobs/info/68ce177ae23def7af55c1f41?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Oct 13 |
 | **[ByteDance](http://bytedance.com)** | **[Data Scientist Graduate (E-Commerce Governance)-2026 Start (BS/MS)](https://jobright.ai/jobs/info/68ceaf6bdbd9fb154ede228d?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 12 |
 | **[InMarket](http://www.inmarket.com)** | **[Data Insights Analyst](https://jobright.ai/jobs/info/68cc09d816d00d2beeb189fe?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Oct 12 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Innosight Analyst 2025 - Q3/Q4 Start Dates](https://jobright.ai/jobs/info/68dad1c507c157682e56de27?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, AR | On Site | Oct 12 |
