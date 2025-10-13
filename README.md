@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GRAYCE](https://grayce.co.uk/)** | **[Graduate Analyst](https://jobright.ai/jobs/info/68cd1142b2a74e1837ed1b09?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Oct 13 |
 | **[ByteDance](http://bytedance.com)** | **[Data Scientist Graduate (E-Commerce Governance)-2026 Start (BS/MS)](https://jobright.ai/jobs/info/68ceaf6bdbd9fb154ede228d?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 12 |
 | **[InMarket](http://www.inmarket.com)** | **[Data Insights Analyst](https://jobright.ai/jobs/info/68cc09d816d00d2beeb189fe?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Oct 12 |
 | **[Huron](http://www.huronconsultinggroup.com)** | **[Innosight Analyst 2025 - Q3/Q4 Start Dates](https://jobright.ai/jobs/info/68dad1c507c157682e56de27?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, AR | On Site | Oct 12 |
@@ -92,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Axtria - Ingenious Insights](http://axtria.com)** | **[Campus 2026: Decision Science (DS) Analyst/Associate](https://jobright.ai/jobs/info/68cb28baefdec76df36b98f6?utm_campaign=Data%20Analysis&utm_source=1103)** | Berkeley Heights, NJ | On Site | Oct 09 |
 | **[Vincent Valuations LLC](https://www.vincentvaluations.com/)** | **[Data Collector](https://jobright.ai/jobs/info/68d979a7061b716fa295a5d0?utm_campaign=Data%20Analysis&utm_source=1103)** | Alamance County, NC | On Site | Oct 08 |
 | **[Gravity Research](https://www.gravityresearch.com)** | **[Social Impact and Reputational Risk Analyst](https://jobright.ai/jobs/info/68ae09d2d627244576e50ef7?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | Hybrid | Oct 08 |
+| **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Data Steward](https://jobright.ai/jobs/info/68cd0477e5ac5c0dc6d2669b?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Oct 08 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Data Assistant Associate](https://jobright.ai/jobs/info/68ccd88477add66568aba4a6?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Oct 08 |
 | **[Hearts & Science](http://www.hearts-science.com)** | **[Senior Analyst, Data Science](https://jobright.ai/jobs/info/68cd7ab2b2a74e1837ed794c?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Oct 08 |
 | **[Applecart](http://applecart.co/)** | **[Research Specialist](https://jobright.ai/jobs/info/68cd08b4b2a74e1837ed0cc8?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Oct 07 |
