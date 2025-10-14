@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Business Data Analyst](https://jobright.ai/jobs/info/6880cac529ad6b2744adc0bb?utm_campaign=Data%20Analysis&utm_source=1103)** | Harrisburg, PA | On Site | Oct 14 |
 | **[Adobe](http://www.adobe.com)** | **[2026 University Graduate - Applied Research Scientist](https://jobright.ai/jobs/info/68d25a9017554c2d9eee7262?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 14 |
+| **[Accenture](https://www.accenture.com)** | **[Anti-Money Laundering (AML) Analyst](https://jobright.ai/jobs/info/68d62af4894705799a2e827e?utm_campaign=Data%20Analysis&utm_source=1103)** | Louisville, TN | Hybrid | Oct 13 |
 | **[Murphy Research](https://murphyresearch.com/)** | **[Research Associate](https://jobright.ai/jobs/info/67962e3bc3b9fb92e624af34?utm_campaign=Data%20Analysis&utm_source=1103)** | Santa Monica, CA | Hybrid | Oct 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Analyst Graduate (TikTok Shop Supply Chain and Logistics) - 2026 Start (MBA)](https://jobright.ai/jobs/info/68cdab07b2a74e1837edae6e?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Oct 13 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Researcher – Master's: 2026](https://jobright.ai/jobs/info/68cd7962e23def7af55ba503?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Oct 13 |
