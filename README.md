@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Swift Group, LLC](https://theswiftgroup.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68cd8a91b2a74e1837ed8686?utm_campaign=Data%20Analysis&utm_source=1103)** | Annapolis Junction, MD | On Site | Oct 14 |
 | **[ALTEN Technology USA](https://altenusa.com/)** | **[Data Collection Operator](https://jobright.ai/jobs/info/68d1f4b717554c2d9eee1909?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Oct 14 |
 | **[Adobe](http://www.adobe.com)** | **[2026 University Graduate - Data Scientist](https://jobright.ai/jobs/info/68d25369a54edb3bf3e1d954?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 14 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Business Data Analyst](https://jobright.ai/jobs/info/6880cac529ad6b2744adc0bb?utm_campaign=Data%20Analysis&utm_source=1103)** | Harrisburg, PA | On Site | Oct 14 |
@@ -95,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Old Mission](http://oldmissioncapital.com)** | **[Junior Quantitative Researcher (Ph.D.)](https://jobright.ai/jobs/info/68cbf2a116d00d2beeb174d5?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Oct 10 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Clinical Research Data Specialist I - PER_DIEM -Heart Institute](https://jobright.ai/jobs/info/689ad108faa4e875e825c85c?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Oct 10 |
 | **[Brown Advisory](http://www.brownadvisory.com)** | **[Business Intelligence Analyst](https://jobright.ai/jobs/info/68cc644a16d00d2beeb1edb0?utm_campaign=Data%20Analysis&utm_source=1103)** | Baltimore, MD | On Site | Oct 10 |
-| **[Scholastic](http://www.scholastic.com)** | **[Associate, Data Products](https://jobright.ai/jobs/info/68ccf5edd11b445e0bee4f7d?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Oct 10 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Trading, Data Analyst I](https://jobright.ai/jobs/info/68ccf6ff5954791a1d701de0?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, CO | On Site | Oct 10 |
 | **[The Voleon Group](http://voleon.com/)** | **[Data Scientist, Trading Operations](https://jobright.ai/jobs/info/68cc9d00128dc347fd927486?utm_campaign=Data%20Analysis&utm_source=1103)** | Berkeley, CA | Hybrid | Oct 10 |
 | **[Voya Investment Management](http://investments.voya.com)** | **[IM Entry Level Analyst Program: Risk Management](https://jobright.ai/jobs/info/68cfdb55dbd9fb154edeb4aa?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | On Site | Oct 09 |
