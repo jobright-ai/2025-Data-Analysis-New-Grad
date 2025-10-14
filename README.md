@@ -104,5 +104,4 @@ For a complete list, click the following sortable link below:
 | **[Northwestern University](https://www.northwestern.edu)** | **[Data Assistant Associate](https://jobright.ai/jobs/info/68ccd88477add66568aba4a6?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Oct 08 |
 | **[Hearts & Science](http://www.hearts-science.com)** | **[Senior Analyst, Data Science](https://jobright.ai/jobs/info/68cd7ab2b2a74e1837ed794c?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Oct 08 |
 | **[Applecart](http://applecart.co/)** | **[Research Specialist](https://jobright.ai/jobs/info/68cd08b4b2a74e1837ed0cc8?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Oct 07 |
-| **[Oppenheimer & Co. Inc.](https://oppenheimer.com)** | **[Research Associate - Digital Infrastructure; Satellite and Communications](https://jobright.ai/jobs/info/68cd31cce23def7af55b6a69?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
