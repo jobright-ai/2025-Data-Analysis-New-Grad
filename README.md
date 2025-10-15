@@ -110,6 +110,4 @@ For a complete list, click the following sortable link below:
 | **[Vincent Valuations LLC](https://www.vincentvaluations.com/)** | **[Data Collector](https://jobright.ai/jobs/info/68d979a7061b716fa295a5d0?utm_campaign=Data%20Analysis&utm_source=1103)** | Alamance County, NC | On Site | Oct 08 |
 | **[Gravity Research](https://www.gravityresearch.com)** | **[Social Impact and Reputational Risk Analyst](https://jobright.ai/jobs/info/68ae09d2d627244576e50ef7?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | Hybrid | Oct 08 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Data Steward](https://jobright.ai/jobs/info/68cd0477e5ac5c0dc6d2669b?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Oct 08 |
-| **[Northwestern University](https://www.northwestern.edu)** | **[Data Assistant Associate](https://jobright.ai/jobs/info/68ccd88477add66568aba4a6?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Oct 08 |
-| **[Hearts & Science](http://www.hearts-science.com)** | **[Senior Analyst, Data Science](https://jobright.ai/jobs/info/68cd7ab2b2a74e1837ed794c?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
