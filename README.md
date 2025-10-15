@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[The Swift Group, LLC](https://theswiftgroup.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68cd8a91b2a74e1837ed8686?utm_campaign=Data%20Analysis&utm_source=1103)** | Annapolis Junction, MD | On Site | Oct 14 |
+| **[iSpot](http://www.ispot.tv)** | **[Research Data Scientist](https://jobright.ai/jobs/info/68d1df0d8c62e63bc7fd06a2?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Hybrid | Oct 14 |
+| **[ERCOT](http://www.ercot.com/)** | **[Power Market Intelligence Engineer/Analyst](https://jobright.ai/jobs/info/68d1a90f8c62e63bc7fce242?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX | Hybrid | Oct 14 |
 | **[ALTEN Technology USA](https://altenusa.com/)** | **[Data Collection Operator](https://jobright.ai/jobs/info/68d1f4b717554c2d9eee1909?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Oct 14 |
 | **[Adobe](http://www.adobe.com)** | **[2026 University Graduate - Data Scientist](https://jobright.ai/jobs/info/68d25369a54edb3bf3e1d954?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 14 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Business Data Analyst](https://jobright.ai/jobs/info/6880cac529ad6b2744adc0bb?utm_campaign=Data%20Analysis&utm_source=1103)** | Harrisburg, PA | On Site | Oct 14 |
