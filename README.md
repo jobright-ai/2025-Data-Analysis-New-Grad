@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[FanDuel](http://www.fanduel.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68d3100ef0d9af73038deb72?utm_campaign=Data%20Analysis&utm_source=1103)** | Jersey City, NJ | Hybrid | Oct 15 |
+| **[Pax8](http://pax8.com)** | **[Operations Data Analyst, Amers](https://jobright.ai/jobs/info/68d2eff617554c2d9eeebef2?utm_campaign=Data%20Analysis&utm_source=1103)** | Colorado, United States | On Site | Oct 15 |
 | **[Milliman](http://www.milliman.com)** | **[Data Scientist - San Francisco Tri-State Property and Casualty (remote)](https://jobright.ai/jobs/info/68d1508bcece431f8b582bc4?utm_campaign=Data%20Analysis&utm_source=1103)** | Little Falls, NJ | Hybrid | Oct 14 |
 | **[The Swift Group, LLC](https://theswiftgroup.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68cd8a91b2a74e1837ed8686?utm_campaign=Data%20Analysis&utm_source=1103)** | Annapolis Junction, MD | On Site | Oct 14 |
 | **[iSpot](http://www.ispot.tv)** | **[Research Data Scientist](https://jobright.ai/jobs/info/68d1df0d8c62e63bc7fd06a2?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Hybrid | Oct 14 |
