@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FanDuel](http://www.fanduel.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68d3100ef0d9af73038deb72?utm_campaign=Data%20Analysis&utm_source=1103)** | Jersey City, NJ | Hybrid | Oct 15 |
+| **[Milliman](http://www.milliman.com)** | **[Data Scientist - San Francisco Tri-State Property and Casualty (remote)](https://jobright.ai/jobs/info/68d1508bcece431f8b582bc4?utm_campaign=Data%20Analysis&utm_source=1103)** | Little Falls, NJ | Hybrid | Oct 14 |
 | **[The Swift Group, LLC](https://theswiftgroup.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68cd8a91b2a74e1837ed8686?utm_campaign=Data%20Analysis&utm_source=1103)** | Annapolis Junction, MD | On Site | Oct 14 |
 | **[iSpot](http://www.ispot.tv)** | **[Research Data Scientist](https://jobright.ai/jobs/info/68d1df0d8c62e63bc7fd06a2?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Hybrid | Oct 14 |
 | **[ERCOT](http://www.ercot.com/)** | **[Power Market Intelligence Engineer/Analyst](https://jobright.ai/jobs/info/68d1a90f8c62e63bc7fce242?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX | Hybrid | Oct 14 |
@@ -84,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[EvenUp](https://www.litty.ai/)** | **[Early Career Data Scientist/Economist](https://jobright.ai/jobs/info/68b0939413563e782a9f77ce?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | Hybrid | Oct 11 |
 | **[ICE](https://www.ice.com)** | **[Analyst, Index Product Development](https://jobright.ai/jobs/info/68cddab9b2a74e1837edcd68?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Oct 11 |
 | **[Q-Centrix](https://www.q-centrix.com/)** | **[Trauma Clinical Data Specialist (Beginner Registrars)](https://jobright.ai/jobs/info/68cdbaefb2a74e1837edbbf3?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Hybrid | Oct 11 |
-| **[Starcom](http://www.starcomww.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68cd9dcbe23def7af55bccfc?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Oct 11 |
 | **[MetroStar](http://www.metrostarsystems.com)** | **[Associate Data Scientist (5682)](https://jobright.ai/jobs/info/67aba1b2f5eb47cd281b45a3?utm_campaign=Data%20Analysis&utm_source=1103)** | Quantico, VA | Hybrid | Oct 11 |
 | **[Whatnot](https://www.whatnot.com)** | **[Research Associate](https://jobright.ai/jobs/info/6895277d4ed2ea559ca53ccb?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Oct 11 |
 | ↳ | **[Research Associate](https://jobright.ai/jobs/info/68cba975efdec76df36c099e?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Oct 11 |
