@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Data Lab Technologist Energy](https://jobright.ai/jobs/info/68ae6d2e758f2e4ac30136aa?utm_campaign=Data%20Analysis&utm_source=1103)** | Richland, WA | On Site | Oct 15 |
+| **[KEYENCE CORPORATION](http://www.keyence.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68a63dc0758f2e4ac3fe3c54?utm_campaign=Data%20Analysis&utm_source=1103)** | Itasca, IL | On Site | Oct 15 |
 | **[FanDuel](http://www.fanduel.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68d3100ef0d9af73038deb72?utm_campaign=Data%20Analysis&utm_source=1103)** | Jersey City, NJ | Hybrid | Oct 15 |
 | **[Pax8](http://pax8.com)** | **[Operations Data Analyst, Amers](https://jobright.ai/jobs/info/68d2eff617554c2d9eeebef2?utm_campaign=Data%20Analysis&utm_source=1103)** | Colorado, United States | On Site | Oct 15 |
 | **[Milliman](http://www.milliman.com)** | **[Data Scientist - San Francisco Tri-State Property and Casualty (remote)](https://jobright.ai/jobs/info/68d1508bcece431f8b582bc4?utm_campaign=Data%20Analysis&utm_source=1103)** | Little Falls, NJ | Hybrid | Oct 14 |
