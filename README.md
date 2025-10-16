@@ -108,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Clinical Research Associate I - MIRIAD IBD Biobank & Database](https://jobright.ai/jobs/info/68ccb78116d00d2beeb234a8?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Oct 09 |
 | **[BIP](https://www.bip-group.com)** | **[Quantitative Developer, Capital Markets](https://jobright.ai/jobs/info/68cc5229128dc347fd9228f0?utm_campaign=Data%20Analysis&utm_source=1103)** | NYC Metro Area | Hybrid | Oct 09 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[Senior Business Solutions and Data Analyst](https://jobright.ai/jobs/info/68ca2179f16e3266d2822d74?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Hybrid | Oct 09 |
-| **[LendingClub](https://www.lendingclub.com)** | **[Risk Decisioning System Analyst](https://jobright.ai/jobs/info/68cda940b2a74e1837eda996?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | Hybrid | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
