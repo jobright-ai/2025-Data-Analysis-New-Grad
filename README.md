@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68cf5037fb49c96ca6ea730e?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, MD | On Site | Oct 16 |
+| ↳ | **[Data Scientist](https://jobright.ai/jobs/info/68cd1fd1e23def7af55b5a64?utm_campaign=Data%20Analysis&utm_source=1103)** | Annapolis Junction, MD | On Site | Oct 16 |
+| **[DraftKings Inc.](https://www.draftkings.com)** | **[Analyst I, Customer Forecasting](https://jobright.ai/jobs/info/68d49630ffc1276de3fdc40e?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | On Site | Oct 16 |
 | **[KEYENCE CORPORATION](http://www.keyence.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68a63dc0758f2e4ac3fe3c54?utm_campaign=Data%20Analysis&utm_source=1103)** | Itasca, IL | On Site | Oct 15 |
 | **[The Swift Group, LLC](https://theswiftgroup.com)** | **[Signals Analyst](https://jobright.ai/jobs/info/67d41cc85cc37145e562b3c4?utm_campaign=Data%20Analysis&utm_source=1103)** | Annapolis Junction, MD | On Site | Oct 15 |
 | **[FanDuel](http://www.fanduel.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68d3100ef0d9af73038deb72?utm_campaign=Data%20Analysis&utm_source=1103)** | Jersey City, NJ | Hybrid | Oct 15 |
