@@ -101,7 +101,4 @@ For a complete list, click the following sortable link below:
 | **[Whatnot](https://www.whatnot.com)** | **[Research Associate](https://jobright.ai/jobs/info/689524714ed2ea559ca53bcb?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Oct 11 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Variance and Data Administrator](https://jobright.ai/jobs/info/68770f515cebcd1dd51ced16?utm_campaign=Data%20Analysis&utm_source=1103)** | Sterling Heights, MI | On Site | Oct 11 |
 | **[Red Hat](http://www.redhat.com)** | **[Data Analyst](https://jobright.ai/jobs/info/68cc156a7342c7623ae5ea0c?utm_campaign=Data%20Analysis&utm_source=1103)** | Raleigh, NC | On Site | Oct 11 |
-| **[Hospital for Special Surgery](https://www.hss.edu)** | **[Analyst II Bioinformatics](https://jobright.ai/jobs/info/68d5bdf41f7fb2169ab136ba?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Oct 10 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Analytics Engineer](https://jobright.ai/jobs/info/68cfb2eedbd9fb154edea42b?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Oct 10 |
-| **[Procter & Gamble](https://us.pg.com/)** | **[Data Scientist](https://jobright.ai/jobs/info/68cc4a1c16d00d2beeb1d102?utm_campaign=Data%20Analysis&utm_source=1103)** | Cincinnati, OH | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
