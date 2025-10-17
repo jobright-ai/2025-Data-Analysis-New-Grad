@@ -107,5 +107,4 @@ For a complete list, click the following sortable link below:
 | **[Procter & Gamble](https://us.pg.com/)** | **[Data Scientist](https://jobright.ai/jobs/info/68cc4a1c16d00d2beeb1d102?utm_campaign=Data%20Analysis&utm_source=1103)** | Cincinnati, OH | On Site | Oct 10 |
 | **[Old Mission](http://oldmissioncapital.com)** | **[Junior Quantitative Researcher (Ph.D.)](https://jobright.ai/jobs/info/68cbf2a116d00d2beeb174d5?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Oct 10 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Clinical Research Data Specialist I - PER_DIEM -Heart Institute](https://jobright.ai/jobs/info/689ad108faa4e875e825c85c?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Oct 10 |
-| **[Brown Advisory](http://www.brownadvisory.com)** | **[Business Intelligence Analyst](https://jobright.ai/jobs/info/68cc644a16d00d2beeb1edb0?utm_campaign=Data%20Analysis&utm_source=1103)** | Baltimore, MD | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
