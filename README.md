@@ -89,5 +89,4 @@ For a complete list, click the following sortable link below:
 | **[Carrington Holding Company, LLC](http://carringtonhc.com/)** | **[Hybrid Quantitative Analytics Mortgage Lending Analyst, CCM](https://jobright.ai/jobs/info/6895598b4ed2ea559ca552f1?utm_campaign=Data%20Analysis&utm_source=1103)** | Greenwich, CT | Hybrid | Oct 12 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[TNT Sports Research and Insights Coordinator (Temporary)](https://jobright.ai/jobs/info/68cdfd4ee23def7af55c0df5?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | On Site | Oct 11 |
 | ↳ | **[TNT Sports Research and Insights Coordinator (Temporary)](https://jobright.ai/jobs/info/68cdfd65e23def7af55c0e05?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Oct 11 |
-| **[EvenUp](https://www.litty.ai/)** | **[Early Career Data Scientist/Economist](https://jobright.ai/jobs/info/68b0939413563e782a9f77ce?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | Hybrid | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
