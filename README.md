@@ -126,5 +126,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist, Mid](https://jobright.ai/jobs/info/68cf3f4efb49c96ca6ea6672?utm_campaign=Data%20Analysis&utm_source=1103)** | Annapolis Junction, MD | On Site | Oct 07 |
 | **[Ametros](http://www.ametrosfinancial.com)** | **[Analyst, Business Analysis](https://jobright.ai/jobs/info/68ce42631ad6b16f028a3791?utm_campaign=Data%20Analysis&utm_source=1103)** | Wilmington, MA | Hybrid | Oct 06 |
 | **[FiscalNote](http://www.fiscalnote.com)** | **[Junior Data Coordinator](https://jobright.ai/jobs/info/68cf3fa4fb49c96ca6ea66f9?utm_campaign=Data%20Analysis&utm_source=1103)** | Madison, WI | On Site | Oct 06 |
-| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Clinical Research Data Specialist I - Heart Institute](https://jobright.ai/jobs/info/68caef2bd905e25191d9da30?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
