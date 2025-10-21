@@ -93,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Variance and Data Administrator](https://jobright.ai/jobs/info/68770f515cebcd1dd51ced16?utm_campaign=Data%20Analysis&utm_source=1103)** | Sterling Heights, MI | On Site | Oct 11 |
 | **[Carrington Holding Company, LLC](http://carringtonhc.com/)** | **[Hybrid Quantitative Analytics Analyst, CCM](https://jobright.ai/jobs/info/689559534ed2ea559ca552d6?utm_campaign=Data%20Analysis&utm_source=1103)** | Greenwich, CT | Hybrid | Oct 11 |
 | **[Red Hat](http://www.redhat.com)** | **[Data Analyst](https://jobright.ai/jobs/info/68cc156a7342c7623ae5ea0c?utm_campaign=Data%20Analysis&utm_source=1103)** | Raleigh, NC | On Site | Oct 11 |
-| **[Hospital for Special Surgery](https://www.hss.edu)** | **[Analyst II Bioinformatics](https://jobright.ai/jobs/info/68d5bdf41f7fb2169ab136ba?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Oct 10 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Analytics Engineer](https://jobright.ai/jobs/info/68cfb2eedbd9fb154edea42b?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Oct 10 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Data Scientist](https://jobright.ai/jobs/info/68cc4a1c16d00d2beeb1d102?utm_campaign=Data%20Analysis&utm_source=1103)** | Cincinnati, OH | On Site | Oct 10 |
 | **[Old Mission](http://oldmissioncapital.com)** | **[Junior Quantitative Researcher (Ph.D.)](https://jobright.ai/jobs/info/68cbf2a116d00d2beeb174d5?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Oct 10 |
@@ -119,5 +118,4 @@ For a complete list, click the following sortable link below:
 | **[DraftKings Inc.](https://www.draftkings.com)** | **[Analyst I, Predictive Customer Modeling](https://jobright.ai/jobs/info/68ce71af846f0b04af679f6c?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | On Site | Oct 07 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist, Mid](https://jobright.ai/jobs/info/68cd93241ad6b16f0289b8b5?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, MD | On Site | Oct 07 |
 | ↳ | **[Data Scientist, Mid](https://jobright.ai/jobs/info/68cf3f4efb49c96ca6ea6672?utm_campaign=Data%20Analysis&utm_source=1103)** | Annapolis Junction, MD | On Site | Oct 07 |
-| **[Ametros](http://www.ametrosfinancial.com)** | **[Analyst, Business Analysis](https://jobright.ai/jobs/info/68ce42631ad6b16f028a3791?utm_campaign=Data%20Analysis&utm_source=1103)** | Wilmington, MA | Hybrid | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
