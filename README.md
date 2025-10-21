@@ -115,7 +115,4 @@ For a complete list, click the following sortable link below:
 | **[HealthStream](http://www.healthstream.com)** | **[Business Intelligence Analyst](https://jobright.ai/jobs/info/68d007d0fb49c96ca6ead80d?utm_campaign=Data%20Analysis&utm_source=1103)** | Nashville, TN | Hybrid | Oct 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate (TikTok UG-Mid Platform) - 2026 Start (BS/MS）](https://jobright.ai/jobs/info/68cfdde0846f0b04af685953?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 07 |
 | **[Duolingo](https://www.duolingo.com)** | **[Data Scientist, New Graduate](https://jobright.ai/jobs/info/68ce445f24dd5209002f127a?utm_campaign=Data%20Analysis&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 07 |
-| **[DraftKings Inc.](https://www.draftkings.com)** | **[Analyst I, Predictive Customer Modeling](https://jobright.ai/jobs/info/68ce71af846f0b04af679f6c?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | On Site | Oct 07 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist, Mid](https://jobright.ai/jobs/info/68cd93241ad6b16f0289b8b5?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, MD | On Site | Oct 07 |
-| ↳ | **[Data Scientist, Mid](https://jobright.ai/jobs/info/68cf3f4efb49c96ca6ea6672?utm_campaign=Data%20Analysis&utm_source=1103)** | Annapolis Junction, MD | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
