@@ -121,9 +121,9 @@ For a complete list, click the following sortable link below:
 | **[Verisk](https://www.verisk.com)** | **[Research Analyst I (XW)](https://jobright.ai/jobs/info/68dad7370b832179ca4b1931?utm_campaign=Data%20Analysis&utm_source=1103)** | Lehi, UT, United States | Hybrid | Sep 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Anti-Fraud Data Analyst - USDS](https://jobright.ai/jobs/info/68d998439a8e451a446a5030?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | Hybrid | Sep 28 |
 | ↳ | **[Anti-Fraud Data Analyst - USDS](https://jobright.ai/jobs/info/68d99bc59a8e451a446a5076?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | Hybrid | Sep 28 |
-| **[Columbia University Irving Medical Center](https://www.cuimc.columbia.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/68d5e22463d77d6f6f3f2e1f?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 27 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Data Coordinator I-Cardiology](https://jobright.ai/jobs/info/68d5f74e1f7fb2169ab14fa3?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 27 |
-| **[Columbia University Irving Medical Center](https://www.cuimc.columbia.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/68d5d45763d77d6f6f3f29bf?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 27 |
+| **[Columbia University Irving Medical Center](https://www.cuimc.columbia.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/68d5c4561f7fb2169ab138bf?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 27 |
+| ↳ | **[Research Assistant](https://jobright.ai/jobs/info/68d5d45763d77d6f6f3f29bf?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 27 |
 | **[Benaroya Research Institute](https://www.benaroyaresearch.org/)** | **[Biostatistician I](https://jobright.ai/jobs/info/68d7bba1295f8e37655e1392?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Sep 27 |
 | **[Quinn Company](https://www.quinncompany.com/)** | **[Customer Information Data Analyst](https://jobright.ai/jobs/info/68d7b12d7796a83635f0a52b?utm_campaign=Data%20Analysis&utm_source=1103)** | City of Industry, CA | On Site | Sep 27 |
 | **[University of Michigan](https://www.umich.edu)** | **[Research Area Specialist Inter](https://jobright.ai/jobs/info/68db5048e19b9e63ba20a86b?utm_campaign=Data%20Analysis&utm_source=1103)** | Ann Arbor, MI | On Site | Sep 26 |
@@ -136,5 +136,4 @@ For a complete list, click the following sortable link below:
 | **[MissionWired](https://missionwired.com/)** | **[Associate Data Analyst](https://jobright.ai/jobs/info/68d6c46a45853d0e39cc9ca6?utm_campaign=Data%20Analysis&utm_source=1103)** | United States - Remote Flexibility | Remote | Sep 26 |
 | **[Bikky](https://bikky.com)** | **[Data Analyst](https://jobright.ai/jobs/info/68d63cfa4736ff202fdd13b6?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Hybrid | Sep 26 |
 | ↳ | **[Data Analyst](https://jobright.ai/jobs/info/68d63c29ebcef82ef5cf832d?utm_campaign=Data%20Analysis&utm_source=1103)** | New York City | Hybrid | Sep 26 |
-| **[City of New York](http://www1.nyc.gov)** | **[GIS Analyst](https://jobright.ai/jobs/info/68d5e02963d77d6f6f3f2d02?utm_campaign=Data%20Analysis&utm_source=1103)** | Brooklyn, NY | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
