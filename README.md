@@ -151,5 +151,4 @@ For a complete list, click the following sortable link below:
 | **[Gauntlet](https://www.gauntlet.xyz)** | **[Quant Research Engineer - New Grad](https://jobright.ai/jobs/info/68d5df481f7fb2169ab144b3?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco | Remote | Sep 25 |
 | **[DENSO](https://www.denso.com)** | **[Data Scientist 1](https://jobright.ai/jobs/info/68d5bddd2116ff37ee08fe44?utm_campaign=Data%20Analysis&utm_source=1103)** | Southfield, MI | On Site | Sep 25 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Graduate Research Data Analyst](https://jobright.ai/jobs/info/68d57f4f39247e3c807ebdef?utm_campaign=Data%20Analysis&utm_source=1103)** | UT MAIN CAMPUS | On Site | Sep 25 |
-| **[DENSO](https://www.denso.com)** | **[Data Scientist 1](https://jobright.ai/jobs/info/68d53f3463d77d6f6f3ecae8?utm_campaign=Data%20Analysis&utm_source=1103)** | Southfield, MI, United States | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
