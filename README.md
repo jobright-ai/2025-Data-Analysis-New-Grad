@@ -87,5 +87,4 @@ For a complete list, click the following sortable link below:
 | **[Two Sigma](https://www.twosigma.com/)** | **[Data Scientist](https://jobright.ai/jobs/info/686389ff5017de06f85901e6?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Oct 11 |
 | **[NFP, an Aon company](http://www.nfp.com)** | **[Variance and Data Administrator](https://jobright.ai/jobs/info/68770f515cebcd1dd51ced16?utm_campaign=Data%20Analysis&utm_source=1103)** | Sterling Heights, MI | On Site | Oct 11 |
 | **[Carrington Holding Company, LLC](http://carringtonhc.com/)** | **[Hybrid Quantitative Analytics Analyst, CCM](https://jobright.ai/jobs/info/689559534ed2ea559ca552d6?utm_campaign=Data%20Analysis&utm_source=1103)** | Greenwich, CT | Hybrid | Oct 11 |
-| **[Red Hat](http://www.redhat.com)** | **[Data Analyst](https://jobright.ai/jobs/info/68cc156a7342c7623ae5ea0c?utm_campaign=Data%20Analysis&utm_source=1103)** | Raleigh, NC | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
