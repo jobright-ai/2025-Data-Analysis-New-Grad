@@ -129,6 +129,4 @@ For a complete list, click the following sortable link below:
 | **[Element Materials Technology](https://www.element.com)** | **[Data Analyst](https://jobright.ai/jobs/info/68dac1ec0b832179ca4b08e2?utm_campaign=Data%20Analysis&utm_source=1103)** | Fairfield, OH | On Site | Sep 26 |
 | **[Quinn Company](https://www.quinncompany.com/)** | **[Customer Information Data Analyst](https://jobright.ai/jobs/info/68d7b003295f8e37655e0b21?utm_campaign=Data%20Analysis&utm_source=1103)** | US-CA-City of Industry | On Site | Sep 26 |
 | **[Element Materials Technology](https://www.element.com)** | **[Data Analyst](https://jobright.ai/jobs/info/68dac67e0b832179ca4b0b89?utm_campaign=Data%20Analysis&utm_source=1103)** | US-OH-Fairfield | On Site | Sep 26 |
-| **[Gauntlet](https://www.gauntlet.xyz)** | **[Quant Research Engineer - New Grad](https://jobright.ai/jobs/info/68d7010a45853d0e39ccbf44?utm_campaign=Data%20Analysis&utm_source=1103)** | NYC Metro Area | Remote | Sep 26 |
-| **[AAA National](https://www.AAA.com/NationalCareers)** | **[Research Coordinator (Hybrid)](https://jobright.ai/jobs/info/68d6efec894705799a2eefde?utm_campaign=Data%20Analysis&utm_source=1103)** | District of Columbia, United States | Hybrid | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
