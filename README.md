@@ -125,5 +125,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research Assistant](https://jobright.ai/jobs/info/68d5d45763d77d6f6f3f29bf?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 27 |
 | **[Benaroya Research Institute](https://www.benaroyaresearch.org/)** | **[Biostatistician I](https://jobright.ai/jobs/info/68d7bba1295f8e37655e1392?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Sep 27 |
 | **[Quinn Company](https://www.quinncompany.com/)** | **[Customer Information Data Analyst](https://jobright.ai/jobs/info/68d7b12d7796a83635f0a52b?utm_campaign=Data%20Analysis&utm_source=1103)** | City of Industry, CA | On Site | Sep 27 |
-| **[University of Michigan](https://www.umich.edu)** | **[Research Area Specialist Inter](https://jobright.ai/jobs/info/68db5048e19b9e63ba20a86b?utm_campaign=Data%20Analysis&utm_source=1103)** | Ann Arbor, MI | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
