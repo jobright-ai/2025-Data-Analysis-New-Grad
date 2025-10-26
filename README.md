@@ -134,6 +134,4 @@ For a complete list, click the following sortable link below:
 | **[AAA National](https://www.AAA.com/NationalCareers)** | **[Research Coordinator (Hybrid)](https://jobright.ai/jobs/info/68d6efec894705799a2eefde?utm_campaign=Data%20Analysis&utm_source=1103)** | District of Columbia, United States | Hybrid | Sep 26 |
 | **[Remex, Inc.](https://www.remexinc.com)** | **[Data Analyst](https://jobright.ai/jobs/info/68d6eb0b894705799a2eebc7?utm_campaign=Data%20Analysis&utm_source=1103)** | Princeton, NJ 08540 | Hybrid | Sep 26 |
 | **[MissionWired](https://missionwired.com/)** | **[Associate Data Analyst](https://jobright.ai/jobs/info/68d6c46a45853d0e39cc9ca6?utm_campaign=Data%20Analysis&utm_source=1103)** | United States - Remote Flexibility | Remote | Sep 26 |
-| **[Bikky](https://bikky.com)** | **[Data Analyst](https://jobright.ai/jobs/info/68d63cfa4736ff202fdd13b6?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Hybrid | Sep 26 |
-| ↳ | **[Data Analyst](https://jobright.ai/jobs/info/68d63c29ebcef82ef5cf832d?utm_campaign=Data%20Analysis&utm_source=1103)** | New York City | Hybrid | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
