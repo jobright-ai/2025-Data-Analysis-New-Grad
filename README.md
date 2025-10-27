@@ -105,10 +105,8 @@ For a complete list, click the following sortable link below:
 | **[DraftKings Inc.](https://www.draftkings.com)** | **[Analyst I, Predictive Customer Modeling](https://jobright.ai/jobs/info/68ce71af846f0b04af679f6c?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | On Site | Oct 07 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist, Mid](https://jobright.ai/jobs/info/68cd93241ad6b16f0289b8b5?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, MD | On Site | Oct 07 |
 | ↳ | **[Data Scientist, Mid](https://jobright.ai/jobs/info/68cf3f4efb49c96ca6ea6672?utm_campaign=Data%20Analysis&utm_source=1103)** | Annapolis Junction, MD | On Site | Oct 07 |
-| **[Ametros](http://www.ametrosfinancial.com)** | **[Analyst, Business Analysis](https://jobright.ai/jobs/info/68ce42631ad6b16f028a3791?utm_campaign=Data%20Analysis&utm_source=1103)** | Wilmington, MA | Hybrid | Oct 06 |
 | **[FiscalNote](http://www.fiscalnote.com)** | **[Junior Data Coordinator](https://jobright.ai/jobs/info/68cf3fa4fb49c96ca6ea66f9?utm_campaign=Data%20Analysis&utm_source=1103)** | Madison, WI | On Site | Oct 06 |
 | **[Spark Foundry](http://www.sparkfoundryww.com/)** | **[Analyst, SEM (Pharma Client)](https://jobright.ai/jobs/info/68ccb2b2128dc347fd9283f9?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Oct 05 |
-| **[AgReliant Genetics, LLC](http://www.agreliantgenetics.com)** | **[Foundation Data Specialist](https://jobright.ai/jobs/info/68ccfe825954791a1d70278c?utm_campaign=Data%20Analysis&utm_source=1103)** | Decatur, IL | On Site | Oct 05 |
 | **[Sonesta International Hotels](http://www.sonesta.com)** | **[Analyst, Revenue Strategy (Remote)](https://jobright.ai/jobs/info/68d62b22ebcef82ef5cf70d3?utm_campaign=Data%20Analysis&utm_source=1103)** | Newton, MA | Remote | Sep 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist - TikTok Ads](https://jobright.ai/jobs/info/68bae0286105227d118a1082?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Sep 30 |
 | **[Katten Muchin Rosenman LLP](https://katten.com)** | **[Conflicts Analyst](https://jobright.ai/jobs/info/68daff596df7b8311bb15472?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Sep 29 |
@@ -119,5 +117,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Anti-Fraud Data Analyst - USDS](https://jobright.ai/jobs/info/68d99bc59a8e451a446a5076?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | Hybrid | Sep 28 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Data Coordinator I-Cardiology](https://jobright.ai/jobs/info/68d5f74e1f7fb2169ab14fa3?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 27 |
 | **[Columbia University Irving Medical Center](https://www.cuimc.columbia.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/68d5c4561f7fb2169ab138bf?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 27 |
-| ↳ | **[Research Assistant](https://jobright.ai/jobs/info/68d5d45763d77d6f6f3f29bf?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
