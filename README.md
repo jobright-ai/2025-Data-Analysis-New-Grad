@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ONEOK](http://www.oneok.com)** | **[GIS Professional II](https://jobright.ai/jobs/info/68ba1f3b5f383274918641f4?utm_campaign=Data%20Analysis&utm_source=1103)** | Tulsa, OK | Hybrid | Oct 17 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68cf5037fb49c96ca6ea730e?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, MD | On Site | Oct 16 |
 | ↳ | **[Data Scientist](https://jobright.ai/jobs/info/68cd1fd1e23def7af55b5a64?utm_campaign=Data%20Analysis&utm_source=1103)** | Annapolis Junction, MD | On Site | Oct 16 |
 | **[KEYENCE CORPORATION](http://www.keyence.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68a63dc0758f2e4ac3fe3c54?utm_campaign=Data%20Analysis&utm_source=1103)** | Itasca, IL | On Site | Oct 15 |
@@ -106,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist, Mid](https://jobright.ai/jobs/info/68cd93241ad6b16f0289b8b5?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, MD | On Site | Oct 07 |
 | ↳ | **[Data Scientist, Mid](https://jobright.ai/jobs/info/68cf3f4efb49c96ca6ea6672?utm_campaign=Data%20Analysis&utm_source=1103)** | Annapolis Junction, MD | On Site | Oct 07 |
 | **[FiscalNote](http://www.fiscalnote.com)** | **[Junior Data Coordinator](https://jobright.ai/jobs/info/68cf3fa4fb49c96ca6ea66f9?utm_campaign=Data%20Analysis&utm_source=1103)** | Madison, WI | On Site | Oct 06 |
-| **[Spark Foundry](http://www.sparkfoundryww.com/)** | **[Analyst, SEM (Pharma Client)](https://jobright.ai/jobs/info/68ccb2b2128dc347fd9283f9?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Oct 05 |
 | **[Sonesta International Hotels](http://www.sonesta.com)** | **[Analyst, Revenue Strategy (Remote)](https://jobright.ai/jobs/info/68d62b22ebcef82ef5cf70d3?utm_campaign=Data%20Analysis&utm_source=1103)** | Newton, MA | Remote | Sep 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist - TikTok Ads](https://jobright.ai/jobs/info/68bae0286105227d118a1082?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Sep 30 |
 | **[Katten Muchin Rosenman LLP](https://katten.com)** | **[Conflicts Analyst](https://jobright.ai/jobs/info/68daff596df7b8311bb15472?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Sep 29 |
