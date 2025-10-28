@@ -65,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[Oak Street Health, part of CVS Health](http://www.oakstreethealth.com)** | **[Specialist, Clinical Informatics](https://jobright.ai/jobs/info/68d1dbcb17554c2d9eee03df?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | Hybrid | Oct 14 |
 | **[Milliman](http://www.milliman.com)** | **[Data Scientist - San Francisco Tri-State Property and Casualty (remote)](https://jobright.ai/jobs/info/68d1508bcece431f8b582bc4?utm_campaign=Data%20Analysis&utm_source=1103)** | Little Falls, NJ | Hybrid | Oct 14 |
 | **[The Swift Group, LLC](https://theswiftgroup.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68cd8a91b2a74e1837ed8686?utm_campaign=Data%20Analysis&utm_source=1103)** | Annapolis Junction, MD | On Site | Oct 14 |
-| **[iSpot](http://www.ispot.tv)** | **[Research Data Scientist](https://jobright.ai/jobs/info/68d1df0d8c62e63bc7fd06a2?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Hybrid | Oct 14 |
 | **[ERCOT](http://www.ercot.com/)** | **[Power Market Intelligence Engineer/Analyst](https://jobright.ai/jobs/info/68d1a90f8c62e63bc7fce242?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX | Hybrid | Oct 14 |
 | **[ALTEN Technology USA](https://altenusa.com/)** | **[Data Collection Operator](https://jobright.ai/jobs/info/68d1f4b717554c2d9eee1909?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Oct 14 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Business Data Analyst](https://jobright.ai/jobs/info/6880cac529ad6b2744adc0bb?utm_campaign=Data%20Analysis&utm_source=1103)** | Harrisburg, PA | On Site | Oct 14 |
@@ -106,6 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Katten Muchin Rosenman LLP](https://katten.com)** | **[Conflicts Analyst](https://jobright.ai/jobs/info/68daff596df7b8311bb15472?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Sep 29 |
 | **[Amazon](https://amazon.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68daf1080dffed6f83d2ad68?utm_campaign=Data%20Analysis&utm_source=1103)** | Newark, New Jersey, USA | On Site | Sep 29 |
 | **[10a Labs](https://www.linkedin.com/redir/phishing-page?url=https%3A%2F%2Fwww%2e10alabs%2ecom)** | **[Research Fellow](https://jobright.ai/jobs/info/6890b646f47efe211394fa2e?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington D.C. | On Site | Sep 29 |
-| **[TikTok](https://www.tiktok.com)** | **[Anti-Fraud Data Analyst - USDS](https://jobright.ai/jobs/info/68d998439a8e451a446a5030?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | Hybrid | Sep 28 |
-| ↳ | **[Anti-Fraud Data Analyst - USDS](https://jobright.ai/jobs/info/68d99bc59a8e451a446a5076?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | Hybrid | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
