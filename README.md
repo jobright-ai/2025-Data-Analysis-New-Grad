@@ -109,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Katten Muchin Rosenman LLP](https://katten.com)** | **[Conflicts Analyst](https://jobright.ai/jobs/info/68daff596df7b8311bb15472?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Sep 29 |
 | **[Amazon](https://amazon.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68daf1080dffed6f83d2ad68?utm_campaign=Data%20Analysis&utm_source=1103)** | Newark, New Jersey, USA | On Site | Sep 29 |
 | **[10a Labs](https://www.linkedin.com/redir/phishing-page?url=https%3A%2F%2Fwww%2e10alabs%2ecom)** | **[Research Fellow](https://jobright.ai/jobs/info/6890b646f47efe211394fa2e?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington D.C. | On Site | Sep 29 |
-| **[Verisk](https://www.verisk.com)** | **[Research Analyst I (XW)](https://jobright.ai/jobs/info/68dad7370b832179ca4b1931?utm_campaign=Data%20Analysis&utm_source=1103)** | Lehi, UT, United States | Hybrid | Sep 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Anti-Fraud Data Analyst - USDS](https://jobright.ai/jobs/info/68d998439a8e451a446a5030?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | Hybrid | Sep 28 |
 | ↳ | **[Anti-Fraud Data Analyst - USDS](https://jobright.ai/jobs/info/68d99bc59a8e451a446a5076?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | Hybrid | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
