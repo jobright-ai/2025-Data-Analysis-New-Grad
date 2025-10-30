@@ -89,6 +89,4 @@ For a complete list, click the following sortable link below:
 | **[Farmers Insurance](https://www.farmers.com)** | **[Senior Business Solutions and Data Analyst](https://jobright.ai/jobs/info/68ca2179f16e3266d2822d74?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Hybrid | Oct 09 |
 | **[Vincent Valuations LLC](https://www.vincentvaluations.com/)** | **[Data Collector](https://jobright.ai/jobs/info/68d979a7061b716fa295a5d0?utm_campaign=Data%20Analysis&utm_source=1103)** | Alamance County, NC | On Site | Oct 08 |
 | **[Gravity Research](https://www.gravityresearch.com)** | **[Social Impact and Reputational Risk Analyst](https://jobright.ai/jobs/info/68ae09d2d627244576e50ef7?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | Hybrid | Oct 08 |
-| **[Hearts & Science](http://www.hearts-science.com)** | **[Senior Analyst, Data Science](https://jobright.ai/jobs/info/68cd7ab2b2a74e1837ed794c?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Oct 08 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist - TikTok Ads](https://jobright.ai/jobs/info/68bae0286105227d118a1082?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
