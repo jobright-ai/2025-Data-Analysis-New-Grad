@@ -67,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[ERCOT](http://www.ercot.com/)** | **[Power Market Intelligence Engineer/Analyst](https://jobright.ai/jobs/info/68d1a90f8c62e63bc7fce242?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX | Hybrid | Oct 14 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Business Data Analyst](https://jobright.ai/jobs/info/6880cac529ad6b2744adc0bb?utm_campaign=Data%20Analysis&utm_source=1103)** | Harrisburg, PA | On Site | Oct 14 |
 | **[Adobe](http://www.adobe.com)** | **[2026 University Graduate - Applied Research Scientist](https://jobright.ai/jobs/info/68d25a9017554c2d9eee7262?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 14 |
-| **[Murphy Research](https://murphyresearch.com/)** | **[Research Associate](https://jobright.ai/jobs/info/67962e3bc3b9fb92e624af34?utm_campaign=Data%20Analysis&utm_source=1103)** | Santa Monica, CA | Hybrid | Oct 13 |
 | **[BIP](https://www.bip-group.com)** | **[Quantitative Developer, Capital Markets](https://jobright.ai/jobs/info/68cc5229128dc347fd9228f0?utm_campaign=Data%20Analysis&utm_source=1103)** | NYC Metro Area | Hybrid | Oct 09 |
 | **[Vincent Valuations LLC](https://www.vincentvaluations.com/)** | **[Data Collector](https://jobright.ai/jobs/info/68d979a7061b716fa295a5d0?utm_campaign=Data%20Analysis&utm_source=1103)** | Alamance County, NC | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
