@@ -57,16 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oak Street Health, part of CVS Health](http://www.oakstreethealth.com)** | **[Specialist, Clinical Informatics](https://jobright.ai/jobs/info/68d1dbcb17554c2d9eee03df?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | Hybrid | Nov 04 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Data Scientist](https://jobright.ai/jobs/info/68cc4a1c16d00d2beeb1d102?utm_campaign=Data%20Analysis&utm_source=1103)** | Cincinnati, OH | On Site | Oct 31 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68cf5037fb49c96ca6ea730e?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, MD | On Site | Oct 16 |
 | ↳ | **[Data Scientist](https://jobright.ai/jobs/info/68cd1fd1e23def7af55b5a64?utm_campaign=Data%20Analysis&utm_source=1103)** | Annapolis Junction, MD | On Site | Oct 16 |
 | **[KEYENCE CORPORATION](http://www.keyence.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68a63dc0758f2e4ac3fe3c54?utm_campaign=Data%20Analysis&utm_source=1103)** | Itasca, IL | On Site | Oct 15 |
 | **[The Swift Group, LLC](https://theswiftgroup.com)** | **[Signals Analyst](https://jobright.ai/jobs/info/67d41cc85cc37145e562b3c4?utm_campaign=Data%20Analysis&utm_source=1103)** | Annapolis Junction, MD | On Site | Oct 15 |
 | **[FanDuel](http://www.fanduel.com)** | **[Data Scientist](https://jobright.ai/jobs/info/68d3100ef0d9af73038deb72?utm_campaign=Data%20Analysis&utm_source=1103)** | Jersey City, NJ | Hybrid | Oct 15 |
-| **[Oak Street Health, part of CVS Health](http://www.oakstreethealth.com)** | **[Specialist, Clinical Informatics](https://jobright.ai/jobs/info/68d1dbcb17554c2d9eee03df?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | Hybrid | Oct 14 |
-| **[ERCOT](http://www.ercot.com/)** | **[Power Market Intelligence Engineer/Analyst](https://jobright.ai/jobs/info/68d1a90f8c62e63bc7fce242?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX | Hybrid | Oct 14 |
-| **[WebFX](https://www.webfx.com)** | **[Jr. Business Data Analyst](https://jobright.ai/jobs/info/6880cac529ad6b2744adc0bb?utm_campaign=Data%20Analysis&utm_source=1103)** | Harrisburg, PA | On Site | Oct 14 |
-| **[Adobe](http://www.adobe.com)** | **[2026 University Graduate - Applied Research Scientist](https://jobright.ai/jobs/info/68d25a9017554c2d9eee7262?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Oct 14 |
 | **[BIP](https://www.bip-group.com)** | **[Quantitative Developer, Capital Markets](https://jobright.ai/jobs/info/68cc5229128dc347fd9228f0?utm_campaign=Data%20Analysis&utm_source=1103)** | NYC Metro Area | Hybrid | Oct 09 |
 | **[Vincent Valuations LLC](https://www.vincentvaluations.com/)** | **[Data Collector](https://jobright.ai/jobs/info/68d979a7061b716fa295a5d0?utm_campaign=Data%20Analysis&utm_source=1103)** | Alamance County, NC | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
