@@ -57,21 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Pfizer](http://www.pfizer.com)** | **[Associate Data Scientist](https://jobright.ai/jobs/info/6913a88dd1047e3565d04e1b?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Nov 11 |
-| ↳ | **[Associate Data Scientist](https://jobright.ai/jobs/info/6913a4b61465e02904e964d8?utm_campaign=Data%20Analysis&utm_source=1103)** | United States - Massachusetts - Cambridge | Hybrid | Nov 11 |
 | **[Datadog](https://www.datadoghq.com)** | **[Enablement Operations Data Analyst - NYC](https://jobright.ai/jobs/info/6913a423d1047e3565d04af2?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Nov 11 |
-| **[Premier Research](https://premier-research.com)** | **[Clinical Trial Associate I (eTMF)](https://jobright.ai/jobs/info/69139e79e344172248f7299e?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Nov 11 |
-| **[Boeing](https://www.boeing.co.uk)** | **[Associate Business Intelligence Analyst](https://jobright.ai/jobs/info/69139bf1d1047e3565d04729?utm_campaign=Data%20Analysis&utm_source=1103)** | USA - Berkeley, MO | Hybrid | Nov 11 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Data Analyst](https://jobright.ai/jobs/info/6913b6eb1465e02904e96f17?utm_campaign=Data%20Analysis&utm_source=1103)** | New Stanton, PA | Hybrid | Nov 11 |
+| **[Laveer Engineering](https://laveer.ca/)** | **[Data Analyst](https://jobright.ai/jobs/info/6913b2c51465e02904e96c5f?utm_campaign=Data%20Analysis&utm_source=1103)** | New Stanton, PA | Hybrid | Nov 11 |
 | **[Pfizer](http://www.pfizer.com)** | **[Associate Data Scientist](https://jobright.ai/jobs/info/69139946d1047e3565d045fe?utm_campaign=Data%20Analysis&utm_source=1103)** | United States - New York - New York City | Hybrid | Nov 11 |
+| ↳ | **[Associate Data Scientist](https://jobright.ai/jobs/info/6913a4b61465e02904e964d8?utm_campaign=Data%20Analysis&utm_source=1103)** | United States - Massachusetts - Cambridge | Hybrid | Nov 11 |
+| ↳ | **[Associate Data Scientist](https://jobright.ai/jobs/info/6913a88dd1047e3565d04e1b?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Nov 11 |
+| **[Premier Research](https://premier-research.com)** | **[Clinical Trial Associate I (eTMF)](https://jobright.ai/jobs/info/69139e79e344172248f7299e?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Nov 11 |
 | **[Kepler](https://www.keplergrp.com)** | **[Analyst, Data Strategy & Analytics (Healthcare)](https://jobright.ai/jobs/info/691398b6d1047e3565d04590?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Nov 11 |
 | **[SciTec, Inc.](https://scitec.com)** | **[Associate / Staff Mission Data Analyst](https://jobright.ai/jobs/info/691398a7e344172248f72708?utm_campaign=Data%20Analysis&utm_source=1103)** | Dayton, OH | On Site | Nov 11 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Associate Business Intelligence Analyst](https://jobright.ai/jobs/info/691398181465e02904e95d93?utm_campaign=Data%20Analysis&utm_source=1103)** | USA - Seattle, WA | Hybrid | Nov 11 |
 | ↳ | **[Associate Business Intelligence Analyst](https://jobright.ai/jobs/info/6913980fd1047e3565d04511?utm_campaign=Data%20Analysis&utm_source=1103)** | USA - Renton, WA | Hybrid | Nov 11 |
+| **[Pfizer](http://www.pfizer.com)** | **[Associate Data Scientist](https://jobright.ai/jobs/info/6913b6ce1465e02904e96f00?utm_campaign=Data%20Analysis&utm_source=1103)** | Cambridge, MA | Hybrid | Nov 11 |
 | **[Connection](http://www.pcconnection.com)** | **[ServiceNow Analyst](https://jobright.ai/jobs/info/691397efe344172248f7267a?utm_campaign=Data%20Analysis&utm_source=1103)** | Columbus, OH | On Site | Nov 11 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Associate Business Intelligence Analyst](https://jobright.ai/jobs/info/69139702e344172248f725df?utm_campaign=Data%20Analysis&utm_source=1103)** | USA - Hazelwood, MO | Hybrid | Nov 11 |
 | **[IBISWorld](http://www.ibisworld.com/)** | **[Industry Research Analyst - NY](https://jobright.ai/jobs/info/691396bce344172248f725a8?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Nov 11 |
 | **[Multiplier](https://www.usemultiplier.com)** | **[Research Assistant](https://jobright.ai/jobs/info/69139598e344172248f724c2?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Nov 11 |
 | **[Datadog](https://www.datadoghq.com)** | **[Enablement Operations Data Analyst - NYC](https://jobright.ai/jobs/info/6913956ae344172248f724a0?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, New York, USA | Hybrid | Nov 11 |
+| **[Boeing](https://www.boeing.co.uk)** | **[Associate Business Intelligence Analyst](https://jobright.ai/jobs/info/69139562e344172248f72497?utm_campaign=Data%20Analysis&utm_source=1103)** | USA - Berkeley, MO | Hybrid | Nov 11 |
 | **[Kepler](https://www.keplergrp.com)** | **[Analyst, Data Strategy & Analytics (Healthcare)](https://jobright.ai/jobs/info/69138f191465e02904e95803?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, Philadelphia | On Site | Nov 11 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Social & Behavioral Researcher](https://jobright.ai/jobs/info/69138280d1047e3565d03b21?utm_campaign=Data%20Analysis&utm_source=1103)** | Florida, United States | On Site | Nov 11 |
 | **[Interactions Marketing](https://www.interactionsmarketing.com/)** | **[Retail Data Collector](https://jobright.ai/jobs/info/69137b27e344172248f71893?utm_campaign=Data%20Analysis&utm_source=1103)** | Butte, MT | On Site | Nov 11 |
