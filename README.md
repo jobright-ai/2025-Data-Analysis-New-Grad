@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gen](https://www.gendigital.com)** | **[BI Analyst, Revenue Analytics- Moneylion](https://jobright.ai/jobs/info/692e95c74c474121999da280?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 01 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Data Scientist – Retail Analytics](https://jobright.ai/jobs/info/692e7388fa28370be26a4b08?utm_campaign=Data%20Analysis&utm_source=1103)** | Wellesley Hills, MA | Hybrid | Dec 01 |
 | **[Ipsos in US](http://ipsos-na.com)** | **[Research Analyst, Brand Health Tracking](https://jobright.ai/jobs/info/692e6a304c474121999d94cf?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Dec 01 |
-| ↳ | **[Research Analyst, Brand Health Tracking](https://jobright.ai/jobs/info/692e64c3ef4b48533d13f7b7?utm_campaign=Data%20Analysis&utm_source=1103)** | Cincinnati, OH | Hybrid | Dec 01 |
+| **[RI-MUHC | Research Institute of the MUHC | #rimuhc](https://rimuhc.ca/)** | **[Research Associate - Epidemiology and Respiratory Health (Research Institute)](https://jobright.ai/jobs/info/692e8664ef4b48533d140599?utm_campaign=Data%20Analysis&utm_source=1103)** | Montreal, Quebec, Canada | On Site | Dec 01 |
+| **[Ipsos in US](http://ipsos-na.com)** | **[Research Analyst, Brand Health Tracking](https://jobright.ai/jobs/info/692e64c3ef4b48533d13f7b7?utm_campaign=Data%20Analysis&utm_source=1103)** | Cincinnati, OH | Hybrid | Dec 01 |
 | ↳ | **[Research Analyst, Brand Health Tracking](https://jobright.ai/jobs/info/692e63b4fa28370be26a4232?utm_campaign=Data%20Analysis&utm_source=1103)** | Norwalk, CT | Hybrid | Dec 01 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Insights Analyst (ROPS Reporting Analyst)](https://jobright.ai/jobs/info/692e77ff4c474121999d9bc1?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 01 |
 | **[Fred Hutch](http://www.fredhutch.org)** | **[Statistical Research Associate I/II](https://jobright.ai/jobs/info/692e58c54c474121999d8a56?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Dec 01 |
@@ -88,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[The State University of New York](http://www.suny.edu/)** | **[Postdoctoral Associate for Regional Gun Violence Research Consortium (RGVRC)](https://jobright.ai/jobs/info/68c15b18233c7d3e64d016ee?utm_campaign=Data%20Analysis&utm_source=1103)** | Albany, NY | On Site | Dec 01 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Research Assistant II](https://jobright.ai/jobs/info/692ddc3dfa28370be269ef22?utm_campaign=Data%20Analysis&utm_source=1103)** | Newton, MA | On Site | Dec 01 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Commercialization Data Specialist](https://jobright.ai/jobs/info/692df40bef4b48533d13b02d?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Hybrid | Dec 01 |
-| **[RI-MUHC | Research Institute of the MUHC | #rimuhc](https://rimuhc.ca/)** | **[Research Associate - Epidemiology and Respiratory Health (Research Institute)](https://jobright.ai/jobs/info/692dd83266796e3028f96ad0?utm_campaign=Data%20Analysis&utm_source=1103)** | Montreal, Quebec, Canada | On Site | Dec 01 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Research Analyst](https://jobright.ai/jobs/info/692dd5a666796e3028f96984?utm_campaign=Data%20Analysis&utm_source=1103)** | Smyrna, TN | On Site | Dec 01 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Commercialization Data Specialist](https://jobright.ai/jobs/info/692df497fa28370be269fc2d?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Hybrid | Dec 01 |
 | **[Glass, Lewis & Co.](http://www.glasslewis.com)** | **[Research Associate](https://jobright.ai/jobs/info/692dca424c474121999d3605?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 01 |
@@ -131,8 +132,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research Executive](https://jobright.ai/jobs/info/690e69c744146d3b6ec53ef1?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Nov 29 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Analyst, Crypto Research](https://jobright.ai/jobs/info/692acaa966796e3028f8f94b?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Nov 29 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Research Data Associate](https://jobright.ai/jobs/info/692ac2c04c474121999ccb2a?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Nov 29 |
-| **[TD Securities](https://www.tdsecurities.com)** | **[Analyst](https://jobright.ai/jobs/info/692a951666796e3028f8f2a2?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Nov 28 |
-| **[RI-MUHC | Research Institute of the MUHC | #rimuhc](https://rimuhc.ca/)** | **[Junior Research Assistant (Research Institute)](https://jobright.ai/jobs/info/692a778efa28370be2697298?utm_campaign=Data%20Analysis&utm_source=1103)** | Montreal, Quebec, Canada | On Site | Nov 28 |
 | **[Vertical Screen, Inc.](http://www.verticalscreen.com/)** | **[Criminal Background Check Researcher](https://jobright.ai/jobs/info/692a5bdf4c474121999cc02b?utm_campaign=Data%20Analysis&utm_source=1103)** | Warminster, PA | Hybrid | Nov 28 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Client Insights Analyst](https://jobright.ai/jobs/info/692a39befa28370be2696a59?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Nov 28 |
 | **[Vertical Screen, Inc.](http://www.verticalscreen.com/)** | **[Criminal Background Check Researcher](https://jobright.ai/jobs/info/692a59b5fa28370be2696f24?utm_campaign=Data%20Analysis&utm_source=1103)** | US-PA-Warminster | Hybrid | Nov 28 |
@@ -248,11 +247,4 @@ For a complete list, click the following sortable link below:
 | **[WPP](http://www.wpp.com)** | **[User Researcher, WPP Open](https://jobright.ai/jobs/info/68d1fe538c62e63bc7fd1fff?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Nov 25 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist](https://jobright.ai/jobs/info/692b3e96fa28370be2698779?utm_campaign=Data%20Analysis&utm_source=1103)** | McLean, VA | Hybrid | Nov 25 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Clinical Research Assistant-FNNDSC](https://jobright.ai/jobs/info/69260b0227bf2f41a2c42d5e?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston | Hybrid | Nov 25 |
-| **[Interactions Marketing](https://www.interactionsmarketing.com/)** | **[Retail Data Collector](https://jobright.ai/jobs/info/6925e55527bf2f41a2c415fb?utm_campaign=Data%20Analysis&utm_source=1103)** | Bozeman, MT | On Site | Nov 25 |
-| **[Acosta](https://www.acosta.com)** | **[Analyst, Space Management (POGs)](https://jobright.ai/jobs/info/690989bfd046ab6061cd66c7?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlotte, NC | Hybrid | Nov 25 |
-| ↳ | **[Category Analyst (CPG)](https://jobright.ai/jobs/info/690a0def4a1b456627b040b8?utm_campaign=Data%20Analysis&utm_source=1103)** | Louisville, OH | Hybrid | Nov 25 |
-| ↳ | **[Category Analyst (CPG)](https://jobright.ai/jobs/info/6909918bbcccf20de59dc7cf?utm_campaign=Data%20Analysis&utm_source=1103)** | Columbus, OH | Hybrid | Nov 25 |
-| **[Cadent](http://www.cadent.tv)** | **[Data & Analytics, Junior Associate](https://jobright.ai/jobs/info/69200eaaa49a885af9a36425?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Nov 25 |
-| **[Acosta](https://www.acosta.com)** | **[Analyst, Space Management (POGs)](https://jobright.ai/jobs/info/690989ddbcccf20de59dc37b?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlotte, NC | On Site | Nov 25 |
-| **[BlackRock](http://www.blackrock.com)** | **[2026 Full-Time Analyst Program - AMERS](https://jobright.ai/jobs/info/68f8a39b4bafad6d2d764b2f?utm_campaign=Data%20Analysis&utm_source=1103)** | ABQ-SF Metro Area | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
