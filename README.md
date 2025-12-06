@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A+E Global Media](https://www.aetv.com/)** | **[Coordinator, Metadata Operations](https://jobright.ai/jobs/info/6917b9b315b415636717aee2?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Dec 06 |
 | **[Cascades](http://www.cascades.com)** | **[Analyste chaîne d'approvisionnement](https://jobright.ai/jobs/info/693451ff764507023d1bcbb6?utm_campaign=Data%20Analysis&utm_source=1103)** | St-Bruno-de-Montarville, Quebec, Canada | On Site | Dec 06 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Radio Insights Analyst](https://jobright.ai/jobs/info/68de9ceea125e75c422b5505?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 06 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader (2026)](https://jobright.ai/jobs/info/68ce01b1b2a74e1837ede5a1?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Dec 06 |
@@ -106,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Tempus AI](https://www.tempus.com)** | **[Data Scientist I, Real World Data Science](https://jobright.ai/jobs/info/693375d2f131d96e48463988?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Remote | Dec 05 |
 | ↳ | **[Data Scientist I, Real World Data Science](https://jobright.ai/jobs/info/69337aea764507023d1b623b?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | On Site | Dec 05 |
 | **[Future Sign  CO.,LTD](https://www.futuresign.co.th/)** | **[Data Analyst](https://jobright.ai/jobs/info/693434a7f131d96e48469f72?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 05 |
-| ↳ | **[Data Analyst](https://jobright.ai/jobs/info/69343e3aa0dde7020e2f4cea?utm_campaign=Data%20Analysis&utm_source=1103)** | California, United States | On Site | Dec 05 |
 | **[Centene Corporation](http://www.centene.com)** | **[Provider Data Management Analyst I](https://jobright.ai/jobs/info/69335d28f131d96e48462850?utm_campaign=Data%20Analysis&utm_source=1103)** | Missouri, United States | Remote | Dec 05 |
 | **[University of Alberta](https://www.ualberta.ca)** | **[Junior Analyst, Enrolment Data Analytics](https://jobright.ai/jobs/info/69333b04f131d96e48460e6f?utm_campaign=Data%20Analysis&utm_source=1103)** | Edmonton, AB, Canada | Hybrid | Dec 05 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Analyst Charge - RIO (Remote)](https://jobright.ai/jobs/info/6933560a764507023d1b463c?utm_campaign=Data%20Analysis&utm_source=1103)** | Livonia, MI | Remote | Dec 05 |
@@ -233,9 +233,9 @@ For a complete list, click the following sortable link below:
 | **[KeyBank](https://www.key.com)** | **[Quant Analytics Assoc - Model Risk](https://jobright.ai/jobs/info/69253bfbd47de4798eccea4e?utm_campaign=Data%20Analysis&utm_source=1103)** | Cleveland, OH | Remote | Dec 03 |
 | **[STI](http://www.sti.edu)** | **[Epidemiologist I Experienced Entry](https://jobright.ai/jobs/info/69310c91ef4b48533d151ed8?utm_campaign=Data%20Analysis&utm_source=1103)** | Cayce, SC | On Site | Dec 03 |
 | **[Uber](http://www.uber.com)** | **[Graduate 2026 PhD Scientist II (AEA/ASSA Economists Only), US](https://jobright.ai/jobs/info/69311050ef4b48533d152102?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Dec 03 |
-| ↳ | **[Graduate 2026 PhD Scientist II (AEA/ASSA Economists Only), US](https://jobright.ai/jobs/info/693114154c474121999ebdbe?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 03 |
 | ↳ | **[Graduate 2026 PhD Scientist II (AEA/ASSA Economists Only), US](https://jobright.ai/jobs/info/69310dddfa28370be26b6831?utm_campaign=Data%20Analysis&utm_source=1103)** | Sunnyvale, CA | On Site | Dec 03 |
 | ↳ | **[Graduate 2026 PhD Scientist II (Delivery Logistics), US](https://jobright.ai/jobs/info/69310a39fa28370be26b65cf?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 03 |
+| ↳ | **[Graduate 2026 PhD Scientist II (AEA/ASSA Economists Only), US](https://jobright.ai/jobs/info/693114154c474121999ebdbe?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 03 |
 | **[University of California, San Francisco](http://www.ucsf.edu)** | **[RSCH DATA ANL 1](https://jobright.ai/jobs/info/6927a86891ceeb2e8a5420a7?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Dec 03 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[GIS Analyst I, II-Corpus Christi- TP&D HQ](https://jobright.ai/jobs/info/6930eab3fa28370be26b5393?utm_campaign=Data%20Analysis&utm_source=1103)** | Corpus Christi, TX | Hybrid | Dec 03 |
 | **[University of California, San Francisco](http://www.ucsf.edu)** | **[Assistant Clinical Research Coordinator](https://jobright.ai/jobs/info/6930ea82ef4b48533d1509f4?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Dec 03 |
@@ -359,8 +359,8 @@ For a complete list, click the following sortable link below:
 | **[Tharseo IT](https://tharseoit.com)** | **[Oracle EBS Junior Technical Analyst](https://jobright.ai/jobs/info/692dfdc44c474121999d5080?utm_campaign=Data%20Analysis&utm_source=1103)** | San Antonio, TX, US | Hybrid | Dec 01 |
 | **[Amazon](https://amazon.com)** | **[Data & Reporting Analyst , Relay Operations Center Tech & Ops integration](https://jobright.ai/jobs/info/690bb749d046ab6061ce6b74?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | On Site | Dec 01 |
 | ↳ | **[Data & Reporting Analyst , Relay Operations Center Tech & Ops integration](https://jobright.ai/jobs/info/690bc432d046ab6061ce75fe?utm_campaign=Data%20Analysis&utm_source=1103)** | Tempe, AZ | On Site | Dec 01 |
-| **[Humana](http://www.humana.com)** | **[Business Intelligence Engineer 2](https://jobright.ai/jobs/info/6932c47f764507023d1b06a2?utm_campaign=Data%20Analysis&utm_source=1103)** | Louisville, KY | Remote | Dec 01 |
-| ↳ | **[Business Intelligence Engineer 2](https://jobright.ai/jobs/info/6932c1a0f131d96e4845df5e?utm_campaign=Data%20Analysis&utm_source=1103)** | Remote Nationwide | Remote | Dec 01 |
+| **[Humana](http://www.humana.com)** | **[Business Intelligence Engineer 2](https://jobright.ai/jobs/info/6932c1a0f131d96e4845df5e?utm_campaign=Data%20Analysis&utm_source=1103)** | Remote Nationwide | Remote | Dec 01 |
+| ↳ | **[Business Intelligence Engineer 2](https://jobright.ai/jobs/info/6932c47f764507023d1b06a2?utm_campaign=Data%20Analysis&utm_source=1103)** | Louisville, KY | Remote | Dec 01 |
 | **[Augusta University](http://www.augusta.edu)** | **[Data Science Analyst 1](https://jobright.ai/jobs/info/69211f7e00c9ee50eaecbe3b?utm_campaign=Data%20Analysis&utm_source=1103)** | Augusta, GA | On Site | Dec 01 |
 | **[Amazon](https://amazon.com)** | **[Business Intel Engineer III - AMZ26127.1](https://jobright.ai/jobs/info/68f89c256de2db04dc3e0cec?utm_campaign=Data%20Analysis&utm_source=1103)** | Nashville, TN | On Site | Dec 01 |
 | ↳ | **[Data Scientist II - AMZ26521.1](https://jobright.ai/jobs/info/68ccc250a77e5d7d744f4f12?utm_campaign=Data%20Analysis&utm_source=1103)** | Sunnyvale, CA | On Site | Dec 01 |
