@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Research Associate](https://jobright.ai/jobs/info/69348074a0dde7020e2f5a1b?utm_campaign=Data%20Analysis&utm_source=1103)** | District of Columbia, United States | Hybrid | Dec 06 |
+| **[UI Health](http://hospital.uillinois.edu/)** | **[Post-Doctoral Research Associate (Informatics - Center 4 Health Research)](https://jobright.ai/jobs/info/68fbdd3e4129dd33cd13593c?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Dec 06 |
 | **[A+E Global Media](https://www.aetv.com/)** | **[Coordinator, Metadata Operations](https://jobright.ai/jobs/info/6917b9b315b415636717aee2?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Dec 06 |
 | **[Cascades](http://www.cascades.com)** | **[Analyste chaîne d'approvisionnement](https://jobright.ai/jobs/info/693451ff764507023d1bcbb6?utm_campaign=Data%20Analysis&utm_source=1103)** | St-Bruno-de-Montarville, Quebec, Canada | On Site | Dec 06 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Radio Insights Analyst](https://jobright.ai/jobs/info/68de9ceea125e75c422b5505?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 06 |
@@ -277,9 +279,9 @@ For a complete list, click the following sortable link below:
 | **[Defense Intelligence Agency](http://www.dia.mil)** | **[Continuous Opening - ACF Entry (Data Scientist) (Washington DC)](https://jobright.ai/jobs/info/692ff083ef4b48533d149b1b?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | On Site | Dec 02 |
 | **[PhysicsX](https://www.physicsx.ai)** | **[Data Scientist](https://jobright.ai/jobs/info/692fa750ef4b48533d147d3e?utm_campaign=Data%20Analysis&utm_source=1103)** | Manhattan, NY | Hybrid | Dec 02 |
 | **[Volunteers of America Los Angeles](https://voala.org/)** | **[Data Monitor](https://jobright.ai/jobs/info/692fd5a2fa28370be26adc97?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Dec 02 |
-| **[University of North Texas](http://unt.edu)** | **[Business Data Analyst II](https://jobright.ai/jobs/info/692fe642ef4b48533d1497c3?utm_campaign=Data%20Analysis&utm_source=1103)** | Denton, TX | On Site | Dec 02 |
 | **[Audible](http://www.audible.com)** | **[Data Scientist I, SAMBA](https://jobright.ai/jobs/info/692fffaefa28370be26ae91b?utm_campaign=Data%20Analysis&utm_source=1103)** | Cambridge, MA | On Site | Dec 02 |
 | **[Edmentum](http://www.edmentum.com)** | **[Research Scientist](https://jobright.ai/jobs/info/692fcb0ffa28370be26ad815?utm_campaign=Data%20Analysis&utm_source=1103)** | Minneapolis, MN | Remote | Dec 02 |
+| **[University of North Texas](http://unt.edu)** | **[Business Data Analyst II](https://jobright.ai/jobs/info/692fc9c04c474121999e2833?utm_campaign=Data%20Analysis&utm_source=1103)** | Denton, TX | On Site | Dec 02 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher – Two Sigma Securities](https://jobright.ai/jobs/info/692fba29fa28370be26ad19a?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | Hybrid | Dec 02 |
 | **[Connor, Clark & Lunn Investment Management (CC&L)](https://cclinvest.cclgroup.com)** | **[Quantitative Equity Technology, Quantitative Developer](https://jobright.ai/jobs/info/692f94e24c474121999e0a8a?utm_campaign=Data%20Analysis&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Dec 02 |
 | **[Kharon](https://www.kharon.com/)** | **[Research Analyst](https://jobright.ai/jobs/info/6913d4f2d1047e3565d067b7?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | On Site | Dec 02 |
@@ -379,5 +381,4 @@ For a complete list, click the following sortable link below:
 | **[ADP WFN Test Company 1](https://www.linkedin.com/company/105053196/)** | **[BVT Analyst_11/30/2025](https://jobright.ai/jobs/info/692c3c104c474121999cfd5b?utm_campaign=Data%20Analysis&utm_source=1103)** | Anchorage, AK, US | On Site | Nov 30 |
 | **[Taku Health Services, LLC](http://www.goldbelt.com)** | **[SELRES Analysts](https://jobright.ai/jobs/info/68edcb8d6335d3323612bcf0?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Nov 30 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist](https://jobright.ai/jobs/info/6905b191ff462851fefff532?utm_campaign=Data%20Analysis&utm_source=1103)** | Arlington, VA | On Site | Nov 30 |
-| **[EMPLOYERS](http://www.employers.com)** | **[Analyst I - Data Governance](https://jobright.ai/jobs/info/693176a34c474121999effbb?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
