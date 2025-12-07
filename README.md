@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Insights Analyst (ROPS Reporting Analyst)](https://jobright.ai/jobs/info/693566f3f131d96e4846e34c?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 07 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate (TikTok-Product-Data Science)-2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cd7b09b2a74e1837ed7a06?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Dec 07 |
+| ↳ | **[Data Scientist Graduate [TikTok LIVE-Data Science] - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cd93771ad6b16f0289b967?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Dec 07 |
 | **[Becker Friedman Institute for Economics](https://bfi.uchicago.edu)** | **[Research Professional – Ali Hortacsu and Gunter Hitsch (Full-Time, Benefits Eligible)](https://jobright.ai/jobs/info/6926221af0beb07232622623?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Dec 07 |
 | **[University of Washington](http://www.washington.edu)** | **[Researcher (Temporary)](https://jobright.ai/jobs/info/69352d01a0dde7020e2f7aed?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, United States | Remote | Dec 06 |
 | **[Future Sign  CO.,LTD](https://www.futuresign.co.th/)** | **[Data Analyst](https://jobright.ai/jobs/info/6934f85aa0dde7020e2f6dd6?utm_campaign=Data%20Analysis&utm_source=1103)** | Georgia, United States | On Site | Dec 06 |
@@ -241,9 +244,9 @@ For a complete list, click the following sortable link below:
 | **[KeyBank](https://www.key.com)** | **[Quant Analytics Assoc - Model Risk](https://jobright.ai/jobs/info/69253bfbd47de4798eccea4e?utm_campaign=Data%20Analysis&utm_source=1103)** | Cleveland, OH | Remote | Dec 03 |
 | **[STI](http://www.sti.edu)** | **[Epidemiologist I Experienced Entry](https://jobright.ai/jobs/info/69310c91ef4b48533d151ed8?utm_campaign=Data%20Analysis&utm_source=1103)** | Cayce, SC | On Site | Dec 03 |
 | **[Uber](http://www.uber.com)** | **[Graduate 2026 PhD Scientist II (AEA/ASSA Economists Only), US](https://jobright.ai/jobs/info/69311050ef4b48533d152102?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Dec 03 |
+| ↳ | **[Graduate 2026 PhD Scientist II (AEA/ASSA Economists Only), US](https://jobright.ai/jobs/info/69310dddfa28370be26b6831?utm_campaign=Data%20Analysis&utm_source=1103)** | Sunnyvale, CA | On Site | Dec 03 |
 | ↳ | **[Graduate 2026 PhD Scientist II (AEA/ASSA Economists Only), US](https://jobright.ai/jobs/info/693114154c474121999ebdbe?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 03 |
 | ↳ | **[Graduate 2026 PhD Scientist II (Delivery Logistics), US](https://jobright.ai/jobs/info/69310a39fa28370be26b65cf?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 03 |
-| ↳ | **[Graduate 2026 PhD Scientist II (AEA/ASSA Economists Only), US](https://jobright.ai/jobs/info/69310dddfa28370be26b6831?utm_campaign=Data%20Analysis&utm_source=1103)** | Sunnyvale, CA | On Site | Dec 03 |
 | **[University of California, San Francisco](http://www.ucsf.edu)** | **[RSCH DATA ANL 1](https://jobright.ai/jobs/info/6927a86891ceeb2e8a5420a7?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Dec 03 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[GIS Analyst I, II-Corpus Christi- TP&D HQ](https://jobright.ai/jobs/info/6930eab3fa28370be26b5393?utm_campaign=Data%20Analysis&utm_source=1103)** | Corpus Christi, TX | Hybrid | Dec 03 |
 | **[University of California, San Francisco](http://www.ucsf.edu)** | **[Assistant Clinical Research Coordinator](https://jobright.ai/jobs/info/6930ea82ef4b48533d1509f4?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Dec 03 |
@@ -366,8 +369,8 @@ For a complete list, click the following sortable link below:
 | **[Tharseo IT](https://tharseoit.com)** | **[Oracle EBS Junior Technical Analyst](https://jobright.ai/jobs/info/692dfdc44c474121999d5080?utm_campaign=Data%20Analysis&utm_source=1103)** | San Antonio, TX, US | Hybrid | Dec 01 |
 | **[Amazon](https://amazon.com)** | **[Data & Reporting Analyst , Relay Operations Center Tech & Ops integration](https://jobright.ai/jobs/info/690bb749d046ab6061ce6b74?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | On Site | Dec 01 |
 | ↳ | **[Data & Reporting Analyst , Relay Operations Center Tech & Ops integration](https://jobright.ai/jobs/info/690bc432d046ab6061ce75fe?utm_campaign=Data%20Analysis&utm_source=1103)** | Tempe, AZ | On Site | Dec 01 |
-| **[Humana](http://www.humana.com)** | **[Business Intelligence Engineer 2](https://jobright.ai/jobs/info/6932c47f764507023d1b06a2?utm_campaign=Data%20Analysis&utm_source=1103)** | Louisville, KY | Remote | Dec 01 |
-| ↳ | **[Business Intelligence Engineer 2](https://jobright.ai/jobs/info/6932c1a0f131d96e4845df5e?utm_campaign=Data%20Analysis&utm_source=1103)** | Remote Nationwide | Remote | Dec 01 |
+| **[Humana](http://www.humana.com)** | **[Business Intelligence Engineer 2](https://jobright.ai/jobs/info/6932c1a0f131d96e4845df5e?utm_campaign=Data%20Analysis&utm_source=1103)** | Remote Nationwide | Remote | Dec 01 |
+| ↳ | **[Business Intelligence Engineer 2](https://jobright.ai/jobs/info/6932c47f764507023d1b06a2?utm_campaign=Data%20Analysis&utm_source=1103)** | Louisville, KY | Remote | Dec 01 |
 | **[Augusta University](http://www.augusta.edu)** | **[Data Science Analyst 1](https://jobright.ai/jobs/info/69211f7e00c9ee50eaecbe3b?utm_campaign=Data%20Analysis&utm_source=1103)** | Augusta, GA | On Site | Dec 01 |
 | **[Amazon](https://amazon.com)** | **[Business Intel Engineer III - AMZ26127.1](https://jobright.ai/jobs/info/68f89c256de2db04dc3e0cec?utm_campaign=Data%20Analysis&utm_source=1103)** | Nashville, TN | On Site | Dec 01 |
 | ↳ | **[Data Scientist II - AMZ26521.1](https://jobright.ai/jobs/info/68ccc250a77e5d7d744f4f12?utm_campaign=Data%20Analysis&utm_source=1103)** | Sunnyvale, CA | On Site | Dec 01 |
