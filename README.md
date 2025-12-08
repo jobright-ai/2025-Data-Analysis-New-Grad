@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Insights Analyst (ROPS Reporting Analyst)](https://jobright.ai/jobs/info/693630f9a0dde7020e2fa0b4?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 07 |
+| **[Yale MacMillan Center](https://macmillan.yale.edu)** | **[Yale Research Initiative on Innovation and Scale (Y-RISE): Postgraduate Associate, Spring 2026](https://jobright.ai/jobs/info/69361cbbf131d96e4846fa12?utm_campaign=Data%20Analysis&utm_source=1103)** | New Haven, CT | On Site | Dec 07 |
 | **[University of Illinois Chicago](https://uic.edu)** | **[Post-Doctoral Research Associate (Informatics - Center 4 Health Research)](https://jobright.ai/jobs/info/68fbe806f55bb021a889dd64?utm_campaign=Data%20Analysis&utm_source=1103)** | Peoria, IL | On Site | Dec 07 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Analyst Charge - RIO (Remote)](https://jobright.ai/jobs/info/69358b9df131d96e4846e8bc?utm_campaign=Data%20Analysis&utm_source=1103)** | Livonia, MI | Remote | Dec 07 |
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[Master Data Management Analyst - Portfolio Analytics & Reporting](https://jobright.ai/jobs/info/69193c0cbcdbf3560c9d4777?utm_campaign=Data%20Analysis&utm_source=1103)** | La Jolla, CA | Hybrid | Dec 07 |
@@ -180,6 +182,7 @@ For a complete list, click the following sortable link below:
 | **[Ipsos](http://www.ipsos.com)** | **[Research Analyst, Innovation](https://jobright.ai/jobs/info/6932d1dba0dde7020e2e8e54?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Dec 04 |
 | **[Foundation Finance Company LLC](https://foundationfinance.com/)** | **[Decision Science Data Analyst II](https://jobright.ai/jobs/info/693258a4a0dde7020e2e5fa8?utm_campaign=Data%20Analysis&utm_source=1103)** | Rothschild, WI | On Site | Dec 04 |
 | **[Georgia Institute of Technology](http://gatech.edu)** | **[Research Technician](https://jobright.ai/jobs/info/6920ab183f782d2f1afc9f36?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta Metro | On Site | Dec 04 |
+| **[Connor, Clark & Lunn Investment Management (CC&L)](https://cclinvest.cclgroup.com)** | **[Quantitative Data Analyst](https://jobright.ai/jobs/info/69362098764507023d1c19ea?utm_campaign=Data%20Analysis&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Dec 04 |
 | **[SMX](https://www.smxtech.com)** | **[Data Analyst (4862)](https://jobright.ai/jobs/info/693219c8fa28370be26c1e17?utm_campaign=Data%20Analysis&utm_source=1103)** | Quantico, VA | On Site | Dec 04 |
 | **[Cisco](http://www.cisco.com)** | **[2002648](https://jobright.ai/jobs/info/693225ecd0010831497c016e?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | Hybrid | Dec 04 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Data Analyst - Public Health](https://jobright.ai/jobs/info/69320e324c474121999f656f?utm_campaign=Data%20Analysis&utm_source=1103)** | Administrative Offices - 601 Broadway, Denver, CO 80203 | On Site | Dec 04 |
@@ -370,12 +373,11 @@ For a complete list, click the following sortable link below:
 | **[Tharseo IT](https://tharseoit.com)** | **[Oracle EBS Junior Technical Analyst](https://jobright.ai/jobs/info/692dfdc44c474121999d5080?utm_campaign=Data%20Analysis&utm_source=1103)** | San Antonio, TX, US | Hybrid | Dec 01 |
 | **[Amazon](https://amazon.com)** | **[Data & Reporting Analyst , Relay Operations Center Tech & Ops integration](https://jobright.ai/jobs/info/690bb749d046ab6061ce6b74?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | On Site | Dec 01 |
 | ↳ | **[Data & Reporting Analyst , Relay Operations Center Tech & Ops integration](https://jobright.ai/jobs/info/690bc432d046ab6061ce75fe?utm_campaign=Data%20Analysis&utm_source=1103)** | Tempe, AZ | On Site | Dec 01 |
-| **[Humana](http://www.humana.com)** | **[Business Intelligence Engineer 2](https://jobright.ai/jobs/info/6932c1a0f131d96e4845df5e?utm_campaign=Data%20Analysis&utm_source=1103)** | Remote Nationwide | Remote | Dec 01 |
-| ↳ | **[Business Intelligence Engineer 2](https://jobright.ai/jobs/info/6932c47f764507023d1b06a2?utm_campaign=Data%20Analysis&utm_source=1103)** | Louisville, KY | Remote | Dec 01 |
+| **[Humana](http://www.humana.com)** | **[Business Intelligence Engineer 2](https://jobright.ai/jobs/info/6932c47f764507023d1b06a2?utm_campaign=Data%20Analysis&utm_source=1103)** | Louisville, KY | Remote | Dec 01 |
+| ↳ | **[Business Intelligence Engineer 2](https://jobright.ai/jobs/info/6932c1a0f131d96e4845df5e?utm_campaign=Data%20Analysis&utm_source=1103)** | Remote Nationwide | Remote | Dec 01 |
 | **[Augusta University](http://www.augusta.edu)** | **[Data Science Analyst 1](https://jobright.ai/jobs/info/69211f7e00c9ee50eaecbe3b?utm_campaign=Data%20Analysis&utm_source=1103)** | Augusta, GA | On Site | Dec 01 |
 | **[Amazon](https://amazon.com)** | **[Business Intel Engineer III - AMZ26127.1](https://jobright.ai/jobs/info/68f89c256de2db04dc3e0cec?utm_campaign=Data%20Analysis&utm_source=1103)** | Nashville, TN | On Site | Dec 01 |
 | ↳ | **[Data Scientist II - AMZ26521.1](https://jobright.ai/jobs/info/68ccc250a77e5d7d744f4f12?utm_campaign=Data%20Analysis&utm_source=1103)** | Sunnyvale, CA | On Site | Dec 01 |
 | ↳ | **[Data Scientist II - AMZ26308.1](https://jobright.ai/jobs/info/68fedae4e0c73b3a11197f2f?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | On Site | Dec 01 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Temporary Researcher, Wealth](https://jobright.ai/jobs/info/690ba49a4a1b456627b1134a?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 01 |
-| **[East West Bank](http://eastwestbank.com)** | **[BSA Analyst I](https://jobright.ai/jobs/info/68f705f49a63986de758469f?utm_campaign=Data%20Analysis&utm_source=1103)** | El Monte, CA | On Site | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
