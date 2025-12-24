@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vertical Screen, Inc.](http://www.verticalscreen.com/)** | **[French Bilingual Researcher](https://jobright.ai/jobs/info/694bada85d731211347034d1?utm_campaign=Data%20Analysis&utm_source=1103)** | Warminster, PA | On Site | Dec 24 |
 | **[Alimentiv](https://alimentiv.com/)** | **[Clinical Data Coordinator (Canada)](https://jobright.ai/jobs/info/694b933d5d73121134702917?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 23 |
 | **[ANI Pharmaceuticals, Inc.](http://www.anipharmaceuticals.com)** | **[Data Quality Analyst](https://jobright.ai/jobs/info/694b5b72d64ebf28d8211052?utm_campaign=Data%20Analysis&utm_source=1103)** | Princeton, NJ | Hybrid | Dec 23 |
 | **[TriWest Healthcare Alliance](http://triwest.com)** | **[Data Analyst](https://jobright.ai/jobs/info/694b77911a572a617dddd3e9?utm_campaign=Data%20Analysis&utm_source=1103)** | Phoenix, AZ | Remote | Dec 23 |
@@ -80,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Data Scientist](https://jobright.ai/jobs/info/694b12904b53a1551f94c733?utm_campaign=Data%20Analysis&utm_source=1103)** | El Segundo, CA | On Site | Dec 23 |
 | **[RAND](http://www.rand.org)** | **[Bachelor’s Level Research Assistant - Qualitative (Term)](https://jobright.ai/jobs/info/694b0f711224705e900224e6?utm_campaign=Data%20Analysis&utm_source=1103)** | Pittsburgh, PA | On Site | Dec 23 |
 | ↳ | **[Bachelor’s Level Research Assistant - Qualitative (Term)](https://jobright.ai/jobs/info/694b0ded4b53a1551f94bd91?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC (DC Metro Area) | On Site | Dec 23 |
-| **[EAB](https://www.eab.com)** | **[Associate Data Analyst, Financial Aid Optimization](https://jobright.ai/jobs/info/694b0d3a1224705e90022080?utm_campaign=Data%20Analysis&utm_source=1103)** | Richmond, VA | Hybrid | Dec 23 |
 | **[NTT DATA North America](https://us.nttdata.com)** | **[Data & Business Insights Associate](https://jobright.ai/jobs/info/694b0bb81224705e90021e85?utm_campaign=Data%20Analysis&utm_source=1103)** | Plano, TX | Hybrid | Dec 23 |
 | **[Columbia University Irving Medical Center](https://www.cuimc.columbia.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/694b26a34b53a1551f94e7c9?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 23 |
 | ↳ | **[Data Analyst - Center for Patient Safety Science](https://jobright.ai/jobs/info/6945d47b63141d18845576d2?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 23 |
@@ -252,11 +252,4 @@ For a complete list, click the following sortable link below:
 | **[Affirm](https://www.affirm.com)** | **[Analyst I, Full Stack](https://jobright.ai/jobs/info/6943391750bbaf7650551541?utm_campaign=Data%20Analysis&utm_source=1103)** | Remote US | Remote | Dec 17 |
 | **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Associate Analyst Supply Chain Data COE](https://jobright.ai/jobs/info/69430e4094730b739876126b?utm_campaign=Data%20Analysis&utm_source=1103)** | USA - NJ - Camden | On Site | Dec 17 |
 | **[LG Electronics](http://www.lg.com)** | **[Shopfront Analyst, Contrqactor Role](https://jobright.ai/jobs/info/69432c2c94730b7398762d81?utm_campaign=Data%20Analysis&utm_source=1103)** | Englewood Cliffs, NJ | On Site | Dec 17 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/694afd6f3019f50a4fe6050b?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | On Site | Dec 17 |
-| **[Alimentiv](https://alimentiv.com/)** | **[Clinical Data Coordinator (Canada)](https://jobright.ai/jobs/info/69405ccf50bbaf76505263e8?utm_campaign=Data%20Analysis&utm_source=1103)** | London, Ontario, Canada | Remote | Dec 17 |
-| **[National Association of REALTORS®](https://www.nar.realtor)** | **[Research Assistant](https://jobright.ai/jobs/info/6943015d94730b7398760a62?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Dec 17 |
-| **[University of Pennsylvania](http://www.upenn.edu)** | **[Predoctoral Research Specialist](https://jobright.ai/jobs/info/693cef6249a7695fbd039ba0?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | On Site | Dec 17 |
-| **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Oncology Data Specialist - Certified / BIDMC (Per-diem)](https://jobright.ai/jobs/info/6942f7e7dd382f5f5668ee05?utm_campaign=Data%20Analysis&utm_source=1103)** | Beth Israel Deaconess Medical Center | On Site | Dec 17 |
-| **[University of Pennsylvania](http://www.upenn.edu)** | **[Clinical Research Assistant](https://jobright.ai/jobs/info/6942f76350bbaf765054c8c7?utm_campaign=Data%20Analysis&utm_source=1103)** | HUP | Hybrid | Dec 17 |
-| **[Quartz Health Solutions](https://quartzbenefits.com/)** | **[(Associate) Data Analyst - Enterprise Solutions](https://jobright.ai/jobs/info/694316f050bbaf765054ee68?utm_campaign=Data%20Analysis&utm_source=1103)** | US-WI-Madison | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
