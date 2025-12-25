@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NYU Langone Health](https://nyulangone.org/)** | **[Research Data Associate * Must be bilingual in English and Spanish *](https://jobright.ai/jobs/info/68f85fbda628d10664e824f5?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 25 |
+| **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Statistical Programmer - Borad Lab (1-Year Limited Tenure)](https://jobright.ai/jobs/info/694d2407d4a7df7a0672540a?utm_campaign=Data%20Analysis&utm_source=1103)** | Scottsdale, AZ, United States | Hybrid | Dec 25 |
+| **[Albert Einstein College of Medicine](https://einsteinmed.edu/)** | **[Bioinformatics Analyst](https://jobright.ai/jobs/info/691ee63c09cc522e8773c9b8?utm_campaign=Data%20Analysis&utm_source=1103)** | Bronx, NY | On Site | Dec 25 |
+| **[Oak Street Health, part of CVS Health](http://www.oakstreethealth.com)** | **[Specialist, Clinical Informatics](https://jobright.ai/jobs/info/68f69d729a65fd34585953a4?utm_campaign=Data%20Analysis&utm_source=1103)** | Hammond, IN | On Site | Dec 25 |
+| **[Navitus Health Solutions](https://www.navitus.com/)** | **[Business Intelligence Developer](https://jobright.ai/jobs/info/69202de009cc522e877489f2?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 25 |
+| **[ADP WFN Test Company 1](https://www.linkedin.com/company/105053196/)** | **[BVT Analyst_12/25/2025](https://jobright.ai/jobs/info/694d15f3d4a7df7a06724621?utm_campaign=Data%20Analysis&utm_source=1103)** | Anchorage, AK, US | On Site | Dec 25 |
 | **[UNC Health](https://www.unchealth.org)** | **[Business Intelligence Analyst](https://jobright.ai/jobs/info/694cec85f5bef51c96eaacb8?utm_campaign=Data%20Analysis&utm_source=1103)** | Chapel Hill, NC | Hybrid | Dec 24 |
 | **[GiveWell](https://www.givewell.org/)** | **[Research Analyst](https://jobright.ai/jobs/info/68d1b4d9a54edb3bf3e15438?utm_campaign=Data%20Analysis&utm_source=1103)** | United States + International (Remote) | Remote | Dec 24 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Bioinformatics Analyst](https://jobright.ai/jobs/info/694cb6de29655e4dd656da38?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 24 |
@@ -192,7 +198,6 @@ For a complete list, click the following sortable link below:
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[Associate Sustainability Data Analyst](https://jobright.ai/jobs/info/6948b430d1953b5d11c1bb98?utm_campaign=Data%20Analysis&utm_source=1103)** | Bayport, MN | On Site | Dec 21 |
 | ↳ | **[Associate Sustainability Data Analyst](https://jobright.ai/jobs/info/6948a3c463141d1884584b1c?utm_campaign=Data%20Analysis&utm_source=1103)** | Bayport, MN | On Site | Dec 21 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Temporary Researcher, Wealth](https://jobright.ai/jobs/info/690ba49a4a1b456627b1134a?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 21 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Client Insights Analyst](https://jobright.ai/jobs/info/69485a3463141d188458011a?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 21 |
 | **[Temple University](https://www.temple.edu)** | **[Research Analyst I](https://jobright.ai/jobs/info/6948a18cd1953b5d11c1adec?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | Hybrid | Dec 21 |
 | **[Later](http://www.later.com)** | **[Data Analyst](https://jobright.ai/jobs/info/6920593ca49a885af9a39041?utm_campaign=Data%20Analysis&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Dec 21 |
 | **[Leidos](https://www.leidos.com/)** | **[Research Assistant - Epidemiology](https://jobright.ai/jobs/info/690ea727221b890c278104d8?utm_campaign=Data%20Analysis&utm_source=1103)** | New London County, CT | On Site | Dec 21 |
@@ -262,7 +267,6 @@ For a complete list, click the following sortable link below:
 | **[Strata Decision Technology](http://www.stratadecision.com)** | **[Analyst, Data Integration](https://jobright.ai/jobs/info/692d26a966796e3028f93e78?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Dec 18 |
 | ↳ | **[Data Analyst](https://jobright.ai/jobs/info/69449eb950bbaf765056a411?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Dec 18 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Research Professional (Limited-Term)](https://jobright.ai/jobs/info/694496fd94730b739877cbf8?utm_campaign=Data%20Analysis&utm_source=1103)** | Athens, GA | On Site | Dec 18 |
-| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Analyst, Analytics](https://jobright.ai/jobs/info/6945d4fed1953b5d11bee79d?utm_campaign=Data%20Analysis&utm_source=1103)** | CA-Beverly Hills - 9601 Wilshire | On Site | Dec 18 |
+| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Analyst, Analytics](https://jobright.ai/jobs/info/6945d07c63141d18845567f2?utm_campaign=Data%20Analysis&utm_source=1103)** | CA-Beverly Hills - 9601 Wilshire | On Site | Dec 18 |
 | **[BlueLabs](https://bluelabs.com)** | **[Analytics Associate I](https://jobright.ai/jobs/info/69448b28dd382f5f566ab412?utm_campaign=Data%20Analysis&utm_source=1103)** | Remote or Washington D.C. | Remote | Dec 18 |
-| **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Research Specialist](https://jobright.ai/jobs/info/6944725bdd382f5f566a98ca?utm_campaign=Data%20Analysis&utm_source=1103)** | Madison, WI | Hybrid | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
