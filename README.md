@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Webster University](http://www.webster.edu)** | **[Client Advisory Analyst](https://jobright.ai/jobs/info/694e3957f5bef51c96eb98f3?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Lauderdale, FL | Hybrid | Dec 25 |
+| **[LG Electronics](http://www.lg.com)** | **[Shopfront Analyst, Contractor Role](https://jobright.ai/jobs/info/694e29ebf5bef51c96eb919e?utm_campaign=Data%20Analysis&utm_source=1103)** | Englewood Cliffs, NJ | On Site | Dec 25 |
 | **[Alimentiv](https://alimentiv.com/)** | **[Clinical Data Coordinator (Canada)](https://jobright.ai/jobs/info/694e1b48f5bef51c96eb8cfe?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 25 |
 | **[BlackRock](http://www.blackrock.com)** | **[Analyst, MASS Models Data Collection, Reconciliation, and Reporting](https://jobright.ai/jobs/info/694dbc8b29655e4dd6579e06?utm_campaign=Data%20Analysis&utm_source=1103)** | Princeton, NJ | Hybrid | Dec 25 |
 | **[Amicis Global Technologies](https://www.amicisglobal.com/)** | **[Data Risk Assessment in Jersey City, NJ 07311](https://jobright.ai/jobs/info/694da7a4d4a7df7a0672aa2c?utm_campaign=Data%20Analysis&utm_source=1103)** | Jersey City, NJ | On Site | Dec 25 |
@@ -158,12 +160,12 @@ For a complete list, click the following sortable link below:
 | **[RAND](http://www.rand.org)** | **[Bachelor’s Level Research Assistant – Quantitative (Engineering, Computer Science, Data Science, Math, Statistics, etc.) (Term)](https://jobright.ai/jobs/info/694b13224b53a1551f94c861?utm_campaign=Data%20Analysis&utm_source=1103)** | Pittsburgh, PA | On Site | Dec 23 |
 | ↳ | **[Bachelor’s Level Research Assistant - Qualitative (Term)](https://jobright.ai/jobs/info/694b0f711224705e900224e6?utm_campaign=Data%20Analysis&utm_source=1103)** | Pittsburgh, PA | On Site | Dec 23 |
 | ↳ | **[Bachelor’s Level Research Assistant - Qualitative (Term)](https://jobright.ai/jobs/info/694b0ded4b53a1551f94bd91?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC (DC Metro Area) | On Site | Dec 23 |
+| **[EAB](https://www.eab.com)** | **[Associate Data Analyst, Financial Aid Optimization](https://jobright.ai/jobs/info/694b0d3a1224705e90022080?utm_campaign=Data%20Analysis&utm_source=1103)** | Richmond, VA | Hybrid | Dec 23 |
 | **[NTT DATA North America](https://us.nttdata.com)** | **[Data & Business Insights Associate](https://jobright.ai/jobs/info/694b0bb81224705e90021e85?utm_campaign=Data%20Analysis&utm_source=1103)** | Plano, TX | Hybrid | Dec 23 |
 | **[Columbia University Irving Medical Center](https://www.cuimc.columbia.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/694b26a34b53a1551f94e7c9?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 23 |
 | ↳ | **[Data Analyst - Center for Patient Safety Science](https://jobright.ai/jobs/info/6945d47b63141d18845576d2?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 23 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[GIS Analyst II, or III - TPP Division - Austin, TX](https://jobright.ai/jobs/info/694aeed91224705e9002090d?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX | On Site | Dec 23 |
-| **[EAB](https://www.eab.com)** | **[Associate Data Analyst, Financial Aid Optimization](https://jobright.ai/jobs/info/694b0ed61224705e900223b8?utm_campaign=Data%20Analysis&utm_source=1103)** | Richmond, VA | Hybrid | Dec 23 |
-| ↳ | **[Associate Data Analyst, Financial Aid Optimization](https://jobright.ai/jobs/info/694b16523019f50a4fe628aa?utm_campaign=Data%20Analysis&utm_source=1103)** | Bloomington, MN | Hybrid | Dec 23 |
+| **[EAB](https://www.eab.com)** | **[Associate Data Analyst, Financial Aid Optimization](https://jobright.ai/jobs/info/694b16523019f50a4fe628aa?utm_campaign=Data%20Analysis&utm_source=1103)** | Bloomington, MN | Hybrid | Dec 23 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Business Data Analyst II](https://jobright.ai/jobs/info/693b4ae95f2c001987ed484e?utm_campaign=Data%20Analysis&utm_source=1103)** | Westerville, OH | On Site | Dec 23 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Analyst, People Analytics](https://jobright.ai/jobs/info/694ac97067a69734cac5e26d?utm_campaign=Data%20Analysis&utm_source=1103)** | 05555 - Casa del Mundo Office (Denver HQ) | Hybrid | Dec 23 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[BUSINESS INTELLIGENCE SPECIALIST-INTERMEDIATE - 12232025-73800](https://jobright.ai/jobs/info/694a97a21224705e9001bc1c?utm_campaign=Data%20Analysis&utm_source=1103)** | Davidson County, TN | Hybrid | Dec 23 |
@@ -252,6 +254,4 @@ For a complete list, click the following sortable link below:
 | **[Baltimore County Public Schools](https://www.bcps.org)** | **[Information Technology/Managed Services Data Analyst (Contractual)](https://jobright.ai/jobs/info/6945b2b5d1953b5d11beaf57?utm_campaign=Data%20Analysis&utm_source=1103)** | White Marsh Station, MD | On Site | Dec 19 |
 | **[bioMérieux](https://www.biomerieux.com)** | **[Scientist I](https://jobright.ai/jobs/info/691e3b97a49a885af9a26a1d?utm_campaign=Data%20Analysis&utm_source=1103)** | Salt Lake City, UT | On Site | Dec 19 |
 | **[Columbia University](https://www.columbia.edu)** | **[Data Analyst - Center for Patient Safety Science](https://jobright.ai/jobs/info/6945b200d1953b5d11beae5a?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 19 |
-| **[Milltown Partners](https://www.milltownpartners.com/)** | **[Analyst](https://jobright.ai/jobs/info/69458a3ad1953b5d11be8813?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, New York | Hybrid | Dec 19 |
-| **[Trimble Inc.](http://www.trimble.com)** | **[Data Management Analyst](https://jobright.ai/jobs/info/6945741863141d188454f71a?utm_campaign=Data%20Analysis&utm_source=1103)** | Dayton, OH | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
