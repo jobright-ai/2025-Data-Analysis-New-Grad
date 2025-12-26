@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lyft](https://www.lyft.com/)** | **[Data Scientist - Decisions, Mapping](https://jobright.ai/jobs/info/6939115956b68f3dc4e68c20?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 26 |
+| **[Cboe Global Markets](http://www.cboe.com)** | **[Surveillance Analyst](https://jobright.ai/jobs/info/68f993a5a628d10664e8e093?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Dec 26 |
+| **[BlackRock](http://www.blackrock.com)** | **[2026 Full-Time Analyst Program - AMERS](https://jobright.ai/jobs/info/68f80faab0edcf159dc8e36c?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 26 |
 | **[Tripleseat](https://tripleseat.com)** | **[Data & Insights Analyst](https://jobright.ai/jobs/info/693214314c474121999f6b13?utm_campaign=Data%20Analysis&utm_source=1103)** | Concord, MA | Hybrid | Dec 26 |
 | **[Ipsos in US](http://ipsos-na.com)** | **[Research Analyst, Innovation](https://jobright.ai/jobs/info/6932b9dd764507023d1b03f8?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Dec 26 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Provider Data Management Analyst I](https://jobright.ai/jobs/info/694e8dbca2668b7f5451f4b3?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 26 |
@@ -178,12 +181,12 @@ For a complete list, click the following sortable link below:
 | **[RAND](http://www.rand.org)** | **[Bachelor’s Level Research Assistant – Quantitative (Engineering, Computer Science, Data Science, Math, Statistics, etc.) (Term)](https://jobright.ai/jobs/info/694b13224b53a1551f94c861?utm_campaign=Data%20Analysis&utm_source=1103)** | Pittsburgh, PA | On Site | Dec 23 |
 | ↳ | **[Bachelor’s Level Research Assistant - Qualitative (Term)](https://jobright.ai/jobs/info/694b0f711224705e900224e6?utm_campaign=Data%20Analysis&utm_source=1103)** | Pittsburgh, PA | On Site | Dec 23 |
 | ↳ | **[Bachelor’s Level Research Assistant - Qualitative (Term)](https://jobright.ai/jobs/info/694b0ded4b53a1551f94bd91?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC (DC Metro Area) | On Site | Dec 23 |
-| **[EAB](https://www.eab.com)** | **[Associate Data Analyst, Financial Aid Optimization](https://jobright.ai/jobs/info/694b0d3a1224705e90022080?utm_campaign=Data%20Analysis&utm_source=1103)** | Richmond, VA | Hybrid | Dec 23 |
 | **[NTT DATA North America](https://us.nttdata.com)** | **[Data & Business Insights Associate](https://jobright.ai/jobs/info/694b0bb81224705e90021e85?utm_campaign=Data%20Analysis&utm_source=1103)** | Plano, TX | Hybrid | Dec 23 |
 | **[Columbia University Irving Medical Center](https://www.cuimc.columbia.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/694b26a34b53a1551f94e7c9?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 23 |
 | ↳ | **[Data Analyst - Center for Patient Safety Science](https://jobright.ai/jobs/info/6945d47b63141d18845576d2?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 23 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[GIS Analyst II, or III - TPP Division - Austin, TX](https://jobright.ai/jobs/info/694aeed91224705e9002090d?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX | On Site | Dec 23 |
-| **[EAB](https://www.eab.com)** | **[Associate Data Analyst, Financial Aid Optimization](https://jobright.ai/jobs/info/694b16523019f50a4fe628aa?utm_campaign=Data%20Analysis&utm_source=1103)** | Bloomington, MN | Hybrid | Dec 23 |
+| **[EAB](https://www.eab.com)** | **[Associate Data Analyst, Financial Aid Optimization](https://jobright.ai/jobs/info/694b0ed61224705e900223b8?utm_campaign=Data%20Analysis&utm_source=1103)** | Richmond, VA | Hybrid | Dec 23 |
+| ↳ | **[Associate Data Analyst, Financial Aid Optimization](https://jobright.ai/jobs/info/694b16523019f50a4fe628aa?utm_campaign=Data%20Analysis&utm_source=1103)** | Bloomington, MN | Hybrid | Dec 23 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Business Data Analyst II](https://jobright.ai/jobs/info/693b4ae95f2c001987ed484e?utm_campaign=Data%20Analysis&utm_source=1103)** | Westerville, OH | On Site | Dec 23 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Analyst, People Analytics](https://jobright.ai/jobs/info/694ac97067a69734cac5e26d?utm_campaign=Data%20Analysis&utm_source=1103)** | 05555 - Casa del Mundo Office (Denver HQ) | Hybrid | Dec 23 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[BUSINESS INTELLIGENCE SPECIALIST-INTERMEDIATE - 12232025-73800](https://jobright.ai/jobs/info/694a97a21224705e9001bc1c?utm_campaign=Data%20Analysis&utm_source=1103)** | Davidson County, TN | Hybrid | Dec 23 |
@@ -257,6 +260,4 @@ For a complete list, click the following sortable link below:
 | **[Oak Street Health, part of CVS Health](http://www.oakstreethealth.com)** | **[Specialist, Clinical Informatics](https://jobright.ai/jobs/info/69460bcf7d506e3808f161f1?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Dec 19 |
 | **[Tufts Medicine](https://www.tuftsmedicine.org)** | **[Post Doctoral Research Fellow](https://jobright.ai/jobs/info/694609a57d506e3808f160d8?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | On Site | Dec 19 |
 | **[AppLovin](https://www.applovin.com)** | **[Data Scientist - Analytics](https://jobright.ai/jobs/info/694608fd7d506e3808f1608b?utm_campaign=Data%20Analysis&utm_source=1103)** | Palo Alto, CA | On Site | Dec 19 |
-| **[BCS Allegient](https://allegientdefense.com/)** | **[Junior Analyst](https://jobright.ai/jobs/info/6945fc0fd1953b5d11bf0c23?utm_campaign=Data%20Analysis&utm_source=1103)** | BCSA DC HQ - Washington, DC 20036-1376 US (Primary) | On Site | Dec 19 |
-| **[Ally](http://www.ally.com/)** | **[Testing and Monitoring Analyst II](https://jobright.ai/jobs/info/694609c763141d188455b92f?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlotte, NC | Hybrid | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
