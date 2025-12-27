@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Football League (NFL)](http://www.nfl.com)** | **[Seasonal Data Operations Coordinator](https://jobright.ai/jobs/info/694f0e68a2668b7f54524bef?utm_campaign=Data%20Analysis&utm_source=1103)** | Inglewood, California, United States | On Site | Dec 26 |
 | **[First American](http://www.firstam.com)** | **[Data Quality Analyst (Onsite)](https://jobright.ai/jobs/info/694f02ca29655e4dd6589375?utm_campaign=Data%20Analysis&utm_source=1103)** | Trenton, NJ | On Site | Dec 26 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Provider Data Management Analyst I](https://jobright.ai/jobs/info/694eff5129655e4dd65892ec?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 26 |
 | **[First American](http://www.firstam.com)** | **[Data Quality Analyst (Onsite)](https://jobright.ai/jobs/info/694ee0d6ce13cd1056571e51?utm_campaign=Data%20Analysis&utm_source=1103)** | USA, New Jersey, Trenton | On Site | Dec 26 |
@@ -87,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[LG Electronics](http://www.lg.com)** | **[Shopfront Analyst, Contractor Role](https://jobright.ai/jobs/info/694e29ebf5bef51c96eb919e?utm_campaign=Data%20Analysis&utm_source=1103)** | Englewood Cliffs, NJ | On Site | Dec 25 |
 | **[Webster University](http://www.webster.edu)** | **[Client Advisory Analyst](https://jobright.ai/jobs/info/694e3957f5bef51c96eb98f3?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Lauderdale, FL | Hybrid | Dec 25 |
 | **[Alimentiv](https://alimentiv.com/)** | **[Clinical Data Coordinator (Canada)](https://jobright.ai/jobs/info/694e1b48f5bef51c96eb8cfe?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 25 |
+| **[Jamestown S'Klallam Tribe](https://jamestowntribe.org/)** | **[Clinical Data Analyst](https://jobright.ai/jobs/info/694f134ba2668b7f54524d0c?utm_campaign=Data%20Analysis&utm_source=1103)** | Jamestown Family Health Clinic - Sequim, WA 98382 | On Site | Dec 25 |
 | **[Allina Health](https://www.allinahealth.org/)** | **[Business Intelligence Analyst Associate](https://jobright.ai/jobs/info/694eec8529655e4dd6587499?utm_campaign=Data%20Analysis&utm_source=1103)** | Minneapolis, MN | On Site | Dec 25 |
 | **[BlackRock](http://www.blackrock.com)** | **[Analyst, MASS Models Data Collection, Reconciliation, and Reporting](https://jobright.ai/jobs/info/694dbc8b29655e4dd6579e06?utm_campaign=Data%20Analysis&utm_source=1103)** | Princeton, NJ | Hybrid | Dec 25 |
 | **[Amicis Global Technologies](https://www.amicisglobal.com/)** | **[Data Risk Assessment in Jersey City, NJ 07311](https://jobright.ai/jobs/info/694da7a4d4a7df7a0672aa2c?utm_campaign=Data%20Analysis&utm_source=1103)** | Jersey City, NJ | On Site | Dec 25 |
