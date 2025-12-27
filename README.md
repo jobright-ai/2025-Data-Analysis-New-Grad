@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Provider Data Management Analyst I](https://jobright.ai/jobs/info/694fe20fce13cd105657f9e8?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 27 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Provider Data Management Analyst I](https://jobright.ai/jobs/info/695045f529655e4dd6597f45?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 27 |
 | **[Fred Hutch](http://www.fredhutch.org)** | **[Post-Doctoral Research Fellow - Biostatistics](https://jobright.ai/jobs/info/693514c8a0dde7020e2f7589?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Dec 27 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Track and Trace Analyst](https://jobright.ai/jobs/info/6917433f370fde633d07eba8?utm_campaign=Data%20Analysis&utm_source=1103)** | Burlington, NJ | Hybrid | Dec 27 |
 | **[ADP WFN Test Company 1](https://www.linkedin.com/company/105053196/)** | **[BVT Analyst_12/27/2025](https://jobright.ai/jobs/info/694fde6329655e4dd65940ad?utm_campaign=Data%20Analysis&utm_source=1103)** | Anchorage, AK, US | On Site | Dec 27 |
@@ -262,5 +262,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research Executive](https://jobright.ai/jobs/info/690e69c744146d3b6ec53ef1?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Dec 21 |
 | **[Alvarez & Marsal](http://www.alvarezandmarsal.com/)** | **[Analyst, Crypto Research](https://jobright.ai/jobs/info/692acaa966796e3028f8f94b?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 21 |
 | **[East West Bank](http://eastwestbank.com)** | **[Data Analyst](https://jobright.ai/jobs/info/691ea1673f782d2f1afb6385?utm_campaign=Data%20Analysis&utm_source=1103)** | Pasadena, CA | On Site | Dec 21 |
-| **[Visa](https://www.visa.com)** | **[Analyst, Master Data Management](https://jobright.ai/jobs/info/694c8ccb5d7312113470e5ac?utm_campaign=Data%20Analysis&utm_source=1103)** | Foster City, CA, US | Hybrid | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
