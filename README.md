@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Akkodis Group Nordics](http://www.datarespons.com/)** | **[Data Analyst](https://jobright.ai/jobs/info/694f2f44a2668b7f54526b23?utm_campaign=Data%20Analysis&utm_source=1103)** | Maple Grove, MN | Hybrid | Dec 26 |
+| **[Steelcase](https://www.steelcase.com/)** | **[Data Scientist](https://jobright.ai/jobs/info/694f26dece13cd1056574adc?utm_campaign=Data%20Analysis&utm_source=1103)** | Grand Rapids, MI | On Site | Dec 26 |
 | **[National Football League (NFL)](http://www.nfl.com)** | **[Seasonal Data Operations Coordinator](https://jobright.ai/jobs/info/694f0e68a2668b7f54524bef?utm_campaign=Data%20Analysis&utm_source=1103)** | Inglewood, California, United States | On Site | Dec 26 |
 | **[First American](http://www.firstam.com)** | **[Data Quality Analyst (Onsite)](https://jobright.ai/jobs/info/694f02ca29655e4dd6589375?utm_campaign=Data%20Analysis&utm_source=1103)** | Trenton, NJ | On Site | Dec 26 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Provider Data Management Analyst I](https://jobright.ai/jobs/info/694eff5129655e4dd65892ec?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 26 |
@@ -148,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[Fitch Ratings](http://www.fitchratings.com)** | **[Analyst (New York)](https://jobright.ai/jobs/info/694c5415d64ebf28d821e9eb?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Dec 24 |
 | **[CGI](https://www.cgi.com)** | **[Junior Data Scientist](https://jobright.ai/jobs/info/694d833d29655e4dd6576bc5?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | Hybrid | Dec 24 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Provider Data Management Analyst I](https://jobright.ai/jobs/info/694c66851a572a617ddea210?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 24 |
-| **[Pomelo Care](https://pomelocare.com)** | **[Analytics Engineer, Payer Impact (New York City, hybrid)](https://jobright.ai/jobs/info/694c468a5d7312113470b170?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Dec 24 |
 | **[MEF Associates](https://mefassociates.com/)** | **[Research Assistant](https://jobright.ai/jobs/info/694c37dc5d7312113470a8d8?utm_campaign=Data%20Analysis&utm_source=1103)** | Alexandria, Virginia, United States | Hybrid | Dec 24 |
 | **[Fitch Solutions](https://www.fitchsolutions.com)** | **[Analyst (New York)](https://jobright.ai/jobs/info/694c4d0b1a572a617dde7e9c?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Dec 24 |
 | **[Humana](http://www.humana.com)** | **[IHWA Data and Reporting Professional](https://jobright.ai/jobs/info/694c1c255d731211347095f2?utm_campaign=Data%20Analysis&utm_source=1103)** | Remote Nationwide | Remote | Dec 24 |
@@ -257,7 +258,4 @@ For a complete list, click the following sortable link below:
 | **[Ipsos in US](http://ipsos-na.com)** | **[Research Analyst, Innovation - Global Modeling Unit](https://jobright.ai/jobs/info/69317eedfa28370be26bc7e7?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Dec 20 |
 | **[DISH TV](https://www.dish.com)** | **[Data and Business Operations Analyst](https://jobright.ai/jobs/info/68d5ff812116ff37ee091b05?utm_campaign=Data%20Analysis&utm_source=1103)** | Englewood, CO | On Site | Dec 20 |
 | **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Developer (Quant Researcher) – 2026 Grads](https://jobright.ai/jobs/info/690cdf34221b890c278008be?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 20 |
-| ↳ | **[Algorithm Developer (Quant Researcher) – 2026 PhDs](https://jobright.ai/jobs/info/690cdb2ed046ab6061cf008f?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 20 |
-| **[NYU Langone Health](https://nyulangone.org/)** | **[AP Beaker Epic Analyst II](https://jobright.ai/jobs/info/6848a166cfe33a86d4876394?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 20 |
-| ↳ | **[Research Data Associate](https://jobright.ai/jobs/info/69355e44764507023d1c03cc?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
