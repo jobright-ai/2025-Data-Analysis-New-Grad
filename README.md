@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orchestrate Consulting Group](www.orchestratecg.com)** | **[Research Assistant](https://jobright.ai/jobs/info/694f9260a2668b7f5452bbd6?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 27 |
+| **[Octopus AI](https://myoctopus.ai)** | **[Junior FP&A Analyst (Remote)](https://jobright.ai/jobs/info/694f822ece13cd105657ad4a?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, Texas Metropolitan Area | Remote | Dec 26 |
+| **[Comcast](https://corporate.comcast.com)** | **[Analyst, Data Analytics & Business Intelligence](https://jobright.ai/jobs/info/694f81a3a2668b7f5452b3f9?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Dec 26 |
 | **[Alimentiv](https://alimentiv.com/)** | **[Clinical Data Coordinator (Canada)](https://jobright.ai/jobs/info/694f6a58a2668b7f5452aa28?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 26 |
 | **[National Football League (NFL)](http://www.nfl.com)** | **[Seasonal Data Operations Coordinator](https://jobright.ai/jobs/info/694f43d5a2668b7f54527714?utm_campaign=Data%20Analysis&utm_source=1103)** | Inglewood, CA | On Site | Dec 26 |
 | **[Akkodis Group Nordics](http://www.datarespons.com/)** | **[Data Analyst](https://jobright.ai/jobs/info/694f2f44a2668b7f54526b23?utm_campaign=Data%20Analysis&utm_source=1103)** | Maple Grove, MN | Hybrid | Dec 26 |
@@ -70,8 +73,7 @@ For a complete list, click the following sortable link below:
 | **[BlackRock](http://www.blackrock.com)** | **[2026 Full-Time Analyst Program - AMERS](https://jobright.ai/jobs/info/68f80faab0edcf159dc8e36c?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 26 |
 | **[Tripleseat](https://tripleseat.com)** | **[Data & Insights Analyst](https://jobright.ai/jobs/info/693214314c474121999f6b13?utm_campaign=Data%20Analysis&utm_source=1103)** | Concord, MA | Hybrid | Dec 26 |
 | **[Ipsos in US](http://ipsos-na.com)** | **[Research Analyst, Innovation](https://jobright.ai/jobs/info/6932b9dd764507023d1b03f8?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Dec 26 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Provider Data Management Analyst I](https://jobright.ai/jobs/info/694e8dbca2668b7f5451f4b3?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 26 |
-| **[Ipsos in US](http://ipsos-na.com)** | **[Research Analyst, Innovation](https://jobright.ai/jobs/info/6932adcb764507023d1aff67?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Dec 26 |
+| ↳ | **[Research Analyst, Innovation](https://jobright.ai/jobs/info/6932adcb764507023d1aff67?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Dec 26 |
 | **[Oklahoma State University](https://go.okstate.edu/)** | **[Research Assistant](https://jobright.ai/jobs/info/68f931df6de2db04dc3e673d?utm_campaign=Data%20Analysis&utm_source=1103)** | Tulsa, OK | On Site | Dec 26 |
 | **[Connor, Clark & Lunn Investment Management (CC&L)](https://cclinvest.cclgroup.com)** | **[Quantitative Data Analyst, Investment Data](https://jobright.ai/jobs/info/69362098764507023d1c19ea?utm_campaign=Data%20Analysis&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Dec 26 |
 | **[SMX](https://www.smxtech.com)** | **[Data Analyst (4862)](https://jobright.ai/jobs/info/6932261ffa28370be26c28e1?utm_campaign=Data%20Analysis&utm_source=1103)** | Quantico, VA | On Site | Dec 26 |
